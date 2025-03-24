@@ -1,802 +1,1726 @@
 #EXTM3U
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" AVA 4K", AVA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14824
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NRT 1 4K", NRT 1 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18958
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURD SAT 4K", KURD SAT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14815
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDISTAN 24 4K", KURDISTAN 24 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14833
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RUDAW 4K", RUDAW 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/201940
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DLTA 4K TV", DLTA 4K TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41482
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RUDAW HD", RUDAW HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14828
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDISTAN TV 4K", KURDISTAN TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14832
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURD SAT NEWS 4K", KURD SAT NEWS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14814
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KNN 4K", KNN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/150357
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NRT 2 4K", NRT 2 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/27557
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NRT 2 SORANI 4K", NRT 2 SORANI 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18959
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NRT 4 4K", NRT 4 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14818
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDMAX 4K", KURDMAX 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14810
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDMAX SORANI 4K", KURDMAX SORANI 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18963
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDMAX SORANI HD", KURDMAX SORANI HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330180
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDMAX SHOW 4K SORANI", KURDMAX SHOW 4K SORANI
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18965
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDMAX SHOW HD SORANI", KURDMAX SHOW HD SORANI
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330182
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" CHANNEL 8 4K", CHANNEL 8 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/328366
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" CHANNEL 8 HD", CHANNEL 8 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/366322
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RENG 4K", RENG 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168589
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" HALABJA TV", HALABJA TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/238602
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZAGROS TV 4K", ZAGROS TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14825
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RONAHI TV", RONAHI TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14829
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ROJAVA TV", ROJAVA TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14821
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" CIRA TV", CIRA TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14807
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" STERK KURD 4K", STERK KURD 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14827
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" TRT KURDI 4K", TRT KURDI 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14826
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name=" SHAMIS 4K", SHAMIS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/369098
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MEDYA HABER", MEDYA HABER
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/367004
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MEDYA HABER HD", MEDYA HABER HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/367005
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" JIN TV", JIN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14834
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" AVAR TV", AVAR TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/305205
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SPEDA DRAMA 4K", SPEDA DRAMA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168550
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SPEDA HD", SPEDA HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14820
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BANGXWAZEN BADINAN TV", BANGXWAZEN BADINAN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/177386
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BANGAWAZ 4K", BANGAWAZ 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168500
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BANGAWAZ", BANGAWAZ
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14835
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" A TV 4K", A TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18988
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" WAAR TV 4K", WAAR TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/27559
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RADIO KURD CHANNEL", RADIO KURD CHANNEL
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/189312
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ARO FAMILY 4K", ARO FAMILY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168492
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ARO FAMILY", ARO FAMILY
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153849
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ARO DRAMA 4K", ARO DRAMA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168491
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" PAYAM 4K", PAYAM 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14830
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" IRAQIA KURD", IRAQIA KURD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18992
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZNAR 4K", ZNAR 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168560
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZNAR HD", ZNAR HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153838
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZAXO 4K", ZAXO 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168592
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" UTV 4K", UTV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168553
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" UTV KU HD", UTV KU HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41423
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" UTV 2 4K", UTV 2 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168554
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ALA 4K", ALA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168490
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name=" 4KURD", 4KURD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/236090
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DUHOK TV 4K", DUHOK TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168517
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BARIN FAMILY 4K", BARIN FAMILY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168567
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZOOM TV", ZOOM TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41407
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DELAL TV 4K", DELAL TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168511
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DELAL", DELAL
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/154115
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DASINYA 4K", DASINYA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168509
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" TURKMENELI 4K", TURKMENELI 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14813
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KRD WWE HD", KRD WWE HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/154374
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWMAX BOX OFFICE HD 1", NEWMAX BOX OFFICE HD 1
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41437
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ASTERA FAMILY 4K", ASTERA FAMILY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168495
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ASTERA SHOW 4K", ASTERA SHOW 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168496
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ASTERA CULTURE 4K", ASTERA CULTURE 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168493
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MMN HD NEWS", MMN HD NEWS
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41416
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MMN SHOW HD", MMN SHOW HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41413
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MMN RADIO TURKEY HD", MMN RADIO TURKEY HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41415
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MMN DRAMA", MMN DRAMA
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168561
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" LD FAMILY 4K", LD FAMILY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168528
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" LD NUJEN 4K", LD NUJEN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168529
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" LD NUJIN", LD NUJIN
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153824
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SLEMANI 4K", SLEMANI 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168549
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SPI HD", SPI HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/336188
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SHAR TV", SHAR TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/336189
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" IMK QURAN", IMK QURAN
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/336190
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" 11 ADARE", 11 ADARE
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/336191
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" GARYAN TV", GARYAN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/334361
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" WELAT HD", WELAT HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/358758
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE DRAMA", NEWLINE DRAMA
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/185188
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE BOLLYWOOD", NEWLINE BOLLYWOOD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/185189
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DERWAZA 4K", DERWAZA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168512
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DERWAZE TV", DERWAZE TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32872
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KALAPUR", KALAPUR
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/177381
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" PARWARDAI HAWLER", PARWARDAI HAWLER
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168580
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" XABIR 4K", XABIR 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41449
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KIRKUK TV", KIRKUK TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14811
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NIGA FAMILY HD", NIGA FAMILY HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32884
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" LD PSHDAR", LD PSHDAR
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330847
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RAVAND TV", RAVAND TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330848
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZAVAR TV", ZAVAR TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330849
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEXT TV", NEXT TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330850
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SAHAR TV", SAHAR TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/143960
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RASAN TV", RASAN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32889
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" GALI KURDISTAN TV", GALI KURDISTAN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14812
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ARYAN TV", ARYAN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14836
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" EURO KURD HD", EURO KURD HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41411
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ROZH HD", ROZH HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168488
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BINAR 4K", BINAR 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168503
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" CIHAN 4K", CIHAN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168505
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DIMEN 4K", DIMEN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168515
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KURDMAX PEPULA 4K", KURDMAX PEPULA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168526
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE 4K", NEWLINE 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168535
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE 2 4K", NEWLINE 2 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168536
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NIGA 4K", NIGA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168537
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" QALAT 4K", QALAT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168540
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RANYA 4K", RANYA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168541
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RASAN 4K", RASAN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168542
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ROZH 4K", ROZH 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168543
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SHAISTA 4K", SHAISTA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41419
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZHYAR 4K", ZHYAR 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168559
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" FOX", FOX
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168572
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" JAMAWAR TV", JAMAWAR TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168577
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" JAMAWAR", JAMAWAR
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168582
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" FIRST 4K", FIRST 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168591
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SADA", SADA
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168596
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BMC 4K", BMC 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41418
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" WWE", WWE
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41473
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KOMALA TV", KOMALA TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/154355
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" CIHAN TV", CIHAN TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32863
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ONE TV 4K", ONE TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168539
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ASTERA DOCUMENTARY 4K", ASTERA DOCUMENTARY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168494
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MMN HD DOCUMENTARY", MMN HD DOCUMENTARY
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/39558
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" RENG DOCUMENTARY 4K", RENG DOCUMENTARY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168588
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SIMA DOCUMENTARY 4K", SIMA DOCUMENTARY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168547
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" AKILI TV 4K", AKILI TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168489
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZED TV 4K", ZED TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168557
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ZED PLUS 4K", ZED PLUS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168558
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NOOR 4K", NOOR 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168538
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NOOR HD", NOOR HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168575
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ASMAN 4K", ASMAN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168586
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" ASMAN HD", ASMAN HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32852
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" DANGE QURAN", DANGE QURAN
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153829
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BARIN QURAN 4K", BARIN QURAN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168566
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BASK 4K", BASK 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168501
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MIHRAB", MIHRAB
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153839
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MIHRAB TV 4K", MIHRAB TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168532
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" AMOZHGARY TV", AMOZHGARY TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14817
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" A.AMOZHGARY", A.AMOZHGARY
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168579
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" TASAWF", TASAWF
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153841
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NISHTIMANY MN", NISHTIMANY MN
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32887
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BAHA ENTERTAINMENT 4K", BAHA ENTERTAINMENT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168499
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KOMAL RANYA 4K", KOMAL RANYA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168525
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MINARA 4K", MINARA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168533
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KANI TV 4K", KANI TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168523
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" JUDI TV 4K", JUDI TV 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168522
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" SRUSHT 4K", SRUSHT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168551
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BAHA ENTERTAINMENT HD", BAHA ENTERTAINMENT HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168574
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" TASAWF 4K", TASAWF 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168585
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NISHTMANY MN 4K", NISHTMANY MN 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168587
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MINARA TV", MINARA TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41420
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" U2 TV", U2 TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41424
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NUBAR", NUBAR
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41486
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KOMAL 4K", KOMAL 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168524
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein1.png" tvg-id="" tvg-name=" BEIN SPORTS 1 SD", BEIN SPORTS 1 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262675
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein2.png" tvg-id="" tvg-name=" BEIN SPORTS 2 SD", BEIN SPORTS 2 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262676
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein3.png" tvg-id="" tvg-name=" BEIN SPORTS 3 SD", BEIN SPORTS 3 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262678
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein4.png" tvg-id="" tvg-name=" BEIN SPORTS 4 SD", BEIN SPORTS 4 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262679
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein5.png" tvg-id="" tvg-name=" BEIN SPORTS 5 SD", BEIN SPORTS 5 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262680
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" tvg-id="" tvg-name=" BEIN SPORTS 6 SD", BEIN SPORTS 6 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262681
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" tvg-id="" tvg-name=" BEIN SPORTS 7 SD", BEIN SPORTS 7 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262682
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="" tvg-id="" tvg-name=" BEIN SPORTS 8 SD", BEIN SPORTS 8 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262683
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="" tvg-id="" tvg-name=" BEIN SPORTS 9 SD", BEIN SPORTS 9 SD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262684
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein1.png" tvg-id="" tvg-name=" BEIN SPORTS 1 HD", BEIN SPORTS 1 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262698
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein2.png" tvg-id="" tvg-name=" BEIN SPORTS 2 HD", BEIN SPORTS 2 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262699
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein3.png" tvg-id="" tvg-name=" BEIN SPORTS 3 HD", BEIN SPORTS 3 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262701
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein4.png" tvg-id="" tvg-name=" BEIN SPORTS 4 HD", BEIN SPORTS 4 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262702
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein5.png" tvg-id="" tvg-name=" BEIN SPORTS 5 HD", BEIN SPORTS 5 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262703
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" tvg-id="" tvg-name=" BEIN SPORTS 6 HD", BEIN SPORTS 6 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262704
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" tvg-id="" tvg-name=" BEIN SPORTS 7 HD", BEIN SPORTS 7 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262705
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="" tvg-id="" tvg-name=" BEIN SPORTS 8 HD", BEIN SPORTS 8 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262706
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="" tvg-id="" tvg-name=" BEIN SPORTS 9 HD", BEIN SPORTS 9 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262707
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein1.png" tvg-id="" tvg-name=" BEIN SPORTS 1 4K", BEIN SPORTS 1 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262721
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein2.png" tvg-id="" tvg-name=" BEIN SPORTS 2 4K", BEIN SPORTS 2 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262722
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein3.png" tvg-id="" tvg-name=" BEIN SPORTS 3 4K", BEIN SPORTS 3 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262724
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein4.png" tvg-id="" tvg-name=" BEIN SPORTS 4 4K", BEIN SPORTS 4 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262725
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein5.png" tvg-id="" tvg-name=" BEIN SPORTS 5 4K", BEIN SPORTS 5 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262726
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" tvg-id="" tvg-name=" BEIN SPORTS 6 4K", BEIN SPORTS 6 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262727
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" tvg-id="" tvg-name=" BEIN SPORTS 7 4K", BEIN SPORTS 7 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262728
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="" tvg-id="" tvg-name=" BEIN SPORTS 8 4K", BEIN SPORTS 8 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262729
-#EXTGRP:Bein Sport
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="" tvg-id="" tvg-name=" BEIN SPORTS 9 4K", BEIN SPORTS 9 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/262730
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" AVA SPORT 4K", AVA SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/330034
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" SEE SPORT 1 4K", SEE SPORT 1 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168668
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" DASINYA SPORT 4K", DASINYA SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168664
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" DASINYA SPORT", DASINYA SPORT
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41430
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" ASO SPORT 4K", ASO SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168662
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" ASO SPORT", ASO SPORT
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32853
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" ASTERA SPORT 4K", ASTERA SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168663
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" DUHOK SPORT 4K", DUHOK SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168665
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" KURDISTAN SPORT 4K", KURDISTAN SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168675
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" ARO SPORT 4K", ARO SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168661
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" 4SPORT", 4SPORT
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168672
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" 4SPORT 4K", 4SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168660
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" NRT SPORT 4K", NRT SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168667
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" LD SPORT 4K", LD SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168666
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" LD SPORT", LD SPORT
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153834
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_spo.png" tvg-id="" tvg-name=" SIMA SPORT 4K", SIMA SPORT 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168671
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE SPORT", NEWLINE SPORT
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/185192
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" BAXCHA AFARIN", BAXCHA AFARIN
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/208588
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" KIDCO HD", KIDCO HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/305202
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE KIDS", NEWLINE KIDS
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/185190
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" ZAROK TV", ZAROK TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18995
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" ZAROK SORANI", ZAROK SORANI
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41502
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" 4ANIME 4K", 4ANIME 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168678
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" ARO KIDS 4K", ARO KIDS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168681
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" ARO KIDS", ARO KIDS
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153850
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" JOJO MAMA", JOJO MAMA
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32873
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" SHAKROK TV", SHAKROK TV
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41490
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" AFARIN KIDS 4K", AFARIN KIDS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168680
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" AFARIN KIDS HD", AFARIN KIDS HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41444
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" KURDMAX PEPULA", KURDMAX PEPULA
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153842
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" LD ANIME", LD ANIME
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168686
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" HELHELOK 4K", HELHELOK 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41485
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" JOJO MAMA 4K", JOJO MAMA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168521
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" NRT 3 KIDS", NRT 3 KIDS
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/14816
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" NIGA KIDS HD", NIGA KIDS HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32885
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" ASTERA BABY 4K", ASTERA BABY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168682
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" DASINYA KIDS 4K", DASINYA KIDS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168683
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://p.apkdt.co/pic/country/ku_kids.png" tvg-id="" tvg-name=" NIGA KIDS 4K", NIGA KIDS 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168684
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" ANEMAL PLANET 4K", ANEMAL PLANET 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/327622
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" ANEMAL PLANET HD", ANEMAL PLANET HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/327623
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="" tvg-id="" tvg-name=" NATURE TIME 4K", NATURE TIME 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/305131
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="" tvg-id="" tvg-name=" NATURE TIME HD", NATURE TIME HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/305132
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" AD NAT GEO 4K", AD NAT GEO 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/22227
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" AD NAT GEO HD", AD NAT GEO HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/22223
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" CGTN ARABIC HD", CGTN ARABIC HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168131
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" Al JAZEERA DOCUMENTARY 4K", Al JAZEERA DOCUMENTARY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/18817
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" Al JAZEERA DOCUMENTARY HD", Al JAZEERA DOCUMENTARY HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/131473
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" H2 HD", H2 HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41315
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" HISTORY HD", HISTORY HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41314
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DISCOVERY 4K", DISCOVERY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/345724
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DISCOVERY HD", DISCOVERY HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/22224
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DISCOVERY ID HD", DISCOVERY ID HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41313
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" AL WATHAEQYA 4K", AL WATHAEQYA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/220951
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/other/mbcgeo.png" tvg-id="" tvg-name=" MBC GEOGRAPHIC 1 4K", MBC GEOGRAPHIC 1 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/181226
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" ASHARQ DISCOVERY 4K", ASHARQ DISCOVERY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/266702
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" ASHARQ DOCUMENTARY 4K", ASHARQ DOCUMENTARY 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/266601
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" CRIME+ INVESTIGATION HD", CRIME+ INVESTIGATION HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/41312
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="" tvg-id="" tvg-name=" ALTHAKAFIYA 4K", ALTHAKAFIYA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/305133
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="" tvg-id="" tvg-name=" ALTHAKAFIYA HD", ALTHAKAFIYA HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/305134
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" NHK WORLD JAPAN HD", NHK WORLD JAPAN HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168132
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DLTA DOCUMENTARY 1 4K", DLTA DOCUMENTARY 1 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/35410
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DLTA DOCUMENTARY 2 4K", DLTA DOCUMENTARY 2 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/35409
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DLTA DOCUMENTARY 3 4K", DLTA DOCUMENTARY 3 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/35408
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DLTA DOCUMENTARY 4 4K", DLTA DOCUMENTARY 4 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/35407
-#EXTGRP:AR❖ DOCUMENTARY TV
-#EXTINF:-1 group-title="AR❖ DOCUMENTARY TV" tvg-logo="http://p.apkdt.co/pic/country/doc_tv.png" tvg-id="" tvg-name=" DLTA DOCUMENTARY 5 4K", DLTA DOCUMENTARY 5 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/35406
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" NEWLINE MOVIES", NEWLINE MOVIES
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/185191
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MMN ACTION", MMN ACTION
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168564
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_tv.png" tvg-id="" tvg-name=" MNN ACTION", MNN ACTION
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168563
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" MMN MOVIES", MMN MOVIES
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/39554
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" ASTERA MOVIES 4K", ASTERA MOVIES 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168693
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 1 4K", DLTA BOX FLIX 1 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162280
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 2 4K", DLTA BOX FLIX 2 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162279
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 3 4K", DLTA BOX FLIX 3 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162278
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 4 4K", DLTA BOX FLIX 4 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162277
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 5 4K", DLTA BOX FLIX 5 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162276
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 6 4K", DLTA BOX FLIX 6 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162275
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 7 4K", DLTA BOX FLIX 7 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162274
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 8 4K", DLTA BOX FLIX 8 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162273
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 9 4K", DLTA BOX FLIX 9 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162272
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" DLTA BOX FLIX 10 4K", DLTA BOX FLIX 10 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/162271
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" KURDCINEMA 4K", KURDCINEMA 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168694
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" NIGA MOVIES HD", NIGA MOVIES HD
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/32886
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" NIGA MOVIES 4K", NIGA MOVIES 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168689
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" LD KURDCINEMA", LD KURDCINEMA
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/153823
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://p.apkdt.co/pic/country/ku_film.png" tvg-id="" tvg-name=" BARIN MOVIES 4K", BARIN MOVIES 4K
-http://dksip.com:80/Nor199201087/gEjbpq5O0b/168691
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ask TV",Ask TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/607803
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Pomo HD",Pomo HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/607804
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Duhok TV HD", Duhok TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/607499
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bangxwazen Badinan HD", Bangxwazen Badinan HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601571
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Kurdana 4K TV", Kurdana 4K TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601567
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zaxo 4K", Zaxo 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601568
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Kurdmax Music 4K", Kurdmax Music 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601569
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Raman 4K", Raman 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601570
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Family Raparin HD", Family Raparin HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601443
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Lalav Group TV", Lalav Group TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601444
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zed HD", Zed HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601445
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zed+ HD", Zed+ HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601446
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Niga Family HD", Niga Family HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601447
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Family HD", Reng Family HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601448
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NewLine 1 HD", NewLine 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601449
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NewLine 2 HD", NewLine 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601450
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Family HD", Astera Family HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601451
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Rasan HD", Rasan HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601452
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" BMC HD", BMC HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601453
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Khak HD", Khak HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601454
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Dasinya HD", Dasinya HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601455
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Baha HD", Baha HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601456
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Duhok TV", Duhok TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601457
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bangxwazen Badinan", Bangxwazen Badinan
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601458
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Minara HD", Minara HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601459
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Qellat HD", Qellat HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601460
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Esta HD", Esta HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601461
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Befrin TV", Befrin TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601462
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Halabja HD", Halabja HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601463
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Hormzyar HD", Hormzyar HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601464
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Arifan Doc", Arifan Doc
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601465
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Barin FHD", Barin FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601466
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Euro Kurd TV", Euro Kurd TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601467
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" KMP", KMP
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601468
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" K21", K21
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601469
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Nubar TV", Nubar TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601470
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zever TV", Zever TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601471
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Azadi Sport TV", Azadi Sport TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601472
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Mahabad HD", Mahabad HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601473
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN News HD", MMN News HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601474
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Arifan Sunnah", Arifan Sunnah
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601475
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Show HD", MMN Show HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601476
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bnar HD", Bnar HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601477
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Derin HD", Derin HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601478
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Documentary HD", Astera Documentary HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601479
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Culture HD", Astera Culture HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601480
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Documentary HD", Reng Documentary HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601481
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Documentary HD", MMN Documentary HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601482
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" One World HD", One World HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601483
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Music HD", Reng Music HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601484
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" 4 KURD TV", 4 KURD TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601485
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Clip HD", MMN Clip HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601486
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Classic Musical HD", MMN Classic Musical HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601487
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Dange Zalal TV", Dange Zalal TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601488
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Afarin HD", Afarin HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601489
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Afarin Baxcha HD", Afarin Baxcha HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601490
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Baby HD", Astera Baby HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601491
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Kids HD", Reng Kids HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601492
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Niga Kids HD", Niga Kids HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601493
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Kids HD", MMN Kids HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601494
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NR 1 TV", NR 1 TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601495
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Evin TV", Evin TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601496
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Spi Quran", Spi Quran
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601497
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Radio Afarin", Radio Afarin
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601498
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Sada TV", Sada TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601499
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Ravand HD", Ravand HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601500
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bask HD", Bask HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601501
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Quran HD", MMN Quran HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601502
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" SHAR TV", SHAR TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601503
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Spi TV", Spi TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601504
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Imk TV", Imk TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601505
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Ishtar TV", Ishtar TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601506
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Judy HD", Judy HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601507
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" UTV HD", UTV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601508
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Srusht  HD", Srusht  HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601509
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Mihrab TV", Mihrab TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601510
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Mihrab FM", Mihrab FM
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601511
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Asman HD", Asman HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601512
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Movies HD", Astera Movies HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601513
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Show HD", Astera Show HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601514
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Niga Movies HD", Niga Movies HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601515
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Speda Drama HD", Speda Drama HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601516
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Nuber Plus", Nuber Plus
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601517
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Movies HD", MMN Movies HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601518
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Animal box", Animal box
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601519
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Drama HD", MMN Drama HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601520
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Action HD", MMN Action HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601521
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bnar Movies HD", Bnar Movies HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601522
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Barin Quran HD", Barin Quran HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601523
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Shna TV", Shna TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601524
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Walla TV HD", Walla TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601525
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Barin Movies FHD", Barin Movies FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601526
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Soran Entertainment HD", Soran Entertainment HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601527
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 1 HD",KurdCinema Action 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601528
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 3 HD",KurdCinema Action 3 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601529
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 4 HD",KurdCinema Action 4 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601530
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 6 HD",KurdCinema Action 6 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601531
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 7 HD",KurdCinema Action 7 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601532
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 10 HD",KurdCinema Action 10 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601533
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 11 HD",KurdCinema Action 11 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601534
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 12 HD",KurdCinema Action 12 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601535
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 9 HD",KurdCinema Action 9 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601536
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 8 HD",KurdCinema Action 8 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601537
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 5 HD",KurdCinema Action 5 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601538
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 2 HD",KurdCinema Action 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601539
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 1 HD",KurdCinema Animation 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601540
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 2 HD",KurdCinema Animation 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601541
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 4 HD",KurdCinema Animation 4 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601542
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 3 HD",KurdCinema Animation 3 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601543
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 5 HD",KurdCinema Animation 5 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601544
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 6 HD",KurdCinema Animation 6 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601545
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 7 HD",KurdCinema Animation 7 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601546
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 8 HD",KurdCinema Animation 8 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601547
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 2 HD",KurdCinema Biography 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601548
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 4 HD",KurdCinema Biography 4 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601549
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 5 HD",KurdCinema Biography 5 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601550
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 6 HD",KurdCinema Biography 6 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601551
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 7 HD",KurdCinema Biography 7 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601552
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 8 HD",KurdCinema Biography 8 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601553
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 3 HD",KurdCinema Biography 3 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601554
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 1 HD",KurdCinema Biography 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601555
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 1 HD",KurdCinema Comedy 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601556
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 2 HD",KurdCinema Comedy 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601557
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 4 HD",KurdCinema Comedy 4 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601558
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 5 HD",KurdCinema Comedy 5 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601559
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 6 HD",KurdCinema Comedy 6 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601560
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 7 HD",KurdCinema Comedy 7 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601561
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 8 HD",KurdCinema Comedy 8 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601562
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 9 HD",KurdCinema Comedy 9 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601563
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 10 HD",KurdCinema Comedy 10 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601564
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 3 HD",KurdCinema Comedy 3 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601565
+#EXTGRP:KURDI LOCAL - كردي ▶
+#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Sport 1 HD",KurdCinema Sport 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601566
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Rudaw HD",Ku: Rudaw HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601403
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: K24 HD",Ku: K24 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601404
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Channel 8 HD",Ku: Channel 8 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601405
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 1 HD",Ku: NRT 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601406
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 2 HD",Ku: NRT 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601407
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurdsat TV HD",Ku: Kurdsat TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601408
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurdsat News HD",Ku: Kurdsat News HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601409
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KNN HD",Ku: KNN HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601410
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurdistan TV HD",Ku: Kurdistan TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601411
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Gali Kurdistan TV",Ku: Gali Kurdistan TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601412
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kirkuk TV",Ku: Kirkuk TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601413
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Zagros HD",Ku: Zagros HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601414
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Payam TV",Ku: Payam TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601415
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Speda HD",Ku: Speda HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601416
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Amozhgary TV HD",Ku: Amozhgary TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601417
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Bangawaz TV",Ku: Bangawaz TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601418
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 4 HD",Ku: NRT 4 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601419
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Sorani HD",Ku: KurdMax Sorani HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601420
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Kurmanji HD",Ku: KurdMax Kurmanji HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601421
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Show HD Sorani",Ku: KurdMax Show HD Sorani
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601422
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Show Kurmanji HD",Ku: KurdMax Show Kurmanji HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601423
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: AVA HD",Ku: AVA HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601424
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Zoom HD",Ku: Zoom HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601425
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 3 Kids HD",Ku: NRT 3 Kids HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601426
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Zarok TV",Ku: Zarok TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601427
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: TRT Kurdi",Ku: TRT Kurdi
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601428
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Iraqia Kurdish TV",Ku: Iraqia Kurdish TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601429
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Sahar Kurdi TV",Ku: Sahar Kurdi TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601430
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Med Music TV",Ku: Med Music TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601431
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Waar TV HD",Ku: Waar TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601432
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: A TV HD",Ku: A TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601433
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Sterk TV",Ku: Sterk TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601434
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Aryen TV",Ku: Aryen TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601435
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Ronahi TV",Ku: Ronahi TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601436
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Cira TV",Ku: Cira TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601437
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Rojava HD",Ku: Rojava HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601438
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Jin HD",Ku: Jin HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601439
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Neu TV",Ku: Neu TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601440
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurd Channel HD",Ku: Kurd Channel HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601441
+#EXTGRP:KURDI - كردي ▶
+#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Komala TV",Ku: Komala TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601442
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ANIMAL PLANT 4K",UK: ANIMAL PLANT 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232660
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ANIMAL PLANET HD",UK: ANIMAL PLANET HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232661
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ANIMAL PLANET",UK: ANIMAL PLANET
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232662
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO FHD",UK: NAT GEO FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232663
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO HD",UK: NAT GEO HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232664
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO 4K",UK: NAT GEO 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232665
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO WILD HD",UK: NAT GEO WILD HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232666
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO WILD 4K",UK: NAT GEO WILD 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232667
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY CHANNEL HD",UK: DISCOVERY CHANNEL HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232668
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY HD",UK: DISCOVERY HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232669
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY 4K",UK: DISCOVERY 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232670
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY",UK: DISCOVERY
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232671
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY SCIENCE",UK: DISCOVERY SCIENCE
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232672
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY HISTORY",UK: DISCOVERY HISTORY
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232673
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY TURBO",UK: DISCOVERY TURBO
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232674
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY SHED",UK: DISCOVERY SHED
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232675
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HISTORY 4K",UK: HISTORY 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232676
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HISTORY HD",UK: HISTORY HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232677
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HISTORY 2 HD",UK: HISTORY 2 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232678
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: D MAX HD",UK: D MAX HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232679
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DMAX",UK: DMAX
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232680
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HGTV",UK: HGTV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232681
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ID",UK: ID
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232682
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ID +1",UK: ID +1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232683
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: QUEST FHD",UK: QUEST FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232684
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: TLC HD",UK: TLC HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232685
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: H&C TV",UK: H&C TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232686
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: INVESTIGATION DISCOVERY",UK: INVESTIGATION DISCOVERY
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232687
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: FOOD NETWORK",UK: FOOD NETWORK
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232688
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: QUEST RED",UK: QUEST RED
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232689
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAUTICAL CHANNEL",UK: NAUTICAL CHANNEL
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232690
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: LOVE NATURE 4K",UK: LOVE NATURE 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232691
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery Channel",VIP UK: Discovery Channel
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232641
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery History",VIP UK: Discovery History
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232642
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery Science",VIP UK: Discovery Science
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232643
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery Turbo",VIP UK: Discovery Turbo
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232644
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: DMAX",VIP UK: DMAX
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232645
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Animal Planet",VIP UK: Animal Planet
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232646
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Food Network",VIP UK: Food Network
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232647
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: HGTV",VIP UK: HGTV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232648
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: ID",VIP UK: ID
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232649
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Quest",VIP UK: Quest
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232650
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Quest Red",VIP UK: Quest Red
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232651
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Really",VIP UK: Really
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232652
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TLC",VIP UK: TLC
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232653
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 1",VIP UK: TNT Sports 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232654
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 2",VIP UK: TNT Sports 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232655
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 3",VIP UK: TNT Sports 3
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232656
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 4",VIP UK: TNT Sports 4
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232657
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: EUROSPORT 1",VIP UK: EUROSPORT 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232658
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: EUROSPORT 2",VIP UK: EUROSPORT 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232659
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/animalplanet.png" tvg-id="" tvg-name="UK-Animal Planet +1 SD*",UK-Animal Planet +1 SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191748
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/animalplanethd.png" tvg-id="" tvg-name="UK-Animal Planet FHD*",UK-Animal Planet FHD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191747
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/crimeandinvestigationhd.png" tvg-id="" tvg-name="UK-Crime & Investigation FHD*",UK-Crime & Investigation FHD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191749
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/crimeandinvestigation.png" tvg-id="" tvg-name="UK-Crime & Investigation SD*",UK-Crime & Investigation SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191750
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoverychanplus1.png" tvg-id="" tvg-name="UK-Discovery +1 SD*",UK-Discovery +1 SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191738
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryhd.png" tvg-id="" tvg-name="UK-Discovery FHD",UK-Discovery FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191736
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryhistory.png" tvg-id="" tvg-name="UK-Discovery History SD*",UK-Discovery History SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191743
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryscience.png" tvg-id="" tvg-name="UK-Discovery Science SD",UK-Discovery Science SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191753
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoverychannel.png" tvg-id="" tvg-name="UK-Discovery SD*",UK-Discovery SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191737
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryturbo.png" tvg-id="" tvg-name="UK-Discovery Turbo SD*",UK-Discovery Turbo SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191755
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryturbo.png" tvg-id="" tvg-name="UK-DMAX +1 SD*",UK-DMAX +1 SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191754
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/edenhd.png" tvg-id="" tvg-name="UK-Eden FHD",UK-Eden FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191756
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/eden.png" tvg-id="" tvg-name="UK-Eden SD* +1",UK-Eden SD* +1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191757
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/foodnetwork.png" tvg-id="" tvg-name="UK-Food XP SD*",UK-Food XP SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191762
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/HGTV.png" tvg-id="" tvg-name="UK-HGTV SD*",UK-HGTV SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191761
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/idplus1.png" tvg-id="" tvg-name="UK-ID +1 SD*",UK-ID +1 SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191745
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/id.png" tvg-id="" tvg-name="UK-Investigation Discovery SD*",UK-Investigation Discovery SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191744
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/nationalgeographichd.png" tvg-id="" tvg-name="UK-Nat Geo FHD",UK-Nat Geo FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191739
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/nationalgeographic.png" tvg-id="" tvg-name="UK-Nat Geo SD",UK-Nat Geo SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191740
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/natgeowildhd.png" tvg-id="" tvg-name="UK-Nat Geo Wild FHD",UK-Nat Geo Wild FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191751
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/natgeowild.png" tvg-id="" tvg-name="UK-Nat Geo Wild SD",UK-Nat Geo Wild SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191752
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SkyDocumentaries.jpg" tvg-id="" tvg-name="UK-Sky Documentaries FHD",UK-Sky Documentaries FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191742
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/h2hd.png" tvg-id="" tvg-name="UK-Sky History 2 FHD",UK-Sky History 2 FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191758
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/historyhd.png" tvg-id="" tvg-name="UK-Sky History FHD",UK-Sky History FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191759
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/history.png" tvg-id="" tvg-name="UK-Sky History SD",UK-Sky History SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191760
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SkyNature-1.jpg" tvg-id="" tvg-name="UK-Sky Nature FHD",UK-Sky Nature FHD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191741
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/travelchannel.png" tvg-id="" tvg-name="UK-Travel XP SD*",UK-Travel XP SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191763
+#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
+#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/yesterday.png" tvg-id="" tvg-name="UK-Yesterday SD*",UK-Yesterday SD*
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191746
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 1 (G) - 4K",beIN SPORTS 1 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555829
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/Tjod7Ne.png" tvg-id="" tvg-name="beIN SPORTS 1 (N) - 4K",beIN SPORTS 1 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/390
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 (F) - 4K",beIN SPORTS 1 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554433
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 2 (G) - 4K",beIN SPORTS 2 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555830
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/ivsSaFi.png" tvg-id="" tvg-name="beIN SPORTS 2 (N) - 4K",beIN SPORTS 2 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/391
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 (F) - 4K",beIN SPORTS 2 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554434
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 3 (G) - 4K",beIN SPORTS 3 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555831
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/bNC0HFT.png" tvg-id="" tvg-name="beIN SPORTS 3 (N) - 4K",beIN SPORTS 3 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/392
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 (F) - 4K",beIN SPORTS 3 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554435
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 4 (G) - 4K",beIN SPORTS 4 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555832
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/VJLlcjz.png" tvg-id="" tvg-name="beIN SPORTS 4 (N) - 4K",beIN SPORTS 4 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/393
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 4 (F) - 4K",beIN SPORTS 4 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554436
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 5 (G) - 4K",beIN SPORTS 5 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555833
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/zFU08hy.png" tvg-id="" tvg-name="beIN SPORTS 5 (N) - 4K",beIN SPORTS 5 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/394
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 5 (F) - 4K",beIN SPORTS 5 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554437
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 6 (G) - 4K",beIN SPORTS 6 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555834
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/tz4FIx4.png" tvg-id="" tvg-name="beIN SPORTS 6 (N) - 4K",beIN SPORTS 6 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/395
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 6 (F) - 4K",beIN SPORTS 6 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554438
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 7 (G) - 4K",beIN SPORTS 7 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555835
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/ivBHtof.png" tvg-id="" tvg-name="beIN SPORTS 7 (N) - 4K",beIN SPORTS 7 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/396
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 7 (F) - 4K",beIN SPORTS 7 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554439
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 8 (G) - 4K",beIN SPORTS 8 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555836
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/gfweWXV.png" tvg-id="" tvg-name="beIN SPORTS 8 (N) - 4K",beIN SPORTS 8 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/397
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 8 (F) - 4K",beIN SPORTS 8 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554440
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 9 (G) - 4K",beIN SPORTS 9 (G) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555837
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/yvSZQkr.png" tvg-id="" tvg-name="beIN SPORTS 9 (N) - 4K",beIN SPORTS 9 (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/398
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 9 (F) - 4K",beIN SPORTS 9 (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554441
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 ENG (F) - 4K",beIN SPORTS 1 ENG (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554442
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 ENG (F) - 4K",beIN SPORTS 2 ENG (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554443
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/MmvlkVs.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (N) - 4K",beIN SPORTS 1 XTRA (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/400
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (F) - 4K",beIN SPORTS 1 XTRA (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554444
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/V6Wy6n9.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (N) - 4K",beIN SPORTS 2 XTRA (N) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/401
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (F) - 4K",beIN SPORTS 2 XTRA (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554445
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 XTRA (F) - 4K",beIN SPORTS 3 XTRA (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554446
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 FRANCE (F) - 4K",beIN SPORTS 1 FRANCE (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554447
+#EXTGRP:BEIN 4K - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 FRANCE (F) - 4K",beIN SPORTS 2 FRANCE (F) - 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554448
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Duhok Sports 4K", Duhok Sports 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/602828
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" AVA Sport HD", AVA Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601394
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" 4Sport HD", 4Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601395
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NRT Sport HD", NRT Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601396
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Sport HD", Reng Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601397
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Kurdistan Sport HD", Kurdistan Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601398
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" ASO Sport HD", ASO Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601399
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Nubar Sport HD", Nubar Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601400
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Motor 1 HD", Motor 1 HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601401
+#EXTGRP:KURDI SPORTS - رياضة كردي ▶
+#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Sport HD", MMN Sport HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601402
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/txLvrKf.png" tvg-id="" tvg-name="beIN SPORTS (F) - HD",beIN SPORTS (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/370
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS (A) - HD",beIN SPORTS (A) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554466
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/ki7Ipeg.png" tvg-id="" tvg-name="beIN SPORTS NEWS (F) - HD",beIN SPORTS NEWS (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/371
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS NEWS (A) - HD",beIN SPORTS NEWS (A) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554465
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 1 (G) - HD",beIN SPORTS 1 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555847
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/0WEicB2.png" tvg-id="" tvg-name="beIN SPORTS 1 (N) - HD",beIN SPORTS 1 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/372
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 (F) - HD",beIN SPORTS 1 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554417
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 2 (G) - HD",beIN SPORTS 2 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555848
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/C6GtxxV.png" tvg-id="" tvg-name="beIN SPORTS 2 (N) - HD",beIN SPORTS 2 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/373
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 (F) - HD",beIN SPORTS 2 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554418
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 3 (G) - HD",beIN SPORTS 3 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555849
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/GWKeGIn.png" tvg-id="" tvg-name="beIN SPORTS 3 (N) - HD",beIN SPORTS 3 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/374
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 (F) - HD",beIN SPORTS 3 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554419
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 4 (G) - HD",beIN SPORTS 4 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555850
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/MfzUgBB.png" tvg-id="" tvg-name="beIN SPORTS 4 (N) - HD",beIN SPORTS 4 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/375
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 4 (F) - HD",beIN SPORTS 4 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554420
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 5 (G) - HD",beIN SPORTS 5 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555851
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/0ER7fh8.png" tvg-id="" tvg-name="beIN SPORTS 5 (N) - HD",beIN SPORTS 5 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/376
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 5 (F) - HD",beIN SPORTS 5 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554421
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 6 (G) - HD",beIN SPORTS 6 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555852
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/yuuHNpO.png" tvg-id="" tvg-name="beIN SPORTS 6 (N) - HD",beIN SPORTS 6 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/377
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 6 (F) - HD",beIN SPORTS 6 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554422
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 7 (G) - HD",beIN SPORTS 7 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555853
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/Ts0McYT.png" tvg-id="" tvg-name="beIN SPORTS 7 (N) - HD",beIN SPORTS 7 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/378
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 7 (F) - HD",beIN SPORTS 7 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554423
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 8 (G) - HD",beIN SPORTS 8 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555854
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/8Hiq6Cx.png" tvg-id="" tvg-name="beIN SPORTS 8 (N) - HD",beIN SPORTS 8 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/379
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 8 (F) - HD",beIN SPORTS 8 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554424
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVporuUbX7gdhTHQFAGRj4p1Z6-I4C2QVfnCO8QDnCIvgF-rUnUpvSwebFXohlcHq_azAj57oS6XFpMRAvtN6z4-WMbKKs8xevEDMghdsFH-LEhiM07OKqMrfJarZiWrIwHLL3i4tUunJ/s1600/b.png" tvg-id="" tvg-name="beIN SPORTS 9 (G) - HD",beIN SPORTS 9 (G) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555855
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/cMMQtty.png" tvg-id="" tvg-name="beIN SPORTS 9 (N) - HD",beIN SPORTS 9 (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/380
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 9 (F) - HD",beIN SPORTS 9 (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554425
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/QLLOhrT.png" tvg-id="" tvg-name="beIN SPORTS 1 ENG (N) - HD",beIN SPORTS 1 ENG (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/387
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 ENG (F) - HD",beIN SPORTS 1 ENG (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554426
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 ENG (F) - HD",beIN SPORTS 2 ENG (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554427
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/halgJHE.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (N) - HD",beIN SPORTS 1 XTRA (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/382
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (F) - HD",beIN SPORTS 1 XTRA (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554428
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/CbxrNXI.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (N) - HD",beIN SPORTS 2 XTRA (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/389
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (F) - HD",beIN SPORTS 2 XTRA (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554429
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 XTRA (F) - HD",beIN SPORTS 3 XTRA (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554430
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 FRANCE (F) - HD",beIN SPORTS 1 FRANCE (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554431
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/0pqf6Uj.png" tvg-id="" tvg-name="beIN SPORTS 1 FRANCE (N) - HD",beIN SPORTS 1 FRANCE (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/385
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 FRANCE (F) - HD",beIN SPORTS 2 FRANCE (F) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554432
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/8MlrCXs.png" tvg-id="" tvg-name="beIN SPORTS 2 FRANCE (N) - HD",beIN SPORTS 2 FRANCE (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/386
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/9w3EDVL.png" tvg-id="" tvg-name="beIN SPORTS AFC (N) - HD",beIN SPORTS AFC (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/384
+#EXTGRP:BEIN HD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/oohH6mV.png" tvg-id="" tvg-name="beIN SPORTS NBA (N) - HD",beIN SPORTS NBA (N) - HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/388
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiscJm_tJtieQXHibIDYFJfd0NscgJZw953fmK8Z0dNebDRhBNSHJ0u8toRHkwXMMmWK95GoNuONhvWqjOlnigdvKghVapPpSlYETWEHXIiJRbk6R4336Q9sEox6vbyG4QT-wIXjWkZ17d8/s320/SD-1.png" tvg-id="" tvg-name="beIN SPORTS 1 (G) - SD",beIN SPORTS 1 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555856
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/9HHGHgx.png" tvg-id="" tvg-name="beIN SPORTS 1 (N) - SD",beIN SPORTS 1 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/354
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 (F) - SD",beIN SPORTS 1 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554449
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLV2SkxLhBIPhZsMWzjoloVi0co_zlR0B5gqz9P81UqhpnJlMOUwckhqh8wDS3gScPWZuv19bb4t42A_l_1IE-VJJDpDD7c5CmIwBM0f-lTdgbFGROXdp8vTF1vjTQceVTwL6vnA7bKNld/s320/SD-2.png" tvg-id="" tvg-name="beIN SPORTS 2 (G) - SD",beIN SPORTS 2 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555857
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/K7u1Aa9.png" tvg-id="" tvg-name="beIN SPORTS 2 (N) - SD",beIN SPORTS 2 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/355
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 (F) - SD",beIN SPORTS 2 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554450
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaY3KjHFHjaPFRfqOcZI2buOhjZEzHag7ZCqIsTgOJvf9MjFTN-_EtEGT6T-IuOK1sC5kY0Wk_s5YZ7mmh7CT2YyegFLD-3NAO4mIHNJIf6PCHkemlj4a7wrslLf9abaC5kFy1I90BdB2/s320/SD-3.png" tvg-id="" tvg-name="beIN SPORTS 3 (G) - SD",beIN SPORTS 3 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555858
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/uG6eedv.png" tvg-id="" tvg-name="beIN SPORTS 3 (N) - SD",beIN SPORTS 3 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/356
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 (F) - SD",beIN SPORTS 3 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554451
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhniqCinmucUxK1H0tA-MQHQe38ToobgY3fUXVtw0LEC0CLX0B25TG7ZBiwTIbhlSrSeVmS8-4KvBX-PrbCTIFSMxK1vpnDy2AOyBCQ4EOnPyLTOrGrT9HKxiNGq0UBdLSYN_fZp1UL18er/s320/SD-4.png" tvg-id="" tvg-name="beIN SPORTS 4 (G) - SD",beIN SPORTS 4 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555859
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/n6ZGOwI.png" tvg-id="" tvg-name="beIN SPORTS 4 (N) - SD",beIN SPORTS 4 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/357
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 4 (F) - SD",beIN SPORTS 4 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554452
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSRKUE20ekRkQyB9YUvkmTCnIH0NJoEVy_0vp_uI_VHcPOKHg8fxbUeYyIfqr-iF5apIKhEOEiwGciJ7qlUSz6aMSdKKcOudm4pv_HRjPKWrcWy5IcLUpRnGPwzx13eTmeEweX36cZxBQ8/s320/SD-5.png" tvg-id="" tvg-name="beIN SPORTS 5 (G) - SD",beIN SPORTS 5 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555860
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/tILuCb4.png" tvg-id="" tvg-name="beIN SPORTS 5 (N) - SD",beIN SPORTS 5 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/358
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 5 (F) - SD",beIN SPORTS 5 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554453
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp8Ecxd7Q2mkK1ofb9SUdPdaci0i5VLRW3lpxSfqH0-8eNnXvZ8iO3l4oHlrMUQTSgFZPJuqebpfhz_FJwGHNGbEIYarz93TSNek0zh3W7PQKjnXWgjTwDuV6BMO2bJS_q-J-tIv_LSaDL/s320/SD-6.png" tvg-id="" tvg-name="beIN SPORTS 6 (G) - SD",beIN SPORTS 6 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555861
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/2iEhSn8.png" tvg-id="" tvg-name="beIN SPORTS 6 (N) - SD",beIN SPORTS 6 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/359
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 6 (F) - SD",beIN SPORTS 6 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554454
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ-xTEX-tpF8xaiz4q-FQk9rAAUlOTuNBTHLyS2oiSI9zfCbnjrzXCfRHVxpKaOTJGObyHCQqv6Jax05pfn1dVKYG1tDHPsPitZJ8vFV5_blsUCoweYuWBnUMUllmclYzCzCaobyeLvh2D/s320/SD-7.png" tvg-id="" tvg-name="beIN SPORTS 7 (G) - SD",beIN SPORTS 7 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555862
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/1B7hXS7.png" tvg-id="" tvg-name="beIN SPORTS 7 (N) - SD",beIN SPORTS 7 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/360
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 7 (F) - SD",beIN SPORTS 7 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554455
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoeYJBOGur6cfvj7EyazUNLOMExYfEFAjqB1KdKT3aKLEhit39S6gTYFYtrSr9kEVs3_dhYt_j89mYqnR1-bDjyuy2JQc5-x7boaWuI7phtw47Vv6HcGb9WKyqT6p37t38pIGQWY2ARr8/s320/SD-8.png" tvg-id="" tvg-name="beIN SPORTS 8 (G) - SD",beIN SPORTS 8 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555863
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/PpnzLT1.png" tvg-id="" tvg-name="beIN SPORTS 8 (N) - SD",beIN SPORTS 8 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/361
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 8 (F) - SD",beIN SPORTS 8 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554456
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQIZf8zM9J0SD01UySl99xwle3XfD0YWl4lHWlQhODSTu4kPi_oOKNfQh5RSOJpQOPlbo-q01kTzSWEUDY1BUMfppQ_wrxni_TzpGCf1tYK5k9RzWKYLjFsjR8-lbjQtRnDRd6-BSKEE_0/s320/SD-9.png" tvg-id="" tvg-name="beIN SPORTS 9 (G) - SD",beIN SPORTS 9 (G) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555864
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/motnJ7o.png" tvg-id="" tvg-name="beIN SPORTS 9 (N) - SD",beIN SPORTS 9 (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/362
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 9 (F) - SD",beIN SPORTS 9 (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554457
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/QLLOhrT.png" tvg-id="" tvg-name="beIN SPORTS 1 ENG (N) - SD",beIN SPORTS 1 ENG (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/364
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 ENG (F) - SD",beIN SPORTS 1 ENG (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554458
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 ENG (F) - SD",beIN SPORTS 2 ENG (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554459
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/halgJHE.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (N) - SD",beIN SPORTS 1 XTRA (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/365
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (F) - SD",beIN SPORTS 1 XTRA (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554460
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/CbxrNXI.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (N) - SD",beIN SPORTS 2 XTRA (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/366
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (F) - SD",beIN SPORTS 2 XTRA (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554461
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 XTRA (F) - SD",beIN SPORTS 3 XTRA (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554462
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/0pqf6Uj.png" tvg-id="" tvg-name="beIN SPORTS 1 FRANCE (N) - SD",beIN SPORTS 1 FRANCE (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/367
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 FRANCE (F) - SD",beIN SPORTS 1 FRANCE (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554463
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/8MlrCXs.png" tvg-id="" tvg-name="beIN SPORTS 2 FRANCE (N) - SD",beIN SPORTS 2 FRANCE (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/368
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 FRANCE (F) - SD",beIN SPORTS 2 FRANCE (F) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554464
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/kUYuTU0.png" tvg-id="" tvg-name="beIN SPORTS 1 AFC (N) - SD",beIN SPORTS 1 AFC (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/211630
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/kUYuTU0.png" tvg-id="" tvg-name="beIN SPORTS 2 AFC (N) - SD",beIN SPORTS 2 AFC (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/211631
+#EXTGRP:BEIN SD - بي ان سبورت ▶
+#EXTINF:-1 group-title="BEIN SD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/kUYuTU0.png" tvg-id="" tvg-name="beIN SPORTS 3 AFC (N) - SD",beIN SPORTS 3 AFC (N) - SD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/211632
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iraq-alhadath-iq.png" tvg-id="" tvg-name="AR: IRAQ ALHADATH",AR: IRAQ ALHADATH
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/619415
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh03c3SgMo7ABIGasBEcLlZKFImA_lV9OWd5Z44p7IFAj3MnE75zAmak8lf3IHNYanErrYm9FSEmsB7HsfPCvfFmtCJY627PFGOTt8Jmr04HZXsO_peEQi2iVduE5JD-AJ4Fo8ha7kdy47fyOlHgO80Gu2ZJkH6PmGxbtIoGaGiio8ky77mbjMHL2uU4FsN/s1600/9983e9a8-6302-465e-8e05-b702b1ad465c.jpg" tvg-id="" tvg-name="IRQ: Nohadra TV",IRQ: Nohadra TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/556333
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa sport 1",IQ| Alrabiaa sport 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234644
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa sport 2",IQ| Alrabiaa sport 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234645
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa sport +1",IQ| Alrabiaa sport +1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234646
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa sport +2",IQ| Alrabiaa sport +2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234647
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa Quran",IQ| Alrabiaa Quran
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234648
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa Movies",IQ| Alrabiaa Movies
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234649
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa Series",IQ| Alrabiaa Series
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234650
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa variety",IQ| Alrabiaa variety
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234651
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Alrabiaa Geo",IQ| Alrabiaa Geo
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234652
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ|  Iraq Edu Kids HD",IQ|  Iraq Edu Kids HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234653
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://i.imgur.com/BUJAWsa.png" tvg-id="" tvg-name="IQ| Musica",IQ| Musica
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/234654
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://e.top4top.io/p_2995x35ll1.jpg" tvg-id="" tvg-name="IRQ: IRAQI HD TV",IRQ: IRAQI HD TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/198047
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-sport-tv-iq.png" tvg-id="" tvg-name="IRQ: Al Rabiaa Sport 1 4K",IRQ: Al Rabiaa Sport 1 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/194472
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-sport-tv-iq.png" tvg-id="" tvg-name="IRQ: Al Rabiaa Sport 2 4K",IRQ: Al Rabiaa Sport 2 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/194473
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sawt_al_itraa_tv_uk.png" tvg-id="" tvg-name="IRQ: Sawt Alitra",IRQ: Sawt Alitra
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/185117
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://imn.iq/wp-content/uploads/2019/03/Logo.jpg" tvg-id="" tvg-name="IRQ: Al Iraqia TV News 4K",IRQ: Al Iraqia TV News 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143421
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://imn.iq/wp-content/uploads/2019/03/irq.jpg" tvg-id="" tvg-name="IRQ: Al Iraqia 4k",IRQ: Al Iraqia 4k
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143422
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Iraqia Syriac",IRQ: Al Iraqia Syriac
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143423
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Iraqia IMN Türkmen",IRQ: Al Iraqia IMN Türkmen
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143424
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" tvg-id="" tvg-name="IRQ: Al Sharqiya TV 4K",IRQ: Al Sharqiya TV 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143425
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Sharqiya News 4K",IRQ: Al Sharqiya News 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143426
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" tvg-id="" tvg-name="IRQ: Al Sumaria 4K",IRQ: Al Sumaria 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143427
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.alrasheedmedia.com/wp-content/uploads/2021/08/alrasheedmedialogo.png" tvg-id="" tvg-name="IRQ: Al Rashed 4K",IRQ: Al Rashed 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143428
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://albaghdadiatv.com/wp-content/themes/wp-template-albaghdadia-group-tv/assets/logo-with-text.png" tvg-id="" tvg-name="IRQ: Al Baghdadia TV 4K",IRQ: Al Baghdadia TV 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143429
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Hona Baghdad",IRQ: Hona Baghdad
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143430
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://alrafidain.tv/wp-content/uploads/2022/04/%D9%84%D9%88%D8%BA%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%84%D8%A7%D9%86%D9%86%D8%A7-%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-1.png" tvg-id="" tvg-name="IRQ: Al Rafiden TV",IRQ: Al Rafiden TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143431
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" tvg-id="" tvg-name="IRQ: Dijla TV",IRQ: Dijla TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143432
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Dijlah Zaman TV 4K",IRQ: Dijlah Zaman TV 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143433
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mawqef-tv-iq.png" tvg-id="" tvg-name="IRQ: AL Mawqef TV HD",IRQ: AL Mawqef TV HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143434
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="http://www.i-news.tv/wp-content/uploads/2020/11/new-white-logo-1.png" tvg-id="" tvg-name="IRQ: iNews TV Arabic HD",IRQ: iNews TV Arabic HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143435
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: ANB",IRQ: ANB
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143436
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" tvg-id="" tvg-name="IRQ: UTV Iraq 4K",IRQ: UTV Iraq 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143437
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://iraq24hd.com/wp-content/uploads/2022/12/ezgif-7-9570a348ed1a.gif" tvg-id="" tvg-name="IRQ: Iraq 24 4K",IRQ: Iraq 24 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143438
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" tvg-id="" tvg-name="IRQ: Al Hurra",IRQ: Al Hurra
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143439
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/png;base64,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" tvg-id="" tvg-name="IRQ: Al Hurra Iraq HD",IRQ: Al Hurra Iraq HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143440
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Masalah",IRQ: Al Masalah
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143441
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDxAQEBMQDw0QDw8QDxYPEA8PEA8QFxcXFxYWFhcZHikhGRwmHBYWIjIjJiowLy8wGCBBOjUtOSkuLywBCgoKDg0OHBAQGy4mICYuLi4wLy4uLC4uLi4uLi4uLi4wLi4uLi4uLy4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLv/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcBBAUDAgj/xABMEAABAwIBBgYLDAoCAwAAAAABAAIDBBEFBgcSEyExQVFzkrLSFBciJVNUYXF0kbEkMjM0NVKBk6HBwtEVFiNCY3KUs9PwgqJihMP/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAA0EQACAQIEBAUBBgcBAAAAAAAAAQIDEQQSITETMkFRFCJhgZHSBTNTccHwQlKxwtHh8aH/2gAMAwEAAhEDEQA/AK0REXsHjBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAERFACIiAIiIAiIgCIikBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREUAIiKQEREARZRAYREQBERAEWVhAEREAREQBERAEREAREQBERAEREAREQH1GwuIaNrnEADjJ2BXlgeaShZCzsrWT1BaC8iR8bGkjaGhttnnVKYb8PDy0XSC/WLdwXJiZyjazOvDQi7tohXaqwjwMn9RP1lG6LNhSzYjVju2UFOYmMja9xe+R0bXuu83IaNIeXarauo/kvUslnxJzCHNFaG3G67YYgftBXOqs7N3OmVOF1ocntVYR4GT+on6yiecvIegoKAz00b2S66Jl3SyvGi699jjZXGq7z3VDBhrYyQHvqIy0cJDQSSrUqk3NakVYRUG7EWzW5F0OI0kstSx75GVBjboyvYNHQYdwPGSpi7NPhJGyOYHjE8l/t2LnZiD7hqfSz/bYrNU1aklNpMrShFwTaPzhnCyMdhUzNFxlpZr6pzrB7XDex1thO29+FRJXXn6+KUnpLugVSi66MnKCbOSvFRnZBWFmxyDixJslRUl/Y7H6tjGHRMjrXJLt4AuNyr1X5mS+Sv8A2ZvuUYiTjC6Jw8VKeps9qrCPAyf1E/WUOzoZE0OH0TJqaNzJDOxhLpZZBokOO5xPEFdCrfPnO0YfEwnu31LS0cJDWuuftC5KVSbmtTrqwioPQotYKysFeieaXvgmbPCpqWnlfFI58kET3nXzC7nNBJsDYbVuSZqcJIIEUrSRsInlJHlFyR617YLldSQ0tJCXPlmFLT6bYI3zGPuB7/RBspTh9fFUM04nB7eHeC08RB2grzHOourPUjCDWyPzhlxku7C6rUl2sie3WQvIsXMvazhxgqOq0M/EjTU0gDgXNhk0gCCW3cLXHBw+pVeu+lJygmzz6sVGbSCIi0MwiIgCIiALYoqKWd4ZDHJNIf3YmOefUNykuQeRrsReZJCY6OM2e4e+kd8xn3ngV2YVQQUkYip42QxjgYNrvK473HylZTqqOiN6dFyV2UxQ5scUlFzFHCP40rQfU25XxjuQE9ExplmpnzPIEUMRmkmldxNbobVdGNYs2lp5Z3bRGwutxngHrUYzeUzpmuxSp7uqqS4RX2iGAGwaziuQfoss1UnuzV0obLchmE5rsSfoyOMFMQQ5oleXPBBuLtaCB61OP0RlF4/S81/UUw1y+tas5TlLe3wXjTjHa5CKnAsoZGlhr6YBwsdESNPrDFp4JkbjVEx0dPWUrGPeZHXEriXkAEklnkVha1Z1qjNK1tPhFuGr31+SGfonKLx6l5snUUTy0yNxMxSVlZVQziFt7Ay3AuBZoLQBvVva1R7OHJfCqsfwvxBTGTTX+Cs4LL/s4uYt9qKp9K/+bVZesVV5k32o6j0n8DVY2tVasfOy1F+RFf593XpKT0l39sqnqKjknkbFCx0srzZrWAucf941bme596Sm9JP9ty6ma/AGUdGyYtHZNS0SPcRtbGdrGDiFtp8pW0JZKZjUhnqEHos0mIyNDnupoSR718jnOHn0WkfapRgmR+OUUWpp6ukji0nPtoyHujvN9DyKwxKs61ZOpN7/ANDZUYLYhn6Iyj8epOY/qKP4zm1xatk1lTV08rwLN0jNZo4mjRsFamtWRKqqcltb4LOnF73+Sm+05W+HpfXN1VyMqs3dThtMamWWB7A9jLRmTSu7dvaFfmtUHzyPvhbuXh9pWkKs3JJmdShBRbRJ8iYWMw6jDGtaDTQuOiALuLQSTbebreq8JgmdpuaRJaxdG+SJ5HEXMIJHnXJyJl720fo8XRC7usXNJeZnRHlRTGe2giglo2xMawOjmLiB3TzpN2ucdrj5SVWitLPs681FyU3SaqtXoUfu0edX+8YREWpiEREAWWtJIA2kkAec7lhbmDC9TTg7jUQ354QlF/YDQNpKWGnbsEcYB8rztcT5ySt/WLX0k0lxnoEazoSkYZLbhfED5tILo5EP720fIN+9cjOc7vbJykXSC6GRTu91JyLfvV2vJ7mf8fsSPWLgZT5YU+H6LZNJ8rxdrI7X0eMk7AF19JU7nT+UTyEX3qIRu7MmpJxjdEq7bFP4CfnR/mu1ktltHiMr42RSRljNMl5aQRe1tioxTzND8aqOQHSC0nTilcxp1ZOVmW9prgZfu72VfJ/eF2dJcDLx3e2q5P7wsVujolszjZmnWpKj0n8DVYGmq7zPm1LP6R+Bqn2klTmZFLkRAs9Dr0tMP47ugVOcGf7mg5GLohQLPIfc1NyzugVN8Id7ng5GPohJciEed+x09NRbKbL2moJNS4PmmsC5sdu4B3aRJ3+RSHSVD5efKdXyv4WpTgpPUVZuK0J/226fwE/rj/NSLJHK+PEtaY43xiLRB0y03Lr7reZfn9WnmX2R1Z/iRD/q5aVKUVG6M6VaUpWZaAeoVnddfDHcvD7SpfpKG52T3tdy0XtKwhzI6KnI/wAjv5FP73UnIR+wLuh6juRZ730nIR+wLuByrJal47IqzPgby0fJzdJqrFWXnsP7Wj5ObpNVaLtpciPPr/eMIiLQxCIiALcwg+6afl4emFprZww2nh5aLpBCUfoLSWdJeWksaS4zvI3nLPe6T+eLpBdDIw976XkWrmZxz3uk/ni6QW/kee99LyLVp/D7ma5/Y7+koflXkV2fUa8T6r9mxmiYdP3t9t9McfEpTdfV1RNrYvKKasyuu1efGh/Tn/IpZkpkzFhzHhrjLNJbWPc0N2Dc1rbmw4d5XZus3UuTe7IjCKd0j00lw8uD3uquT+8LsXXDy2Pe6q5P7woW5aWzONmjPuWf0j8DVPNJQDNN8Vn9I/A1Tu6mfMytPkRBc759zU/LO6BU0wh3ueHkY+iFCM7nxan5d3QKmuFH9hDyMfRCh8i9yY879je0lBMfzeGrqpqgVAjErg7RMBdo7AN+mL7uJTe6XVE3HYvKKluVwM1TvGm/05/yKdZM4FFh8GpiLnEu05HuADpH2tew3ADYAt+6yCplOT3ZEacYu6R7ByiGdY97XctF7VKwVEc6Xya/lYfaohzItU5H+R3MjD3vpeRZ7F3AVwcjviFLyDPYu2Cqy3Lx2Kvz0/C0fJzdJqrVWRnn+Fo+Tm6TVW67KXIjz6/3jCIi0MQiIgC2MP8AhouVj6QWuveh+Fi5WPpBCUX4s3XpqVnUriuehYi+X8L5KCRrGue7Ti2MaXH3w4AovhmVNdTwRwto3ubGwMBMc4JA49itNjHN2gkHyEhZ0pPnv5zlZTsrFHDW9ytf13xDxI8yf8lj9d8Q8SP1c/5KzNKT57+c5NKT57+c5M67DI+5Wgy3r7/EnH/hPc/Yp9A8uY1zmlji1pLXe+YSNoPlC3dKT57+c5fGpUOS7FlFrrc8VxctPk+q5L7wpDqVGM41QIcPlB99KWRNHHc3P2AqIu7QlpFnMzU/FJvSD0GqbKG5pWXpJvSD0GqcalWqPzsikvIiC50qaSSngEbHyETEnQY55A0DvsFzafLWvYxrBROIY1rReOo22FuJWexrhuJHmJC9AX/OfznKudWs0S6bvdMrD9e8Q8RPMqPyWf17xDxE8yo/JWfd/wA5/Ocs3f8AOfzimeP8q+SeHL+YrjDMtK+WaOM0LtF72tdosmBa0na65Ftm9T9e50zvc4jykrGpVZST2Vi8Ytbu55BRTOh8mycrD0lMhCoNndqhHRMi/fmmaQP/ABZtJ9dkpu80RV5GSDJH4hSchH7F2guXkfF3vpPR4/Yu0IVST1NI8qKpzz/CUfJzdJqrdWXnrbaSj5ObpNVaLtovyI86v94wiItTEIiIAvei+Fi5SPpBeC+4n6LmuG9rg4ecG6Eo/SwjWdWFUAzp13g6bmSddO2pXeDpuZJ11xcGZ3ceBb+rWdWqf7ald4Om5knXTtqV3g6bmSddODMceBcGrTVKn+2pXeDpuZJ107ald4Om5knXTgzHHgXBqk1aqDtqV3g6bmSddfEudLECLBtM08YjeT9rk4Ex4iBb1ZNHCx0krmxxsF3OcbABUdl1lP8ApCoGhcUsVxEDsLuN5HGfYuXjGPVVY69RK+SxuGk2jb5mjYFzlvTpZdXuYVa2bRbFuZmntdS1DL922o0iOENLG2P2H1KwtWvzhguMz0Uutp3lj7Wdwte3icOEKWNzrV/g6Y/8JOus6lKTldGlKvCMbMuMRr61apvtrV/g6XmSddZ7a9f4Ol5knXWfAqGviKZcerWRGqb7bFf4Ol5kvXWe2xX+DpeZL11Hh6g8RTLl1azq1TPbZr/B0vMl668qjOriLhZop4zxticT/wBnEfYnh6hPiaZcGK4hBSROmne2ONvCd5PE0cJ8gVA5YZQvxGqdMQWxAaELD+4zy+U7ytHFcXqKt+nUSvmdwaZ2N/laNjfoC0V0UqOTV7nLWruei2P0ZkDMyXDKRzCCBC1jrcD27HA/SFIhGvzfkzlZV4cXdjvBjcbujkGnGTxgXBB8xUl7b2IeCpOZL11hPDzzaHTDFQy6m9n1FpqLkpuk1VcpLlrlDV17oHVcTYXMY7VhrHx6THHfZxN9oUaXTQVqaOOu71GERFqZBERAERfTGkkAbSSABxk7AhJ8otrE6CSmldDKLSN0b22jaARY8O9aqrGSklKL0ZMouLs9zKwiKxUyiwt/DMKlqBMYwCIY3SPudpA4AOEmx9SpOcYRzSdkXhCU5ZYq7NFYUiwvJOWop9cHta9we6GN3v5mt3kbdm261sn4XT6ykZDE+WUBwkkuHQhm02/3h4Vg8XStJxaeXm6W7vXTTXbe1tzZYWpeN1bNt6/v1t32OMi6NPiT4otRq4yRM2XSewOeHN/dN+C/3r3ypp5mVJdO1jJJmsktGLMAcNw8ott8quqr4mSSte9tVra3T37lXSWTMne1r6bX9TjouhgmFOq5dW1zWNDS+R7/AHsbBwn6bL6x7B30cojc4Pa5ofG5vvXtPCp8RT4nCv5rXt+/+leBPh8S3l2uc5rSdg2nybSslpsDY2N7Gxsbb7HhXRybfUCpZ2LbXuDmjSALQ0jui6+4AbbrpZVUVRTw00b5mVFN3ZjdG1oa19+6Fxv37PpWc8Qo1lS019XfrfS3pprr7GkaGak6munpp063/TT3I0iIuo5gvSngfI4MY1z3uNmtaCST5l5qR5v/AJQi80nRKxxFV0qMqiV7Jv4NsPTVSrGD6tI4jKORzZHhjiyK2sd+6w3tYnjutdSyg+TsS5aLpBRmOlkcx8jWuMcejpuA2N0jYX+lUo187mpWVml+eif6l61DIo21um//AFr9DxXtRyBkkbzazXscbgkWBB2jh3LcwfA5qtx1YAY34SR50WM854/IFs4/k1JSRtl02TwvOjpw7mu27D6jtUyxNHicByWZ6W/f9N/QiOHq5OKo6LqfWVMum9jhDLEHh0jXTyvlllYTsNiToN32A41wlKsvvf0XocXtKiqz+z5KWGg0rf8AS+OVq8l+9kwiIuw5AiIgCFFvYLVRQzskmj10bTctBtt4DbcbcR2Ks5OMXJK7XTv6FoRUmk3b17EtxmCicKZ1fJNHVGkh0wxhdcbbF3cnbvXM7Ewbxiq+pPUXGxvEnVdRJM7ZpEBo+awbGj1LQXnYfAzjTSdSSfZNWXotGd9fGQlUbVOLXdp3fq9ST9iYL4zVfVnqJ2Lg3jNV9Weoowi28HL8WfyvpMfFR/Ch8P6iT9iYL4zVfVnqLdwipwqkkMsc9Q5xa9ha6N2i8OG42Z5lDF2ajKF8glBigGtjjiOjEAWhnC3iPs2cSxrYObWXPOSe95RX9ptSxUE82WMWtvK3/cSDAJ6GolorGojrYWRxsa0XjdoAk7QDYHbfdvXw12FU9WZhPUNljme4gRksDrnSbsZtbvG9cnJ3GoaOKdwjca1zdGF5ILQD5OC2/wAtlHifpPlWUMA5VZrNNRtlWq1vdvo/LrZe5pLGKNODyxcr32elrJdd9N/yJZVR4PJJJIaipBke55DYnWBcSTbuPKtPKuvp5hStp5JJWwxujLpWlrjtGje4F9ij6yuunglCcZucnl2u12t0S6HLUxblFxUIq+9k+9+7O1k5WUrG1EVVrBFO2NulFvbou0tvkvb1Lo5YwwspsPELpHx6M2rMos8sJaRcWGzbs2KOYdJE2aN07DJCHAva02Lh/vBwreynxfsuoL2jRhY0RxN3WYOG3AT+SpPDyeLjON7at6+W9sqst79/RGsa6WGlGVr6Jd976vt29TYyWq6SIVAqXyM1sbY2mIEu0CbvFwDa9mhdV9VhLqfsXXVIhbKJWEsJcHEEOaO42Dh3cKhiK1XARqTc88k7p6O2qVk9uhnTxsoQyZYvdarWz36km7FwXxmq+rPUTsTBvGar6s9RRhFPg5fiz+V9JHio/hQ+H9RKOxMF8YqvqT/jW7g9RhNJM2Zk9Q5zQ4APido7RbgYoUsqs8Bni4yqzae+q+ktDGZWpRpwTXo/8kowLEaQQVUFTI+Ns8jXNMTHOdog34AbcG9blDUYTDHPEJ6h0dQwNeHRO2EG4c2zN6hSJU+z4zbeeSTabSatdWs9U+yJhjpRS8sXbS7XTXTf1J1X12FSxRwCeoip4xsZHE8Ne75z7su4+dc3EayhjoZqellmldLJG+0rC0N0d5B0QOJRdZUU/s6MLeeTSeazatfe701d+onj5Tv5I3atezvb5OzlPirKp8JjDg2KnZGS6w0iNpIHFtXFWVhddGlGlBQjsjlq1ZVJuct2ERFqZhERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAf/2Q==" tvg-id="" tvg-name="IRQ: Afak TV",IRQ: Afak TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143442
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Iraq NOW TV",IRQ: Iraq NOW TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143446
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: UTV IRAQ",IRQ: UTV IRAQ
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143447
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Iraq Future TV",IRQ: Iraq Future TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143448
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/png;base64,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" tvg-id="" tvg-name="IRQ: Nayanwa Alaan",IRQ: Nayanwa Alaan
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143450
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://nohdralive.com/wp-content/uploads/2016/11/mylogo.png" tvg-id="" tvg-name="IRQ: Mawtini HD TV",IRQ: Mawtini HD TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143451
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Salahdin TV",IRQ: Salahdin TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143453
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Samrra TV",IRQ: Samrra TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143454
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Ahlulbayt TV",IRQ: Ahlulbayt TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143458
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/png;base64,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" tvg-id="" tvg-name="IRQ: ALJANOUB TV 4K",IRQ: ALJANOUB TV 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143460
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Anbar",IRQ: Al Anbar
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143461
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Ayam TV",IRQ: Al Ayam TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143466
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://bayyinahtv.com/_nuxt/img/Logo.7fcd014.png" tvg-id="" tvg-name="IRQ: Al Baeenah",IRQ: Al Baeenah
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143467
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/png;base64,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" tvg-id="" tvg-name="IRQ: Al Basira",IRQ: Al Basira
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143468
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Eshraq TV",IRQ: Al Eshraq TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143470
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://m.aletejahtv.iq/uploads/images/logo/logo-white.png" tvg-id="" tvg-name="IRQ: Al Ethjah TV 4K",IRQ: Al Ethjah TV 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143471
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" tvg-id="" tvg-name="IRQ: Al Fallojah TV",IRQ: Al Fallojah TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143472
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://alforatnews.iq/asset/theme-alforat/image/logo.png?1624630063" tvg-id="" tvg-name="IRQ: Al Forat",IRQ: Al Forat
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143473
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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dPrBV0ThFO0uHRJvI+a7iOxT0emKGvAZM0NdwD8nDyXBREen52sw1MTK2H4zbPHf0fzAFdV2i6CrzppvYzz8CXNl+o7x5z2K2pShN7c4tP8ANDP4rVc1zObR2tMahOF3Ur8Y+K6wdbqduPfZQtDpuroX8m7ELb45AbW6uI7Qu81+kdHZkGSIcf2kRHaM299lP6P1hpdINEFTG0PO4OzBcfiO3grvWVYwvK1WHFWvzWj+veNo7+g9ZIK0cm4BryM432IcONr+EFWNbtXGU5E0WUbjYtJ8B1r5E/Btfst5urpjVoxVLIqQume7nNjZzpYyCLXw7h842tbPpWw6ualvLo6nSLmzSsAMcLR7lE/LnH48lxe+4HduBWSdWlg5Rq0pezJdnf3eGe95rc2dTbPjZzq49rI62qxGYxBkTHAgwwm28HPlHWBJOYFhlne+oi8KpN1JOUtX6yJBERQAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBdWvoIp2GKaNsrDva8BwPnXaRAZxpLZHSuJfSzTUjuAa7Gwf1c7/AHKvVeyCqcTeogm+c5jo3/7L377raEWyn0hiYaTfOz/cmyLgjIdD7NtIwEYayMM4tdjkFuyzfNkpSn2RwOl5apmdI69y2FjYIyR0gFzu8OByWlIuTx+IlJy2rPikk/ikn8xsojdEaFp6RpbTQshB34RznHpc45uPWSVJIiyau7JBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREB//9k=" tvg-id="" tvg-name="IRQ: Al Ghad Al Araby 4K",IRQ: Al Ghad Al Araby 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143474
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Hiwar 4K",IRQ: Al Hiwar 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143476
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Mawsleya",IRQ: Al Mawsleya
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143479
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Mehwer",IRQ: Al Mehwer
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143480
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Qamar",IRQ: Al Qamar
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143484
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="https://altaghier.tv/wp-content/uploads/2022/06/logo-altaghier-tv.png" tvg-id="" tvg-name="IRQ: Al Taghier 4K",IRQ: Al Taghier 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143487
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/png;base64,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" tvg-id="" tvg-name="IRQ: Al Rabiaa Iraq 4K",IRQ: Al Rabiaa Iraq 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143489
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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RNBLAC67g3YeleNTLN6zZUO4TEB1aRPrC1LGgq9eNOW558Gzava7oUJVI71jGetI1PyRrOI3x2fFQfKLNpi9RVSTRwRmM6AZeeIGwY0bl+G6v9FZ7bR9K3m5wznGNr5p+RV7rSFW5goTSSznYnwa4vic39yXGuQi84i+KdyXGuQi84i+K6QRbxonN/clxrkIvOIvinclxrkIvOIviukEQHN/clxrkIvOIvinclxrkIvOIviukEQHN/clxrkIvOIvinclxrkIvOIviukEQHN/clxrkIvOIvinclxrkIvOIviukEQHN/clxrkIvOIvinclxrkIvOIviukFCcts49JhDjTlrpqrRBMcZDQ0EXGtedjb8ABNiDaxugKl7kuNchF5xF8VIs3ebnEqHFKarqoo2ww64uLZo3nSdA9jdg27r17MPz5MLwKmgcyMna6GcTPH4HMbfw9StTCMShrYI6mnkEkMrbsc2/DYgg7QQQQQdoIIKgHvREUgwiysIAiIgCIiA+NREJGPYSQHsc0kWuARa451ofkXS8efxo/0qSIsNW3pVWnUinjijPRuq1FNU5YyRv5FUvHn8aP9K2eD4XHRscyMvIc650y0m9gN4DgWxReadrRpy1oRSfJHqreV6sdWc20ERFsGsEREAREQBERAEREAREQHyqZdBj32voMcbcNhdcgVNZJUyPqZXaUk73PkPC95uerauwyL7DvrmDL7IybBqh40HGje8mmlsSwMJ2RvdvPbubd21xzARdXB2PeISaddRkkxBsMrBvNeS5jiOkBniqoI2F7msYC57jZjWgue48DWjaT0LoXM/kfJhdNJPUt0amrLNJm6Y4WX0Gu+0S5xPSBvICwkREAREQBERAEREAWURAEREBhERAZREQGAsoiALCIgMoiIDAWURAYC8WNf7NN/dOWUQFd5r/8Aa5uhytFEQGEREB//2Q==" tvg-id="" tvg-name="IRQ: Al Rabiaa Sport 4K",IRQ: Al Rabiaa Sport 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143490
+#EXTGRP:IRAQ - العراق ▶
+#EXTINF:-1 group-title="IRAQ - العراق ▶" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="IRQ: Al Iraqia Sport 4K",IRQ: Al Iraqia Sport 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143491
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="" tvg-id="" tvg-name="AR: SHAMS TV 4K",AR: SHAMS TV 4K
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/588472
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lua_lua_tv_uk.png" tvg-id="" tvg-name="BH |  LuaLua TV",BH |  LuaLua TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/70536
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-id="" tvg-name="LB: AL ALAM",LB: AL ALAM
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/144844
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Lebanon/Al.Mayadeen.png" tvg-id="" tvg-name="LB: AL MAYADEEN",LB: AL MAYADEEN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/144833
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Lebanon/Al.Manar.png" tvg-id="" tvg-name="LB: AL-MANAR",LB: AL-MANAR
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/144827
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-tv-ye.png" tvg-id="" tvg-name="YEMEN: ALMASIRAH TV",YEMEN: ALMASIRAH TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/143409
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-sahat-tv-ye.png" tvg-id="" tvg-name="NEWS | AL SAHAT",NEWS | AL SAHAT
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/233876
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/AlHADATH.png" tvg-id="" tvg-name="NEWS | AL ARABIYA ALHADATH",NEWS | AL ARABIYA ALHADATH
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5764
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://theantiquitiescoalition.org/wp-content/uploads/2015/09/Al-Arabiya-header-logo-1.png" tvg-id="" tvg-name="NEWS | AL ARABIYA",NEWS | AL ARABIYA
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5765
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51HUps+o2jL.png" tvg-id="" tvg-name="NEWS | ALHURRA HD",NEWS | ALHURRA HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5767
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-hiwar-tv-uk.png" tvg-id="" tvg-name="NEWS | Al Hiwar TV",NEWS | Al Hiwar TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5768
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/23/a2/3323a26d-1a90-d52c-c789-35a6883c04d4/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png" tvg-id="" tvg-name="NEWS | Asharq NEWS",NEWS | Asharq NEWS
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5769
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_arabic.png" tvg-id="" tvg-name="NEWS | BBC ARABIC",NEWS | BBC ARABIC
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5770
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_arabiya.png" tvg-id="" tvg-name="NEWS | CNBC Arabiya",NEWS | CNBC Arabiya
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5771
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" tvg-id="" tvg-name="NEWS| CNN",NEWS| CNN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5772
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" tvg-id="" tvg-name="NEWS | FRANCE 24 HD AR",NEWS | FRANCE 24 HD AR
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5773
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" tvg-id="" tvg-name="NEWS | FRANCE 24 HD EN",NEWS | FRANCE 24 HD EN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5774
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" tvg-id="" tvg-name="NEWS | FRANCE 24 HD EN",NEWS | FRANCE 24 HD EN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5775
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://w7.pngwing.com/pngs/880/655/png-transparent-al-jazeera-documentary-channel-aljazeera-international-documentary-film-festival-doha-others-miscellaneous-television-text.png" tvg-id="" tvg-name="NEWS | JAZEERA DOCUMENTARY",NEWS | JAZEERA DOCUMENTARY
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5776
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png" tvg-id="" tvg-name="NEWS | JAZEERA ENGLISH",NEWS | JAZEERA ENGLISH
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5777
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://w7.pngwing.com/pngs/314/459/png-transparent-al-jazeera-mubasher-television-channel-al-jazeera-english-sports-series-miscellaneous-television-text.png" tvg-id="" tvg-name="NEWS | JAZEERA MUBASHER-2",NEWS | JAZEERA MUBASHER-2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5778
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://w7.pngwing.com/pngs/314/459/png-transparent-al-jazeera-mubasher-television-channel-al-jazeera-english-sports-series-miscellaneous-television-text.png" tvg-id="" tvg-name="NEWS | JAZEERA MUBASHER",NEWS | JAZEERA MUBASHER
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5779
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://e7.pngegg.com/pngimages/374/685/png-clipart-al-jazeera-english-al-jazeera-media-network-television-channel-broadcasting-arabic-calligraphy-television-text.png" tvg-id="" tvg-name="NEWS | JAZEERA",NEWS | JAZEERA
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5780
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-id="" tvg-name="NEWS | RT ARABI HD",NEWS | RT ARABI HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5782
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-arabi-tr.png" tvg-id="" tvg-name="NEWS | TRT ARABI HD",NEWS | TRT ARABI HD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5783
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-kurdi-tr.png" tvg-id="" tvg-name="NEWS | TRT WORLD",NEWS | TRT WORLD
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5784
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://i.pinimg.com/originals/53/3e/fa/533efa4d732dbf5c575088c4eab980d7.png" tvg-id="" tvg-name="NEWS | AL ARABY TV",NEWS | AL ARABY TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5785
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anb_jo.png" tvg-id="" tvg-name="NEWS | IRAQ NEWS",NEWS | IRAQ NEWS
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5786
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://w7.pngwing.com/pngs/452/128/png-transparent-abu-dhabi-sky-news-arabia-television-others.png" tvg-id="" tvg-name="NEWS | SKY NEWS ARABIA",NEWS | SKY NEWS ARABIA
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5788
+#EXTGRP:NEWS - اخبار ▶
+#EXTINF:-1 group-title="NEWS - اخبار ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-qahera-news-eg.png" tvg-id="" tvg-name="NEWS | ALQAHERA NEWS",NEWS | ALQAHERA NEWS
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/15255
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://media0067.elcinema.com/uploads/_315x420_1da47d9e063c71624acbd7cfd4bbd68ca5b5d81fe505ce8bba797653732692d9.jpg" tvg-id="" tvg-name="Pink Panther 1",Pink Panther 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193316
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://media0067.elcinema.com/uploads/_315x420_1da47d9e063c71624acbd7cfd4bbd68ca5b5d81fe505ce8bba797653732692d9.jpg" tvg-id="" tvg-name="Pink Panther 2",Pink Panther 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193317
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEtRhwPcDpiCeFF1mUC0MEjI3G0.jpg" tvg-id="" tvg-name="Tom And Jerry 1",Tom And Jerry 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193321
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEtRhwPcDpiCeFF1mUC0MEjI3G0.jpg" tvg-id="" tvg-name="Tom And Jerry 2",Tom And Jerry 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193322
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEtRhwPcDpiCeFF1mUC0MEjI3G0.jpg" tvg-id="" tvg-name="Tom And Jerry 3",Tom And Jerry 3
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193323
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEtRhwPcDpiCeFF1mUC0MEjI3G0.jpg" tvg-id="" tvg-name="Tom And jerry 4",Tom And jerry 4
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193324
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEtRhwPcDpiCeFF1mUC0MEjI3G0.jpg" tvg-id="" tvg-name="Tom And Jerry 5",Tom And Jerry 5
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193325
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEtRhwPcDpiCeFF1mUC0MEjI3G0.jpg" tvg-id="" tvg-name="Tom And Jerry 6",Tom And Jerry 6
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193326
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 1",Kids Music 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193344
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 10",Kids Music 10
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193345
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 11",Kids Music 11
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193346
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 12",Kids Music 12
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193347
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 13",Kids Music 13
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193348
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 14",Kids Music 14
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193349
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 15",Kids Music 15
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193350
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 16",Kids Music 16
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193351
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 17",Kids Music 17
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193352
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 18",Kids Music 18
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193353
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 19",Kids Music 19
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193354
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 2",Kids Music 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193355
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 20",Kids Music 20
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193356
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 3",Kids Music 3
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193357
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 4",Kids Music 4
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193358
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 5",Kids Music 5
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193359
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 6",Kids Music 6
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193360
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 7",Kids Music 7
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193361
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 8",Kids Music 8
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193362
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="Kids Music 9",Kids Music 9
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193363
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 1",MAC Kids 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193364
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 10",MAC Kids 10
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193365
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 11",MAC Kids 11
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193366
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 12",MAC Kids 12
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193367
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 13",MAC Kids 13
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193368
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 14",MAC Kids 14
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193369
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 15",MAC Kids 15
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193370
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 16",MAC Kids 16
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193371
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 17",MAC Kids 17
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193372
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 18",MAC Kids 18
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193373
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 19",MAC Kids 19
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193374
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 2",MAC Kids 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193375
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 3",MAC Kids 3
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193376
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 4",MAC Kids 4
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193377
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 5",MAC Kids 5
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193378
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 6",MAC Kids 6
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193379
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 7",MAC Kids 7
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193380
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 8",MAC Kids 8
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193381
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" tvg-id="" tvg-name="MAC Kids 9",MAC Kids 9
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193382
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" tvg-id="" tvg-name="Spongbob 1",Spongbob 1
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193383
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" tvg-id="" tvg-name="Spongbob 2",Spongbob 2
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193384
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" tvg-id="" tvg-name="Spongbob 3",Spongbob 3
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193385
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" tvg-id="" tvg-name="Spongbob 4",Spongbob 4
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193386
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" tvg-id="" tvg-name="Spongbob 5",Spongbob 5
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193387
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" tvg-id="" tvg-name="Spongbob 6",Spongbob 6
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/193388
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | MASHA & THE BEAR",KD | MASHA & THE BEAR
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192679
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | BILL & SEBASTIAN",KD | BILL & SEBASTIAN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192680
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | SHAUN THE SHEEP",KD | SHAUN THE SHEEP
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192681
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | TELETUBBIES",KD | TELETUBBIES
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192682
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | SPONGEBOB",KD | SPONGEBOB
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192683
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | ADNAN & LINA",KD | ADNAN & LINA
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192684
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | THA SMURFS",KD | THA SMURFS
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192685
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | TOM & JERRY",KD | TOM & JERRY
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192686
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | COCOMELON AR",KD | COCOMELON AR
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192687
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | COCOMELON EN",KD | COCOMELON EN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192688
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | MR BEAN",KD | MR BEAN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192689
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | Three Bears",KD | Three Bears
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192690
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | ليث ذا كينج",KD | ليث ذا كينج
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192691
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | بطاريق مدغشقر",KD | بطاريق مدغشقر
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192692
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | قصص الأنبياء",KD | قصص الأنبياء
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192693
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | قصص الإنسان في القرآن",KD | قصص الإنسان في القرآن
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192694
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | قصص الآيات في القرآن",KD | قصص الآيات في القرآن
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192695
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KD | قصص الآطفال",KD | قصص الآطفال
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192696
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png" tvg-id="" tvg-name="CARTOON NETWORK",CARTOON NETWORK
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192660
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png" tvg-id="" tvg-name="CARTOON NETWORK EN",CARTOON NETWORK EN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192661
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png" tvg-id="" tvg-name="Cartoonito EN",Cartoonito EN
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192662
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.png" tvg-id="" tvg-name="NICK",NICK
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192663
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/280px-Nick_Jr._Channel_logo.png" tvg-id="" tvg-name="Nickelodeon en español",Nickelodeon en español
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192664
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" tvg-id="" tvg-name="Nick Ukraine",Nick Ukraine
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192665
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="BeIN_Boomerang",BeIN_Boomerang
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192666
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/kids.png" tvg-id="" tvg-name="Rotana Kids",Rotana Kids
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192667
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.dm0z.com/up/img23080%D9%85%D8%A7%D8%AC%D8%AF.png" tvg-id="" tvg-name="MAJID",MAJID
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192668
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Gulli_2017_nouveau_logo.jpg" tvg-id="" tvg-name="guli",guli
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192670
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" tvg-id="" tvg-name="Ar: Nemo Kids TV",Ar: Nemo Kids TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192671
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cookies-kids-eg.png" tvg-id="" tvg-name="Ar: Cookies Kids",Ar: Cookies Kids
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192672
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="atfal wamawahib",atfal wamawahib
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192674
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="SASUKI",SASUKI
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/192675
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" tvg-id="" tvg-name="KIDS | CN ARABIA",KIDS | CN ARABIA
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5789
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/kk/karameesh.png" tvg-id="" tvg-name="KIDS | KARAMEESH",KIDS | KARAMEESH
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5790
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/kk/koogi-tv-eg.png" tvg-id="" tvg-name="KIDS | KOOGI",KIDS | KOOGI
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5791
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/mm/majid_tv_ae.png" tvg-id="" tvg-name="KIDS | MAJID TV",KIDS | MAJID TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5792
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-toon-arabic-ae.png" tvg-id="" tvg-name="KIDS | SPACE TOON",KIDS | SPACE TOON
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5793
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/tt/taha_tv.png" tvg-id="" tvg-name="KIDS | TAHA",KIDS | TAHA
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5794
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toyor_al_janah.png" tvg-id="" tvg-name="KIDS | Toyor Aljanah",KIDS | Toyor Aljanah
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5795
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atfal-and-mawaheb-sa.png" tvg-id="" tvg-name="KIDS | WANASAHT BABY",KIDS | WANASAHT BABY
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5796
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hod_hod_tv.png" tvg-id="" tvg-name="KIDS | ROTANA KIDS",KIDS | ROTANA KIDS
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/5797
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="" tvg-id="" tvg-name="KIDS | OSN Kids Zone",KIDS | OSN Kids Zone
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/14724
+#EXTGRP:KIDS - اطفال ▶
+#EXTINF:-1 group-title="KIDS - اطفال ▶" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shihab-tv-iq.png" tvg-id="" tvg-name="SHEHAB TV",SHEHAB TV
+http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/141614
