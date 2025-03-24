@@ -1,895 +1,397 @@
 #EXTM3U
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ask TV",Ask TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/607803
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Pomo HD",Pomo HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/607804
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Duhok TV HD", Duhok TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/607499
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bangxwazen Badinan HD", Bangxwazen Badinan HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601571
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Kurdana 4K TV", Kurdana 4K TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601567
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zaxo 4K", Zaxo 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601568
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Kurdmax Music 4K", Kurdmax Music 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601569
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Raman 4K", Raman 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601570
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Family Raparin HD", Family Raparin HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601443
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Lalav Group TV", Lalav Group TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601444
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zed HD", Zed HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601445
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zed+ HD", Zed+ HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601446
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Niga Family HD", Niga Family HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601447
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Family HD", Reng Family HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601448
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NewLine 1 HD", NewLine 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601449
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NewLine 2 HD", NewLine 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601450
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Family HD", Astera Family HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601451
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Rasan HD", Rasan HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601452
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" BMC HD", BMC HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601453
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Khak HD", Khak HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601454
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Dasinya HD", Dasinya HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601455
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Baha HD", Baha HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601456
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Duhok TV", Duhok TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601457
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bangxwazen Badinan", Bangxwazen Badinan
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601458
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Minara HD", Minara HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601459
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Qellat HD", Qellat HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601460
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Esta HD", Esta HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601461
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Befrin TV", Befrin TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601462
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Halabja HD", Halabja HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601463
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Hormzyar HD", Hormzyar HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601464
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Arifan Doc", Arifan Doc
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601465
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Barin FHD", Barin FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601466
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Euro Kurd TV", Euro Kurd TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601467
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" KMP", KMP
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601468
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" K21", K21
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601469
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Nubar TV", Nubar TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601470
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Zever TV", Zever TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601471
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Azadi Sport TV", Azadi Sport TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601472
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Mahabad HD", Mahabad HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601473
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN News HD", MMN News HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601474
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Arifan Sunnah", Arifan Sunnah
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601475
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Show HD", MMN Show HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601476
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bnar HD", Bnar HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601477
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Derin HD", Derin HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601478
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Documentary HD", Astera Documentary HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601479
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Culture HD", Astera Culture HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601480
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Documentary HD", Reng Documentary HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601481
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Documentary HD", MMN Documentary HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601482
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" One World HD", One World HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601483
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Music HD", Reng Music HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601484
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" 4 KURD TV", 4 KURD TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601485
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Clip HD", MMN Clip HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601486
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Classic Musical HD", MMN Classic Musical HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601487
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Dange Zalal TV", Dange Zalal TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601488
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Afarin HD", Afarin HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601489
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Afarin Baxcha HD", Afarin Baxcha HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601490
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Baby HD", Astera Baby HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601491
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Kids HD", Reng Kids HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601492
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Niga Kids HD", Niga Kids HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601493
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Kids HD", MMN Kids HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601494
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NR 1 TV", NR 1 TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601495
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Evin TV", Evin TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601496
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Spi Quran", Spi Quran
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601497
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Radio Afarin", Radio Afarin
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601498
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Sada TV", Sada TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601499
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Ravand HD", Ravand HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601500
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bask HD", Bask HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601501
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Quran HD", MMN Quran HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601502
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" SHAR TV", SHAR TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601503
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Spi TV", Spi TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601504
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Imk TV", Imk TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601505
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Ishtar TV", Ishtar TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601506
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Judy HD", Judy HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601507
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" UTV HD", UTV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601508
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Srusht  HD", Srusht  HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601509
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Mihrab TV", Mihrab TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601510
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Mihrab FM", Mihrab FM
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601511
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Asman HD", Asman HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601512
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Movies HD", Astera Movies HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601513
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Astera Show HD", Astera Show HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601514
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Niga Movies HD", Niga Movies HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601515
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Speda Drama HD", Speda Drama HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601516
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Nuber Plus", Nuber Plus
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601517
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Movies HD", MMN Movies HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601518
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Animal box", Animal box
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601519
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Drama HD", MMN Drama HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601520
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Action HD", MMN Action HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601521
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Bnar Movies HD", Bnar Movies HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601522
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Barin Quran HD", Barin Quran HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601523
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Shna TV", Shna TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601524
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Walla TV HD", Walla TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601525
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Barin Movies FHD", Barin Movies FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601526
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Soran Entertainment HD", Soran Entertainment HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601527
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 1 HD",KurdCinema Action 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601528
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 3 HD",KurdCinema Action 3 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601529
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 4 HD",KurdCinema Action 4 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601530
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 6 HD",KurdCinema Action 6 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601531
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 7 HD",KurdCinema Action 7 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601532
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 10 HD",KurdCinema Action 10 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601533
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 11 HD",KurdCinema Action 11 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601534
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 12 HD",KurdCinema Action 12 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601535
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 9 HD",KurdCinema Action 9 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601536
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 8 HD",KurdCinema Action 8 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601537
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 5 HD",KurdCinema Action 5 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601538
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Action 2 HD",KurdCinema Action 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601539
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 1 HD",KurdCinema Animation 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601540
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 2 HD",KurdCinema Animation 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601541
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 4 HD",KurdCinema Animation 4 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601542
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 3 HD",KurdCinema Animation 3 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601543
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 5 HD",KurdCinema Animation 5 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601544
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 6 HD",KurdCinema Animation 6 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601545
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 7 HD",KurdCinema Animation 7 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601546
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Animation 8 HD",KurdCinema Animation 8 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601547
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 2 HD",KurdCinema Biography 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601548
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 4 HD",KurdCinema Biography 4 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601549
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 5 HD",KurdCinema Biography 5 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601550
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 6 HD",KurdCinema Biography 6 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601551
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 7 HD",KurdCinema Biography 7 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601552
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 8 HD",KurdCinema Biography 8 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601553
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 3 HD",KurdCinema Biography 3 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601554
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Biography 1 HD",KurdCinema Biography 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601555
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 1 HD",KurdCinema Comedy 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601556
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 2 HD",KurdCinema Comedy 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601557
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 4 HD",KurdCinema Comedy 4 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601558
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 5 HD",KurdCinema Comedy 5 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601559
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 6 HD",KurdCinema Comedy 6 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601560
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 7 HD",KurdCinema Comedy 7 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601561
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 8 HD",KurdCinema Comedy 8 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601562
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 9 HD",KurdCinema Comedy 9 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601563
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 10 HD",KurdCinema Comedy 10 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601564
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Comedy 3 HD",KurdCinema Comedy 3 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601565
-#EXTGRP:KURDI LOCAL - كردي ▶
-#EXTINF:-1 group-title="KURDI LOCAL - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="KurdCinema Sport 1 HD",KurdCinema Sport 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601566
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Rudaw HD",Ku: Rudaw HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601403
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: K24 HD",Ku: K24 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601404
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Channel 8 HD",Ku: Channel 8 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601405
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 1 HD",Ku: NRT 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601406
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 2 HD",Ku: NRT 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601407
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurdsat TV HD",Ku: Kurdsat TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601408
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurdsat News HD",Ku: Kurdsat News HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601409
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KNN HD",Ku: KNN HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601410
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurdistan TV HD",Ku: Kurdistan TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601411
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Gali Kurdistan TV",Ku: Gali Kurdistan TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601412
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kirkuk TV",Ku: Kirkuk TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601413
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Zagros HD",Ku: Zagros HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601414
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Payam TV",Ku: Payam TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601415
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Speda HD",Ku: Speda HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601416
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Amozhgary TV HD",Ku: Amozhgary TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601417
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Bangawaz TV",Ku: Bangawaz TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601418
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 4 HD",Ku: NRT 4 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601419
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Sorani HD",Ku: KurdMax Sorani HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601420
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Kurmanji HD",Ku: KurdMax Kurmanji HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601421
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Show HD Sorani",Ku: KurdMax Show HD Sorani
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601422
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: KurdMax Show Kurmanji HD",Ku: KurdMax Show Kurmanji HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601423
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: AVA HD",Ku: AVA HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601424
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Zoom HD",Ku: Zoom HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601425
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: NRT 3 Kids HD",Ku: NRT 3 Kids HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601426
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Zarok TV",Ku: Zarok TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601427
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: TRT Kurdi",Ku: TRT Kurdi
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601428
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Iraqia Kurdish TV",Ku: Iraqia Kurdish TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601429
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Sahar Kurdi TV",Ku: Sahar Kurdi TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601430
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Med Music TV",Ku: Med Music TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601431
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Waar TV HD",Ku: Waar TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601432
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: A TV HD",Ku: A TV HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601433
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Sterk TV",Ku: Sterk TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601434
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Aryen TV",Ku: Aryen TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601435
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Ronahi TV",Ku: Ronahi TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601436
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Cira TV",Ku: Cira TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601437
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Rojava HD",Ku: Rojava HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601438
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Jin HD",Ku: Jin HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601439
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Neu TV",Ku: Neu TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601440
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Kurd Channel HD",Ku: Kurd Channel HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601441
-#EXTGRP:KURDI - كردي ▶
-#EXTINF:-1 group-title="KURDI - كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name="Ku: Komala TV",Ku: Komala TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601442
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ANIMAL PLANT 4K",UK: ANIMAL PLANT 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232660
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ANIMAL PLANET HD",UK: ANIMAL PLANET HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232661
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ANIMAL PLANET",UK: ANIMAL PLANET
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232662
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO FHD",UK: NAT GEO FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232663
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO HD",UK: NAT GEO HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232664
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO 4K",UK: NAT GEO 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232665
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO WILD HD",UK: NAT GEO WILD HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232666
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAT GEO WILD 4K",UK: NAT GEO WILD 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232667
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY CHANNEL HD",UK: DISCOVERY CHANNEL HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232668
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY HD",UK: DISCOVERY HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232669
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY 4K",UK: DISCOVERY 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232670
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY",UK: DISCOVERY
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232671
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY SCIENCE",UK: DISCOVERY SCIENCE
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232672
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY HISTORY",UK: DISCOVERY HISTORY
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232673
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY TURBO",UK: DISCOVERY TURBO
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232674
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DISCOVERY SHED",UK: DISCOVERY SHED
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232675
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HISTORY 4K",UK: HISTORY 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232676
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HISTORY HD",UK: HISTORY HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232677
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HISTORY 2 HD",UK: HISTORY 2 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232678
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: D MAX HD",UK: D MAX HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232679
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: DMAX",UK: DMAX
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232680
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: HGTV",UK: HGTV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232681
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ID",UK: ID
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232682
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: ID +1",UK: ID +1
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232683
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: QUEST FHD",UK: QUEST FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232684
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: TLC HD",UK: TLC HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232685
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: H&C TV",UK: H&C TV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232686
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: INVESTIGATION DISCOVERY",UK: INVESTIGATION DISCOVERY
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232687
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: FOOD NETWORK",UK: FOOD NETWORK
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232688
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: QUEST RED",UK: QUEST RED
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232689
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: NAUTICAL CHANNEL",UK: NAUTICAL CHANNEL
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232690
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="UK: LOVE NATURE 4K",UK: LOVE NATURE 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232691
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery Channel",VIP UK: Discovery Channel
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232641
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery History",VIP UK: Discovery History
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232642
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery Science",VIP UK: Discovery Science
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232643
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Discovery Turbo",VIP UK: Discovery Turbo
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232644
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: DMAX",VIP UK: DMAX
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232645
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Animal Planet",VIP UK: Animal Planet
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232646
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Food Network",VIP UK: Food Network
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232647
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: HGTV",VIP UK: HGTV
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232648
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: ID",VIP UK: ID
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232649
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Quest",VIP UK: Quest
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232650
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Quest Red",VIP UK: Quest Red
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232651
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: Really",VIP UK: Really
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232652
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TLC",VIP UK: TLC
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232653
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 1",VIP UK: TNT Sports 1
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232654
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 2",VIP UK: TNT Sports 2
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232655
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 3",VIP UK: TNT Sports 3
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232656
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: TNT Sports 4",VIP UK: TNT Sports 4
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232657
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: EUROSPORT 1",VIP UK: EUROSPORT 1
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232658
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicZV3v_j-3w2SOxHST4V38W2fZ3UEiuPkMOkT3_a0M-1H1Slm9rWidMZTHjCOHjocNXfYDpUE9aAYO5rTUCD-qtIDZ3O9JVvxaR_MTtLNwCLjSBaTVTJ6HIzrgwIt2bhGpnXuZxbcIg1C3mMDLSLfloKkwkNoXvn4fKiQqYdqXD20xBCqbaD1T8TTQaLU/s150/uk.png" tvg-id="" tvg-name="VIP UK: EUROSPORT 2",VIP UK: EUROSPORT 2
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/232659
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/animalplanet.png" tvg-id="" tvg-name="UK-Animal Planet +1 SD*",UK-Animal Planet +1 SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191748
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/animalplanethd.png" tvg-id="" tvg-name="UK-Animal Planet FHD*",UK-Animal Planet FHD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191747
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/crimeandinvestigationhd.png" tvg-id="" tvg-name="UK-Crime & Investigation FHD*",UK-Crime & Investigation FHD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191749
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/crimeandinvestigation.png" tvg-id="" tvg-name="UK-Crime & Investigation SD*",UK-Crime & Investigation SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191750
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoverychanplus1.png" tvg-id="" tvg-name="UK-Discovery +1 SD*",UK-Discovery +1 SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191738
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryhd.png" tvg-id="" tvg-name="UK-Discovery FHD",UK-Discovery FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191736
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryhistory.png" tvg-id="" tvg-name="UK-Discovery History SD*",UK-Discovery History SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191743
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryscience.png" tvg-id="" tvg-name="UK-Discovery Science SD",UK-Discovery Science SD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191753
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoverychannel.png" tvg-id="" tvg-name="UK-Discovery SD*",UK-Discovery SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191737
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryturbo.png" tvg-id="" tvg-name="UK-Discovery Turbo SD*",UK-Discovery Turbo SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191755
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/discoveryturbo.png" tvg-id="" tvg-name="UK-DMAX +1 SD*",UK-DMAX +1 SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191754
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/edenhd.png" tvg-id="" tvg-name="UK-Eden FHD",UK-Eden FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191756
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/eden.png" tvg-id="" tvg-name="UK-Eden SD* +1",UK-Eden SD* +1
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191757
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/foodnetwork.png" tvg-id="" tvg-name="UK-Food XP SD*",UK-Food XP SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191762
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/HGTV.png" tvg-id="" tvg-name="UK-HGTV SD*",UK-HGTV SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191761
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/idplus1.png" tvg-id="" tvg-name="UK-ID +1 SD*",UK-ID +1 SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191745
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/id.png" tvg-id="" tvg-name="UK-Investigation Discovery SD*",UK-Investigation Discovery SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191744
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/nationalgeographichd.png" tvg-id="" tvg-name="UK-Nat Geo FHD",UK-Nat Geo FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191739
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/nationalgeographic.png" tvg-id="" tvg-name="UK-Nat Geo SD",UK-Nat Geo SD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191740
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/natgeowildhd.png" tvg-id="" tvg-name="UK-Nat Geo Wild FHD",UK-Nat Geo Wild FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191751
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1g.us/logos/natgeowild.png" tvg-id="" tvg-name="UK-Nat Geo Wild SD",UK-Nat Geo Wild SD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191752
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SkyDocumentaries.jpg" tvg-id="" tvg-name="UK-Sky Documentaries FHD",UK-Sky Documentaries FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191742
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/h2hd.png" tvg-id="" tvg-name="UK-Sky History 2 FHD",UK-Sky History 2 FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191758
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/historyhd.png" tvg-id="" tvg-name="UK-Sky History FHD",UK-Sky History FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191759
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/history.png" tvg-id="" tvg-name="UK-Sky History SD",UK-Sky History SD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191760
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SkyNature-1.jpg" tvg-id="" tvg-name="UK-Sky Nature FHD",UK-Sky Nature FHD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191741
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/travelchannel.png" tvg-id="" tvg-name="UK-Travel XP SD*",UK-Travel XP SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191763
-#EXTGRP:UK DOCUMENTARIES - بريطانيا وثائقيات ▶
-#EXTINF:-1 group-title="UK DOCUMENTARIES - بريطانيا وثائقيات ▶" tvg-logo="http://webo.asia/logos/yesterday.png" tvg-id="" tvg-name="UK-Yesterday SD*",UK-Yesterday SD*
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/191746
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 1 (G) - 4K",beIN SPORTS 1 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555829
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/Tjod7Ne.png" tvg-id="" tvg-name="beIN SPORTS 1 (N) - 4K",beIN SPORTS 1 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/390
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 (F) - 4K",beIN SPORTS 1 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554433
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 2 (G) - 4K",beIN SPORTS 2 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555830
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/ivsSaFi.png" tvg-id="" tvg-name="beIN SPORTS 2 (N) - 4K",beIN SPORTS 2 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/391
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 (F) - 4K",beIN SPORTS 2 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554434
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 3 (G) - 4K",beIN SPORTS 3 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555831
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/bNC0HFT.png" tvg-id="" tvg-name="beIN SPORTS 3 (N) - 4K",beIN SPORTS 3 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/392
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 (F) - 4K",beIN SPORTS 3 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554435
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 4 (G) - 4K",beIN SPORTS 4 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555832
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/VJLlcjz.png" tvg-id="" tvg-name="beIN SPORTS 4 (N) - 4K",beIN SPORTS 4 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/393
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 4 (F) - 4K",beIN SPORTS 4 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554436
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 5 (G) - 4K",beIN SPORTS 5 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555833
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/zFU08hy.png" tvg-id="" tvg-name="beIN SPORTS 5 (N) - 4K",beIN SPORTS 5 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/394
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 5 (F) - 4K",beIN SPORTS 5 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554437
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 6 (G) - 4K",beIN SPORTS 6 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555834
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/tz4FIx4.png" tvg-id="" tvg-name="beIN SPORTS 6 (N) - 4K",beIN SPORTS 6 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/395
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 6 (F) - 4K",beIN SPORTS 6 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554438
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 7 (G) - 4K",beIN SPORTS 7 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555835
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/ivBHtof.png" tvg-id="" tvg-name="beIN SPORTS 7 (N) - 4K",beIN SPORTS 7 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/396
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 7 (F) - 4K",beIN SPORTS 7 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554439
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 8 (G) - 4K",beIN SPORTS 8 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555836
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/gfweWXV.png" tvg-id="" tvg-name="beIN SPORTS 8 (N) - 4K",beIN SPORTS 8 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/397
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 8 (F) - 4K",beIN SPORTS 8 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554440
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ESq5jOHgWXkjYaw8o374xXMwIgG8GkXPakdS8K8EMB8NXaN86otamJPsWjBED0-onnsxfYa9RMbWTGA8KuE8w1NSSBYd-U5pvaaGPKvkoq9Sjhc0cHE3PoFbQnZydV3juq6sMPQMEJRzkE8ZjMzYSXFv_WQuLfunBhgK1QoZPWpPkfkwJqL6NGm_YA/s400/4k.png" tvg-id="" tvg-name="beIN SPORTS 9 (G) - 4K",beIN SPORTS 9 (G) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/555837
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/yvSZQkr.png" tvg-id="" tvg-name="beIN SPORTS 9 (N) - 4K",beIN SPORTS 9 (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/398
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 9 (F) - 4K",beIN SPORTS 9 (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554441
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 ENG (F) - 4K",beIN SPORTS 1 ENG (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554442
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 ENG (F) - 4K",beIN SPORTS 2 ENG (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554443
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/MmvlkVs.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (N) - 4K",beIN SPORTS 1 XTRA (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/400
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 XTRA (F) - 4K",beIN SPORTS 1 XTRA (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554444
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/V6Wy6n9.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (N) - 4K",beIN SPORTS 2 XTRA (N) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/401
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 XTRA (F) - 4K",beIN SPORTS 2 XTRA (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554445
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 3 XTRA (F) - 4K",beIN SPORTS 3 XTRA (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554446
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 1 FRANCE (F) - 4K",beIN SPORTS 1 FRANCE (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554447
-#EXTGRP:BEIN 4K - بي ان سبورت ▶
-#EXTINF:-1 group-title="BEIN 4K - بي ان سبورت ▶" tvg-logo="https://darlogo.xyz/Channels-Logo/Bein-Sports/Bein-Sports-Logo.png" tvg-id="" tvg-name="beIN SPORTS 2 FRANCE (F) - 4K",beIN SPORTS 2 FRANCE (F) - 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/554448
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Duhok Sports 4K", Duhok Sports 4K
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/602828
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" AVA Sport HD", AVA Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601394
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" 4Sport HD", 4Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601395
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" NRT Sport HD", NRT Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601396
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Reng Sport HD", Reng Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601397
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Kurdistan Sport HD", Kurdistan Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601398
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" ASO Sport HD", ASO Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601399
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Nubar Sport HD", Nubar Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601400
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" Motor 1 HD", Motor 1 HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601401
-#EXTGRP:KURDI SPORTS - رياضة كردي ▶
-#EXTINF:-1 group-title="KURDI SPORTS - رياضة كردي ▶" tvg-logo="http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png" tvg-id="" tvg-name=" MMN Sport HD", MMN Sport HD
-http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/601402
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="K24",K24
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300289
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/0d8fcba3e47b458d9b5d4474b99d447e.png" tvg-id="" tvg-name="NRT",NRT
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/287499
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f336d8a8d248cc71229fa0cc0cf95715.png" tvg-id="" tvg-name="Rudaw",Rudaw
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/814
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dcbb41d54dd8e9b4a48d31ec530c16e4.png" tvg-id="" tvg-name="Ava Entertainment",Ava Entertainment
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/54133
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/8a59718b8a78eab733296b59f467b910.jpg" tvg-id="" tvg-name="4 anime",4 anime
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147485
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="4 SPORT",4 SPORT
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300688
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="A TV",A TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/296894
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="A2",A2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301660
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4070cdb9a95a094c98bd21eb32052294.jpg" tvg-id="" tvg-name="Afarin Kids",Afarin Kids
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147496
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/dcfa9eace4219b74644aa46896d51695.png" tvg-id="" tvg-name="Amozhgary TV",Amozhgary TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/24477
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Aro Sport",Aro Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300694
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/885c3bb896830782f0dd9c7fb87d5db1.png" tvg-id="" tvg-name="Aryen TV",Aryen TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/54125
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/c0fead38f8d55411af24a896873536aa.jpeg" tvg-id="" tvg-name="Aso Sport",Aso Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193376
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/6c7343e8c4b204b467e8de55d75c51a4.jpg" tvg-id="" tvg-name="Astera Family",Astera Family
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147455
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a4ebe5f629ed0382eb732d9b4896b6f1.jpg" tvg-id="" tvg-name="Ava TV",Ava TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14693
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Baboly",Baboly
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300700
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c8ff8f3056cd5f679a68c139f4a94249.png" tvg-id="" tvg-name="Bangawaz TV",Bangawaz TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14704
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="BASK",BASK
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147497
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Biaban Family",Biaban Family
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147449
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="BMC",BMC
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193385
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/61a9de511b804b5688f26e096047e652.png" tvg-id="" tvg-name="Cira TV",Cira TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14713
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/c39cd1c1eb4249fd8efe8b4134cd701c.png" tvg-id="" tvg-name="Dasinya Kids",Dasinya Kids
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/24484
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/5e2959c7ee51bc319a09906d04c8882d.png" tvg-id="" tvg-name="Dasinya Sport",Dasinya Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300279
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/206eae7eade97e41f588480e2bf7242d.jpg" tvg-id="" tvg-name="Delal Sport",Delal Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300710
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/ede74cb84644c86d5748923ff183f632.png" tvg-id="" tvg-name="Derin TV",Derin TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300281
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Derwaza Music",Derwaza Music
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193394
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/341b78164acd29d39994d548641d0983.png" tvg-id="" tvg-name="Derwaze TV",Derwaze TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193419
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Dimen TV",Dimen TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14700
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Duhok Sport",Duhok Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301667
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/ced45a4a2380992dc2d6f6417abb2b4f.png" tvg-id="" tvg-name="Duhok TV",Duhok TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/281582
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/26c48282816be23503f72a4dd64d2adc.jpg" tvg-id="" tvg-name="EUROKURD",EUROKURD
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/173120
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fc26ce08fbc6d4545571ea5651995036.jpeg" tvg-id="" tvg-name="Evin TV",Evin TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193550
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="FOX",FOX
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300713
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/09b6ca809539b3a5584aa3064f162da9.png" tvg-id="" tvg-name="GK Channel",GK Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/16780
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5c1262a943dcf6509dcbe474bcdb4159.png" tvg-id="" tvg-name="Iraqia Kurdish",Iraqia Kurdish
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/781
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/93079b473cd5d5e6e3e6abd2f3e76ee5.jpg" tvg-id="" tvg-name="Ishtar TV",Ishtar TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/90135
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Islam Wtar 1",Islam Wtar 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300721
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Islam Wtar 2",Islam Wtar 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300722
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/a03d890a255587dc9277cd634b1c838c.png" tvg-id="" tvg-name="Jin TV",Jin TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/297948
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7e271341d1fb230f7ac872bc61b2122f.jpg" tvg-id="" tvg-name="Jojo Mama",Jojo Mama
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174450
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Judi Tv",Judi Tv
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300724
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/12e0fe2fe5f37cbc3f91cfff8fc3da1d.jpg" tvg-id="" tvg-name="Kani TV",Kani TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/24480
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/549864e99a778a74d207c9b1becdc837.png" tvg-id="" tvg-name="Komala",Komala
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/69520
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/6c320d8cdccb3d1decc00d56d01ea398.png" tvg-id="" tvg-name="Kurd Channel",Kurd Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166234
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Kurd Doblazh",Kurd Doblazh
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300303
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/71344932539540bbbe2ada1b7ea3f614.png" tvg-id="" tvg-name="Kurd Movies",Kurd Movies
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/24487
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="KurdCinema Action 1",KurdCinema Action 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193426
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="KurdCinema Action 2",KurdCinema Action 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193425
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="KurdCinema Action 3",KurdCinema Action 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193424
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="KURDFILM",KURDFILM
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300752
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3be064db4396be78b79495f62eea1b51.png" tvg-id="" tvg-name="Kurdistan 24",Kurdistan 24
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/813
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Kurdistan Sport",Kurdistan Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193389
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a89bac1fa214ea441cb72d54ea2d499b.png" tvg-id="" tvg-name="Kurdistan TV",Kurdistan TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/808
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def5768d2ab3f337c19997958bab5400.png" tvg-id="" tvg-name="KurdMax",KurdMax
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/801
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e51dbbb8d51f1b9ba7dc4994f4c24e9a.jpg" tvg-id="" tvg-name="KurdMax Music",KurdMax Music
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/799
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Kurdmax Pepula",Kurdmax Pepula
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193428
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/19501836666ee1ef8b37faaf5aaca291.png" tvg-id="" tvg-name="KurdMax Show",KurdMax Show
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/800
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/959458b412beef9d6a14d0154a951bc7.png" tvg-id="" tvg-name="Kurdsat",Kurdsat
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/816
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/93a7d40b8cebce3ebf916094a26297bc.png" tvg-id="" tvg-name="Kurdsat News",Kurdsat News
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/811
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/71b02742a03daea4467b5a6f085ed1b0.png" tvg-id="" tvg-name="Kurtce",Kurtce
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/202082
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8e3838d79f45cf26fdceda87526b5ee3.png" tvg-id="" tvg-name="Lawan TV",Lawan TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193408
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="LD anime",LD anime
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300727
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="LD AZHIN TV",LD AZHIN TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300728
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="LD Family",LD Family
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300729
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="LD LIFE",LD LIFE
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300732
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="LD NUJEN",LD NUJEN
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300733
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="LIFE Islam",LIFE Islam
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300737
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Med Music TV",Med Music TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300739
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/84fdc3302e612df0b7bdb7dda069d93d.png" tvg-id="" tvg-name="MED MUZIK",MED MUZIK
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/281584
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/fe366959aea59605501803ea1fe92e99.jpg" tvg-id="" tvg-name="Mihrab TV",Mihrab TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300293
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="MINARA TV",MINARA TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300740
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/72fbdb985b777796b22c9f0e67e42edc.png" tvg-id="" tvg-name="MMN Movies",MMN Movies
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147475
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/2643c1161f0c36504748700725ab7f72.png" tvg-id="" tvg-name="MMN News",MMN News
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/172541
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Mr Bean Kurdish",Mr Bean Kurdish
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300743
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e4225fdaedb367821c6d0bf1daaae171.png" tvg-id="" tvg-name="Net TV",Net TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/778
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Neu TV",Neu TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193431
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="NewLine",NewLine
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/296392
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Newline 2",Newline 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/296393
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Newline Bollywood",Newline Bollywood
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300747
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Newline Drama",Newline Drama
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300748
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Newline Movies",Newline Movies
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300750
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Newline Sport",Newline Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300751
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Niga Family",Niga Family
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193413
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/531248ee22e40abdc769b188da9f889a.jpg" tvg-id="" tvg-name="Niga Kids",Niga Kids
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147490
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4134cc958448ae37b232fa30f2eeccb5.jpg" tvg-id="" tvg-name="Niga Movies",Niga Movies
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193412
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Nishtimany",Nishtimany
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301672
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2d96c50b8f40b52ac7dc23d8c336f496.jpg" tvg-id="" tvg-name="Nohadra",Nohadra
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/52764
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Noor",Noor
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/158411
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e26a81ca3b9ea405be60a259fb0319c2.png" tvg-id="" tvg-name="NRT 2",NRT 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/820
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9fb4550ba1d958ab120816ca21bcd3f7.png" tvg-id="" tvg-name="NRT 3 Kids",NRT 3 Kids
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/810
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/49347f1f4cb7f850418eb7b3f6700ca1.png" tvg-id="" tvg-name="NRT 4",NRT 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/807
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/cf0a642458b7a83f2eef7e92355bf41f.jpg" tvg-id="" tvg-name="NRT News",NRT News
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/812
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="NRT Sport",NRT Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300287
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="One World",One World
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300756
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Parwardayi Duhok TV",Parwardayi Duhok TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/281587
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e60ff3851f8426226481028fe879c7cb.png" tvg-id="" tvg-name="Payam TV",Payam TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/796
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Qalam",Qalam
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301674
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Qalam Ayni",Qalam Ayni
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301675
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Qalam geoghraphic",Qalam geoghraphic
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301676
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Qalam kids",Qalam kids
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301677
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Qalat TV",Qalat TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193417
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Qaqa TV Kurdish",Qaqa TV Kurdish
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300762
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Ranya",Ranya
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147517
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Reng Document",Reng Document
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193390
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Reng TV",Reng TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193397
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Rojava",Rojava
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301678
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d3a14ab9cabc59ed5d59e9e6c7d081b8.png" tvg-id="" tvg-name="Ronahi TV",Ronahi TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14890
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="Rozh",Rozh
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301679
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="SADA",SADA
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/172547
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/d9f4b7dfeb5e8b2cea283c25da049eb6.png" tvg-id="" tvg-name="Sahar TV",Sahar TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300763
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="See Sport 1",See Sport 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301680
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="" tvg-name="See Sport 2",See Sport 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301681
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="See Sport 3",See Sport 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300286
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2fe9333b3a87418e4af504eca9496df7.jpg" tvg-id="" tvg-name="Sima",Sima
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14719
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Sima Document",Sima Document
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300766
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="SIMA SPORT 1",SIMA SPORT 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300767
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Slemani",Slemani
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300768
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1c7f1215ad44a8997d85241e820f1fca.png" tvg-id="" tvg-name="Speda Channel",Speda Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/18798
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/6f44ea6b7f898515dac92ea8e1da9f7f.jpg" tvg-id="" tvg-name="Speda Drama",Speda Drama
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300679
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce32232d53c873b9ba67c286d821aa4e.png" tvg-id="" tvg-name="Stêrk",Stêrk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14897
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Tasawf",Tasawf
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/173118
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ebc482b40d1c3de2ab2bd8bbfbea8dd6.png" tvg-id="" tvg-name="TRT Kurdi",TRT Kurdi
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/16782
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="U TV",U TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147494
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="U2 Channel",U2 Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/147357
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21726d386d369390403f19042e78deb3.png" tvg-id="" tvg-name="Waar TV",Waar TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/804
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/b49a7fd397be3d2963b8820f0bd75794.png" tvg-id="" tvg-name="Zarok TV Sorani",Zarok TV Sorani
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300278
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/abfc5e523628fdf61715aa1ca4126133.png" tvg-id="" tvg-name="ZAXO",ZAXO
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300290
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Zed Plus",Zed Plus
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300772
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4ab7ed1fb37a5c49d3dd784945f62f65.png" tvg-id="" tvg-name="Zed TV",Zed TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14899
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="" tvg-name="Zhyan Nama",Zhyan Nama
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300774
+#EXTGRP:Kurdistan
+#EXTINF:-1 group-title="Kurdistan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/5983d06f0c24fbd3895a5c8bdf73fb0a.jpg" tvg-id="" tvg-name="ZNAR",ZNAR
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/286806
 #EXTGRP:BEIN HD - بي ان سبورت ▶
 #EXTINF:-1 group-title="BEIN HD - بي ان سبورت ▶" tvg-logo="https://i.imgur.com/txLvrKf.png" tvg-id="" tvg-name="beIN SPORTS (F) - HD",beIN SPORTS (F) - HD
 http://max.amigo00.com:2052/@kurdishSmartTv/Kn2S40yvqC/370
