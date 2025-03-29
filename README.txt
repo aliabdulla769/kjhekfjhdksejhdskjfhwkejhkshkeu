@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://vod-logo.net/photos/b4b2ad8333f8354c5e12cd05b7824c98.png" tvg-id="" tvg-name=" ASO Sport HD", ASO Sport HD
+#EXTINF:-1 group-title="Kurdish" tvg-logo="http://vod-logo.net/photos/b4b2ad8333f8354c5e12cd05b7824c98.png" tvg-id="" tvg-name=" AASO Sport HD", AASO Sport HD
 http://faucontv.live/live:.cid.651406f830eed3072/df3cHkaUue/184132.m3u8
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://vod-logo.net/photos/daca271e3cf6f7aa63dca31cca26e034.png" tvg-id="" tvg-name=" Astera Documentary HD", Astera Documentary HD
