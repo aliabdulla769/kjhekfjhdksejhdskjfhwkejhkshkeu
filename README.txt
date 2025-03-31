@@ -9,7 +9,7 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/70744
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/K24.png" tvg-id="" tvg-name="K24",K24
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1160
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NRT.png" tvg-id="" tvg-name="NRT 1 News ",NRT 
+#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NRT.png" tvg-id="" tvg-name="NRT 1 News ",NRT
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/8
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" tvg-id="" tvg-name="Channel 8 Kurdish",Channel 8 Kurdish
@@ -47,9 +47,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/421946
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KERKUK.png" tvg-id="" tvg-name="Kirkuk",Kirkuk
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/204
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KRD.WWE.png" tvg-id="" tvg-name="KRD WWE",KRD WWE
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/28103
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KOMAL.png" tvg-id="" tvg-name="Komall",Komall
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/14367
@@ -153,9 +150,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/5
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" tvg-id="" tvg-name="KurdMax Show Sorani",KurdMax Show Sorani
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/2289
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" tvg-id="" tvg-name="Aryen TV",Aryen TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/10159
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" tvg-id="" tvg-name="Asman",Asman
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/201415
 #EXTGRP:Kurdish
@@ -174,9 +168,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/432069
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/AZADITV.png" tvg-id="" tvg-name="Azadi",Azadi
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/84637
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/BK4.png" tvg-id="" tvg-name="b4 kurdish",b4 kurdish
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/97483
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/BABOLY.png" tvg-id="" tvg-name="Baboly",Baboly
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/41009
 #EXTGRP:Kurdish
@@ -192,44 +183,17 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/191778
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/BASK.png" tvg-id="" tvg-name="BASK",BASK
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/199936
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/BEFRIN.png" tvg-id="" tvg-name="BEFRIN HD",BEFRIN HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/444983
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" tvg-id="" tvg-name="Binar",Binar
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/143285
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/4KURD.png" tvg-id="" tvg-name="4 Kurd",4 Kurd
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/143286
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/AMOZHGARY.png" tvg-id="" tvg-name="Amozhgary",Amozhgary
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/67194
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/A.AMOZHGARY.png" tvg-id="" tvg-name="A.Amozhgary",A.Amozhgary
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/239696
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/A2.png" tvg-id="" tvg-name="A2",A2
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/385885
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/AKILLI.png" tvg-id="" tvg-name="Akili TV",Akili TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169646
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ALA.png" tvg-id="" tvg-name="Ala",Ala
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/340126
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ALLA.png" tvg-id="" tvg-name="ALLA",ALLA
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/249322
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/CIHAN.png" tvg-id="" tvg-name="Cihan  ",Cihan  
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/9594
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/CIRA.png" tvg-id="" tvg-name="Cira TV",Cira TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1209
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/DASINYA.png" tvg-id="" tvg-name="Dasinya HD",Dasinya HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169673
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/DELAL.png" tvg-id="" tvg-name="Delal TV",Delal TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169677
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/DERIN.png" tvg-id="" tvg-name="Derin",Derin
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/134471
@@ -246,38 +210,11 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/108667
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" tvg-id="" tvg-name="Duhok",Duhok
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/19919
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" tvg-id="" tvg-name="Duhok TV HD",Duhok TV HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169685
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" tvg-id="" tvg-name="ESRA 2 ",ESRA 2 
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/61003
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" tvg-id="" tvg-name="Esra Quran ",Esra Quran 
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/28975
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" tvg-id="" tvg-name="ESRA TV",ESRA TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/341947
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/EZDAN.png" tvg-id="" tvg-name="Ezdan",Ezdan
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/168399
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/FARMODA.png" tvg-id="" tvg-name="Farmoda",Farmoda
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/431207
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/LOCAL.FIRST.png" tvg-id="" tvg-name="First ",First 
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/201409
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/FOX.png" tvg-id="" tvg-name="FOX",FOX
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/196373
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/FOX.png" tvg-id="" tvg-name="Fox HD",Fox HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169686
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/GARYANMEDIA.png" tvg-id="" tvg-name="Garyan TV",Garyan TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/443290
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" tvg-id="" tvg-name="Gewhar",Gewhar
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/427934
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/HALABJA.png" tvg-id="" tvg-name="Halabja",Halabja
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/382145
@@ -288,15 +225,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/445555
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/IRAQIA.KURD.png" tvg-id="" tvg-name="Iraqia Kurd",Iraqia Kurd
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/28639
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ISHTAR.png" tvg-id="" tvg-name="Ishtar",Ishtar
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/124561
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/JIN.png" tvg-id="" tvg-name="Jin",Jin
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/117517
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/JUDI.png" tvg-id="" tvg-name="Judi",Judi
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/118328
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KALAPUR.png" tvg-id="" tvg-name="Kalapur",Kalapur
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/243475
 #EXTGRP:Kurdish
@@ -305,9 +233,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/162749
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KOMAL.RANYA.png" tvg-id="" tvg-name="Komal Ranya",Komal Ranya
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/36726
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KURD.png" tvg-id="" tvg-name="KURD",KURD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/324079
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KURD.png" tvg-id="" tvg-name="KURD CHANNEL",KURD CHANNEL
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/286734
@@ -324,9 +249,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/298774
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/LD.LIFE.png" tvg-id="" tvg-name="LD LIFE",LD LIFE
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/384494
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/LD.NUJIN.png" tvg-id="" tvg-name="LD Nujin",LD Nujin
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/157862
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/PSHDAR.png" tvg-id="" tvg-name="LD Pshdar",LD Pshdar
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/323413
 #EXTGRP:Kurdish
@@ -342,20 +264,8 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/425082
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/MINARA.png" tvg-id="" tvg-name="Minara",Minara
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/39072
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/MIX.KURDISH.png" tvg-id="" tvg-name="Mix Kurdy",Mix Kurdy
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/84585
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" tvg-id="" tvg-name="MMN ACTION",MMN ACTION
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/190536
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/MMN.CLIP.png" tvg-id="" tvg-name="MMN Clip",MMN Clip
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/28840
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/MMN.SHOW.png" tvg-id="" tvg-name="MMN Show",MMN Show
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/29799
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" tvg-id="" tvg-name="MNN ACTION",MNN ACTION
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/190275
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.png" tvg-id="" tvg-name="NewLine",NewLine
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1031
@@ -366,38 +276,14 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1961
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" tvg-id="" tvg-name="NewMax Box Office 1",NewMax Box Office 1
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/15791
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEXT.png" tvg-id="" tvg-name="Next",Next
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/33281
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEXTTV.png" tvg-id="" tvg-name="Next TV",Next TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/436805
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NIROJ.png" tvg-id="" tvg-name="Niroj",Niroj
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/431308
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NISHTIMANYMN.png" tvg-id="" tvg-name="Nishtimany mn",Nishtimany mn
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/298523
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NOOR.png" tvg-id="" tvg-name="Noor",Noor
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/196381
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NR1.png" tvg-id="" tvg-name="NR1 KURD",NR1 KURD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/94963
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NUBAR.SPORT.png" tvg-id="" tvg-name="Nubar",Nubar
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/36838
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ONE.png" tvg-id="" tvg-name="One World",One World
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/196375
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/PARWARDAI.HAWLER.png" tvg-id="" tvg-name="Parwardai Hawler HD",Parwardai Hawler HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/199334
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/PARWARDAY.DUHOK.png" tvg-id="" tvg-name="Parwardayi Duhok",Parwardayi Duhok
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/117564
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/PAYAM.png" tvg-id="" tvg-name="Payam FM",Payam FM
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/30398
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ARIFANSUNNAT.png" tvg-id="" tvg-name="Arifan sunnat",Arifan sunnat
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/408350
@@ -414,23 +300,17 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1037
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/RANIA.png" tvg-id="" tvg-name="Ranya",Ranya
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/90905
 #EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KRD.WWE.png" tvg-id="" tvg-name="KRD WWE",KRD WWE
+http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/28103
+#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/RASAN.png" tvg-id="" tvg-name="Rasan",Rasan
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1962
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/RAVAND.png" tvg-id="" tvg-name="RAVAND",RAVAND
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1773
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/RED.png" tvg-id="" tvg-name="RED tv",RED tv
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/188563
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ROJAVA.png" tvg-id="" tvg-name="Rojava",Rojava
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/21494
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ROZHGAR.png" tvg-id="" tvg-name="Rojgar",Rojgar
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/439842
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/RONAHI.png" tvg-id="" tvg-name="Ronahi",Ronahi
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/215
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ROZH.png" tvg-id="" tvg-name="Rozh",Rozh
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/162530
@@ -444,12 +324,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/16725
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/SHAISTA.png" tvg-id="" tvg-name="Shaista",Shaista
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/10582
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/SHNA.png" tvg-id="" tvg-name="Shna ",Shna 
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/432068
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/SIMA.png" tvg-id="" tvg-name="Sima",Sima
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/162752
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/SILEMANI.png" tvg-id="" tvg-name="Slemani",Slemani
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/135706
 #EXTGRP:Kurdish
@@ -462,32 +336,14 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/418833
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/STERK.png" tvg-id="" tvg-name="Sterk",Sterk
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/216
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/TASAWUF.png" tvg-id="" tvg-name="tasawf",tasawf
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/149064
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/TRT.KURDI.png" tvg-id="" tvg-name="TRT KURDI",TRT KURDI
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/149194
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/UTV.png" tvg-id="" tvg-name="U TV",U TV
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/1041
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" tvg-id="" tvg-name="U2",U2
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/13024
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/UTV.png" tvg-id="" tvg-name="UTV",UTV
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/31689
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" tvg-id="" tvg-name="UTV 2",UTV 2
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169736
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/UTV.png" tvg-id="" tvg-name="UTV DUHOK  HD",UTV DUHOK  HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169735
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/WAAR.png" tvg-id="" tvg-name="WAAR",WAAR
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/11210
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/SHAKROK.png" tvg-id="" tvg-name="Welat Tv",Welat Tv
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/37129
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/XABIR.png" tvg-id="" tvg-name="Xabir",Xabir
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169740
@@ -495,32 +351,11 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169740
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ZAGROS.png" tvg-id="" tvg-name="Zagros TV",Zagros TV
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/10
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" tvg-id="" tvg-name="Zaxo",Zaxo
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/162751
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" tvg-id="" tvg-name="Zaxo HD",Zaxo HD
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/201407
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ZEVER.png" tvg-id="" tvg-name="ZEVER",ZEVER
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/247286
-#EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEW.png" tvg-id="" tvg-name="Zheer HD",Zheer HD
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/421317
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ZHYAR.png" tvg-id="" tvg-name="Zhyar",Zhyar
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/169743
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZEN.BADINAN.png" tvg-id="" tvg-name="K-Bangxwazen Badinan",K-Bangxwazen Badinan
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/93621
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.BOLLYWOOD.png" tvg-id="" tvg-name="K-Newline Bollywood",K-Newline Bollywood
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/293137
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KOMALA.MEDIA.NETWORK.png" tvg-id="" tvg-name="KOMALA Media Network",KOMALA Media Network
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/163223
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/KURD7.png" tvg-id="" tvg-name="KURD 7",KURD 7
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/447467
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/SORAN.ENTERTAINMENT.png" tvg-id="" tvg-name="Soran  Entertainment",Soran  Entertainment
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/465279
@@ -530,9 +365,6 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/209004
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ISLAMWTAR.png" tvg-id="" tvg-name="Islam Wtar 2",Islam Wtar 2
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/209005
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" tvg-id="" tvg-name="NewMax Box Office",NewMax Box Office
-http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/275531
 #EXTGRP:Kurdish
 #EXTINF:-1 group-title="Kurdish" tvg-logo="http://194.163.160.164/KURDY/ZHYANNAMA.png" tvg-id="" tvg-name="Zhyan Nama",Zhyan Nama
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/208164
@@ -602,6 +434,12 @@ http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/351225
 #EXTGRP:Kurdish Movies
 #EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/MRBEAN.png" tvg-id="" tvg-name="Mr. Bean Kurdish",Mr. Bean Kurdish
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/350980
+#EXTGRP:Kurdish Movies
+#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" tvg-id="" tvg-name="NewMax Box Office",NewMax Box Office
+http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/275531
+#EXTGRP:Kurdish Movies
+#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" tvg-id="" tvg-name="MMN ACTION",MMN ACTION
+http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/190536
 #EXTGRP:Kurdish Kids
 #EXTINF:-1 group-title="Kurdish Kids" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" tvg-id="" tvg-name="Aro Kids",Aro Kids
 http://superintendent.whatevergos.com:2095/11234567890/xP8ofiYpUG/159595
