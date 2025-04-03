@@ -231,12 +231,6 @@ http://airmaxlive.boats:80/airmaxtv/66554417/1604
 #EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="ASHTI TV",ASHTI TV
 http://airmaxlive.boats:80/airmaxtv/66554417/1605
 #EXTGRP:documentary الوثائقية
-#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="الوثائقية documentary🏞️",الوثائقية documentary🏞️
-http://airmaxlive.boats:80/airmaxtv/66554417/894
-#EXTGRP:documentary الوثائقية
-#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="🏞️كيف احصل على الكود",🏞️كيف احصل على الكود
-http://airmaxlive.boats:80/airmaxtv/66554417/895
-#EXTGRP:documentary الوثائقية
 #EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/CL22wwo.png" tvg-id="" tvg-name="Asharq Documentary HD",Asharq Documentary HD
 http://airmaxlive.boats:80/airmaxtv/66554417/896
 #EXTGRP:documentary الوثائقية
@@ -323,9 +317,6 @@ http://airmaxlive.boats:80/airmaxtv/66554417/923
 #EXTGRP:BEIN SPORT بين سبور
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="BEIN SPORT⚽️",BEIN SPORT⚽️
 http://airmaxlive.boats:80/airmaxtv/66554417/10
-#EXTGRP:BEIN SPORT بين سبور
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="⚽️كيف احصل على الكود",⚽️كيف احصل على الكود
-http://airmaxlive.boats:80/airmaxtv/66554417/11
 #EXTGRP:BEIN SPORT بين سبور
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg" tvg-id="" tvg-name="beIN SPORTS NEWS",beIN SPORTS NEWS
 http://airmaxlive.boats:80/airmaxtv/66554417/12
@@ -542,12 +533,6 @@ http://airmaxlive.boats:80/airmaxtv/66554417/18070
 #EXTGRP:BEIN SPORT VIP بين سبور
 #EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="BEIN SPORT⚽️",BEIN SPORT⚽️
 http://airmaxlive.boats:80/airmaxtv/66554417/328
-#EXTGRP:BEIN SPORT VIP بين سبور
-#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="⚽️كيف احصل على الكود",⚽️كيف احصل على الكود
-http://airmaxlive.boats:80/airmaxtv/66554417/329
-#EXTGRP:BEIN SPORT VIP بين سبور
-#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="النسخة المدفوعة AirMax TV",النسخة المدفوعة AirMax TV
-http://airmaxlive.boats:80/airmaxtv/66554417/330
 #EXTGRP:BEIN SPORT VIP بين سبور
 #EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="beIN SPORTS 1ᔆᵈ.",beIN SPORTS 1ᔆᵈ.
 http://airmaxlive.boats:80/airmaxtv/66554417/22027
