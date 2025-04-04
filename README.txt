@@ -317,52 +317,52 @@ http://airmaxlive.boats:80/airmaxtv/66554417/923
 #EXTM3U
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" tvg-id="" tvg-name="beIN Sports 1",beIN Sports 1
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/1
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/1.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" tvg-id="" tvg-name="beIN Sports 2",beIN Sports 2
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/2
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/2.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" tvg-id="" tvg-name="beIN Sports 3",beIN Sports 3
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/3
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/3.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="" tvg-id="" tvg-name="BeIN Sports 7 HD",BeIN Sports 7 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/4
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/4.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN Sports 2 ",beIN Sports 2 
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/15
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/15.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN Sports 3 ",beIN Sports 3 
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/16
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/16.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN 4 FHD",beIN 4 FHD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/17
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/17.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN 5 HD",beIN 5 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/18
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/18.m3u8
 #EXTGRP:beIN Sports  بي ان سبورت
 #EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN 6 HD",beIN 6 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/19
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/19.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 1 HD",SSC 1 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/5
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/5.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 2 HD",SSC 2 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/6
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/6.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 3 HD",SSC 3 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/7
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/7.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 5 HD",SSC 5 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/8
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/8.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 4 HD",SSC 4 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/9
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/9.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC-EXTRA 1 HD",SSC-EXTRA 1 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/10
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/10.m3u8
 #EXTGRP:SSC قنوات اس اس سي
 #EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC-EXTRA 2 HD",SSC-EXTRA 2 HD
-http://xtream-ie.com:80/mo3ad7720/mo3ad7720/11
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/11.m3u8
 #EXTGRP:BEIN SPORT بين سبور
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="BEIN SPORT⚽️",BEIN SPORT⚽️
 http://airmaxlive.boats:80/airmaxtv/66554417/10
