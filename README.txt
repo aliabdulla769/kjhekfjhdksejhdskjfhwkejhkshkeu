@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP:KURDISH
 #EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Channel 8 kurdish",Channel 8 kurdish
-http://exm3u.extraott.com/54RL5KJE/QVVXHK64/381824
+http://airmaxlive.boats:80/airmaxtv/66554417/1591
 #EXTGRP:KURDISH
 #EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3mlWAvB" tvg-id="Kurdsat News" tvg-name="Kurdsat News",Kurdsat News
 http://airmaxlive.boats:80/airmaxtv/66554417/1536
