@@ -1,2102 +1,385 @@
 #EXTM3U
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="AVA 4K",AVA 4K
-http://myhand.org:8080/26511658231305/14811509280534/363394
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: K24 HD",Ku: K24 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527948
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Rudaw HD",Rudaw HD
-http://myhand.org:8080/26511658231305/14811509280534/3
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Rudaw HD",Ku: Rudaw HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527947
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/3Tj1SCc/Channel-8.png" tvg-id="" tvg-name="Channel 8 4K",Channel 8 4K
-http://myhand.org:8080/26511658231305/14811509280534/716561
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Kurd Channel HD",Ku: Kurd Channel HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527945
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/J53K6Vc/NRT-News.png" tvg-id="" tvg-name="NRT 1 HD",NRT 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/8
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Channel 8 HD",Ku: Channel 8 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527946
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/KyHh2GF/Kurdsat-News.png" tvg-id="" tvg-name="Kurdsat News 4K",Kurdsat News 4K
-http://myhand.org:8080/26511658231305/14811509280534/69864
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: NRT 1 HD",Ku: NRT 1 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527949
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/1MrCC8t/K24.png" tvg-id="" tvg-name="K24 4K",K24 4K
-http://myhand.org:8080/26511658231305/14811509280534/69862
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Kurdsat News HD",Ku: Kurdsat News HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527950
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zoom 4K",Zoom 4K
-http://myhand.org:8080/26511658231305/14811509280534/363504
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: KNN HD",Ku: KNN HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527951
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Payam 4K",Payam 4K
-http://myhand.org:8080/26511658231305/14811509280534/363524
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Gali Kurdistan TV",Ku: Gali Kurdistan TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527952
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Speda 4K",Speda 4K
-http://myhand.org:8080/26511658231305/14811509280534/363527
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Kurdistan TV HD",Ku: Kurdistan TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527953
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Family Raparin HD",Family Raparin HD
-http://myhand.org:8080/26511658231305/14811509280534/176301
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Zagros TV HD",Ku: Zagros TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527954
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Lalav Group TV",Lalav Group TV
-http://myhand.org:8080/26511658231305/14811509280534/853175
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Kirkuk TV",Ku: Kirkuk TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527955
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zed HD",Zed HD
-http://myhand.org:8080/26511658231305/14811509280534/10581
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Waar TV HD",Ku: Waar TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527956
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zed+ HD",Zed+ HD
-http://myhand.org:8080/26511658231305/14811509280534/90975
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Payam TV",Ku: Payam TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527957
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Niga Family HD",Niga Family HD
-http://myhand.org:8080/26511658231305/14811509280534/103926
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Speda TV HD",Ku: Speda TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527958
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Reng Family HD",Reng Family HD
-http://myhand.org:8080/26511658231305/14811509280534/103912
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: TRT Kurdi",Ku: TRT Kurdi
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527959
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="4Anime 4K",4Anime 4K
-http://myhand.org:8080/26511658231305/14811509280534/275888
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Kurdsat TV HD",Ku: Kurdsat TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527960
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="NewLine 1 HD",NewLine 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/1031
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: AVA Entertainment",Ku: AVA Entertainment
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527961
 #EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="NewLine 2 HD",NewLine 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/1961
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Family HD",Astera Family HD
-http://myhand.org:8080/26511658231305/14811509280534/90965
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Rasan HD",Rasan HD
-http://myhand.org:8080/26511658231305/14811509280534/1962
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="BMC HD",BMC HD
-http://myhand.org:8080/26511658231305/14811509280534/184191
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Khak HD",Khak HD
-http://myhand.org:8080/26511658231305/14811509280534/317623
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="https://i.ibb.co/QQZxmPx/ezgif-com-webp-to-png-1.png" tvg-id="" tvg-name="Shahid Nature Time",Shahid Nature Time
-http://myhand.org:8080/26511658231305/14811509280534/389869
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="" tvg-name="Shahid Top Chef HD",Shahid Top Chef HD
-http://myhand.org:8080/26511658231305/14811509280534/787051
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="" tvg-name="Sa| Asharq Documentary HD ✦",Sa| Asharq Documentary HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/680380
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="" tvg-name="Sa| Asharq Discovery HD ✦",Sa| Asharq Discovery HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/681245
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="" tvg-name="Sa| Al Majd Documentary SD ✦",Sa| Al Majd Documentary SD ✦
-http://myhand.org:8080/26511658231305/14811509280534/726953
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="http://vod-logo.net/photos/4e591901df228eb81194533669759575.png" tvg-id="" tvg-name="IR: Gem Food HD",IR: Gem Food HD
-http://myhand.org:8080/26511658231305/14811509280534/7577
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="" tvg-name="IR: Gem Documentary HD",IR: Gem Documentary HD
-http://myhand.org:8080/26511658231305/14811509280534/69519
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="http://vod-logo.net/photos/670c795dde56550163a1e6c120e8950a.png" tvg-id="" tvg-name="IR: Gem Travel HD",IR: Gem Travel HD
-http://myhand.org:8080/26511658231305/14811509280534/14049
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="" tvg-name="IR: Gem Nature HD",IR: Gem Nature HD
-http://myhand.org:8080/26511658231305/14811509280534/69518
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="" tvg-id="nationalgeographicabudhabi.ae" tvg-name="OSN Nat Geo Abu Dhabi HD",OSN Nat Geo Abu Dhabi HD
-http://myhand.org:8080/26511658231305/14811509280534/352227
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="http://vod-logo.net/photos/cb655a2c7ae62005cd4155ec49d57c2f.png" tvg-id="idx.sa" tvg-name="OSN Discovery ID HD",OSN Discovery ID HD
-http://myhand.org:8080/26511658231305/14811509280534/14430
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg" tvg-id="discoveryscience.sa" tvg-name="OSN Animal Planet HD",OSN Animal Planet HD
-http://myhand.org:8080/26511658231305/14811509280534/1162
-#EXTGRP:Decomentary
-#EXTINF:-1 group-title="Decomentary" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" tvg-id="discovery.sa" tvg-name="OSN Discovery Channel HD",OSN Discovery Channel HD
-http://myhand.org:8080/26511658231305/14811509280534/7701
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Baha HD",Baha HD
-http://myhand.org:8080/26511658231305/14811509280534/176319
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Minara HD",Minara HD
-http://myhand.org:8080/26511658231305/14811509280534/754001
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Barin FHD",Barin FHD
-http://myhand.org:8080/26511658231305/14811509280534/399006
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Halabja HD",Halabja HD
-http://myhand.org:8080/26511658231305/14811509280534/392230
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Hormzyar HD",Hormzyar HD
-http://myhand.org:8080/26511658231305/14811509280534/828816
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="K21",K21
-http://myhand.org:8080/26511658231305/14811509280534/427833
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zever TV",Zever TV
-http://myhand.org:8080/26511658231305/14811509280534/427800
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Mahabad HD",Mahabad HD
-http://myhand.org:8080/26511658231305/14811509280534/392233
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Bnar HD",Bnar HD
-http://myhand.org:8080/26511658231305/14811509280534/708670
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Derin HD",Derin HD
-http://myhand.org:8080/26511658231305/14811509280534/427834
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Judy HD",Judy HD
-http://myhand.org:8080/26511658231305/14811509280534/106146
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Srusht  HD",Srusht  HD
-http://myhand.org:8080/26511658231305/14811509280534/303734
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Asman HD",Asman HD
-http://myhand.org:8080/26511658231305/14811509280534/106148
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="UTV HD",UTV HD
-http://myhand.org:8080/26511658231305/14811509280534/106145
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Mihrab TV",Mihrab TV
-http://myhand.org:8080/26511658231305/14811509280534/427816
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Mihrab FM",Mihrab FM
-http://myhand.org:8080/26511658231305/14811509280534/855148
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Bask HD",Bask HD
-http://myhand.org:8080/26511658231305/14811509280534/788774
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="MMN Quran HD",MMN Quran HD
-http://myhand.org:8080/26511658231305/14811509280534/29348
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Sada TV",Sada TV
-http://myhand.org:8080/26511658231305/14811509280534/786760
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Barin Quran HD",Barin Quran HD
-http://myhand.org:8080/26511658231305/14811509280534/784820
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Imk TV",Imk TV
-http://myhand.org:8080/26511658231305/14811509280534/788907
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Shna TV",Shna TV
-http://myhand.org:8080/26511658231305/14811509280534/852968
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Spi TV",Spi TV
-http://myhand.org:8080/26511658231305/14811509280534/798285
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Documentary HD",Astera Documentary HD
-http://myhand.org:8080/26511658231305/14811509280534/90968
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Culture HD",Astera Culture HD
-http://myhand.org:8080/26511658231305/14811509280534/90969
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Reng Documentary HD",Reng Documentary HD
-http://myhand.org:8080/26511658231305/14811509280534/103913
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="MMN Documentary HD",MMN Documentary HD
-http://myhand.org:8080/26511658231305/14811509280534/78328
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Afarin HD",Afarin HD
-http://myhand.org:8080/26511658231305/14811509280534/30522
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Afarin Baxcha HD",Afarin Baxcha HD
-http://myhand.org:8080/26511658231305/14811509280534/390715
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Baby HD",Astera Baby HD
-http://myhand.org:8080/26511658231305/14811509280534/90971
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="SHAR TV",SHAR TV
-http://myhand.org:8080/26511658231305/14811509280534/786341
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Animal box",Animal box
-http://myhand.org:8080/26511658231305/14811509280534/829505
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Red TV",Red TV
-http://myhand.org:8080/26511658231305/14811509280534/429799
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Euro Kurd TV",Euro Kurd TV
-http://myhand.org:8080/26511658231305/14811509280534/427827
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Show HD",Astera Show HD
-http://myhand.org:8080/26511658231305/14811509280534/90967
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Soran Entertainment HD",Soran Entertainment HD
-http://myhand.org:8080/26511658231305/14811509280534/843902
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Komal Raparin 4K",Komal Raparin 4K
-http://myhand.org:8080/26511658231305/14811509280534/800804
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Family Box Info 4K",Family Box Info 4K
-http://myhand.org:8080/26511658231305/14811509280534/92222
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Family Raparin 4K",Family Raparin 4K
-http://myhand.org:8080/26511658231305/14811509280534/207165
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Family Koya 4k",Family Koya 4k
-http://myhand.org:8080/26511658231305/14811509280534/426672
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Family Hawraman 4K",Family Hawraman 4K
-http://myhand.org:8080/26511658231305/14811509280534/855287
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="MMN News HD",MMN News HD
-http://myhand.org:8080/26511658231305/14811509280534/64147
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zed 4K",Zed 4K
-http://myhand.org:8080/26511658231305/14811509280534/74761
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zed+ 4K",Zed+ 4K
-http://myhand.org:8080/26511658231305/14811509280534/74762
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Niga Family 4K",Niga Family 4K
-http://myhand.org:8080/26511658231305/14811509280534/108464
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Reng Family 4K",Reng Family 4K
-http://myhand.org:8080/26511658231305/14811509280534/108460
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Newline 1 4K",Newline 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/74759
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Newline 2 4K",Newline 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/74760
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Family 4K",Astera Family 4K
-http://myhand.org:8080/26511658231305/14811509280534/74752
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Aro Family 4K",Aro Family 4K
-http://myhand.org:8080/26511658231305/14811509280534/78337
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Rasan TV 4K",Rasan TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/79029
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="BMC 4K",BMC 4K
-http://myhand.org:8080/26511658231305/14811509280534/207172
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Khak 4K",Khak 4K
-http://myhand.org:8080/26511658231305/14811509280534/317624
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Qallam TV 4k",Qallam TV 4k
-http://myhand.org:8080/26511658231305/14811509280534/427824
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Jamawar 4K",Jamawar 4K
-http://myhand.org:8080/26511658231305/14811509280534/321390
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Ala TV 4K",Ala TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/514929
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Dever 4k",Dever 4k
-http://myhand.org:8080/26511658231305/14811509280534/717389
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Sheladize 4K",Sheladize 4K
-http://myhand.org:8080/26511658231305/14811509280534/717390
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="MTV Family 4k",MTV Family 4k
-http://myhand.org:8080/26511658231305/14811509280534/717385
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Babolly 4K",Babolly 4K
-http://myhand.org:8080/26511658231305/14811509280534/74770
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Dasinya 4K",Dasinya 4K
-http://myhand.org:8080/26511658231305/14811509280534/321353
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Derwaza 4K",Derwaza 4K
-http://myhand.org:8080/26511658231305/14811509280534/207169
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Dimen 4K",Dimen 4K
-http://myhand.org:8080/26511658231305/14811509280534/79033
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kalapur 4k",Kalapur 4k
-http://myhand.org:8080/26511658231305/14811509280534/363531
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kani TV 4K",Kani TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/321364
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Lawan 4k",Lawan 4k
-http://myhand.org:8080/26511658231305/14811509280534/321979
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Minara 4K",Minara 4K
-http://myhand.org:8080/26511658231305/14811509280534/74763
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Ranya 4K",Ranya 4K
-http://myhand.org:8080/26511658231305/14811509280534/74771
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Rozh TV 4K",Rozh TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/321392
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Sima TV 4K",Sima TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/321396
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Slemani TV 4K",Slemani TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/635063
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Kurdana 4K TV",Kurdana 4K TV
-http://myhand.org:8080/26511658231305/14811509280534/658556
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zaxo 4K",Zaxo 4K
-http://myhand.org:8080/26511658231305/14811509280534/427801
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Delal 4K",Delal 4K
-http://myhand.org:8080/26511658231305/14811509280534/756981
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Azadi 4K",Azadi 4K
-http://myhand.org:8080/26511658231305/14811509280534/756982
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Judy 4K",Judy 4K
-http://myhand.org:8080/26511658231305/14811509280534/108473
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Srusht 4K",Srusht 4K
-http://myhand.org:8080/26511658231305/14811509280534/303735
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Qallam Islam TV 4K",Qallam Islam TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/427822
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Asman 4K",Asman 4K
-http://myhand.org:8080/26511658231305/14811509280534/79035
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="UTV 4K",UTV 4K
-http://myhand.org:8080/26511658231305/14811509280534/108470
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="UTV 2 4K",UTV 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/74768
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Mihrab 4K",Mihrab 4K
-http://myhand.org:8080/26511658231305/14811509280534/207167
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Tasawf 4K",Tasawf 4K
-http://myhand.org:8080/26511658231305/14811509280534/108468
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Noor 4K",Noor 4K
-http://myhand.org:8080/26511658231305/14811509280534/184194
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Raman 4K",Raman 4K
-http://myhand.org:8080/26511658231305/14811509280534/321362
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Farmuda 4K",Farmuda 4K
-http://myhand.org:8080/26511658231305/14811509280534/849172
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="K24 Documentary 4K",K24 Documentary 4K
-http://myhand.org:8080/26511658231305/14811509280534/321360
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Documentary 4K",Astera Documentary 4K
-http://myhand.org:8080/26511658231305/14811509280534/74755
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Culture 4K",Astera Culture 4K
-http://myhand.org:8080/26511658231305/14811509280534/74756
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Reng Documentary 4K",Reng Documentary 4K
-http://myhand.org:8080/26511658231305/14811509280534/108462
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Qallam Geo TV 4K",Qallam Geo TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/427821
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Cihan TV 4K",Cihan TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/822049
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Znar 4K",Znar 4K
-http://myhand.org:8080/26511658231305/14811509280534/207163
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Zhyar 4K",Zhyar 4K
-http://myhand.org:8080/26511658231305/14811509280534/760286
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Baby 4K",Astera Baby 4K
-http://myhand.org:8080/26511658231305/14811509280534/74757
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Kurdmax Pepula 4K",Kurdmax Pepula 4K
-http://myhand.org:8080/26511658231305/14811509280534/756983
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Jojo Mama 4K",Jojo Mama 4K
-http://myhand.org:8080/26511658231305/14811509280534/321391
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Pelistank 4k",Pelistank 4k
-http://myhand.org:8080/26511658231305/14811509280534/399487
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Astera Show 4K",Astera Show 4K
-http://myhand.org:8080/26511658231305/14811509280534/74753
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/qMqX33F/KNN.png" tvg-id="" tvg-name="KNN 4K",KNN 4K
-http://myhand.org:8080/26511658231305/14811509280534/363505
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kurdistan TV 4K",Kurdistan TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/363523
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/9NGx5cj/Zagros.png" tvg-id="" tvg-name="Zagros 4K",Zagros 4K
-http://myhand.org:8080/26511658231305/14811509280534/363530
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Bangawaz TV 4K",Bangawaz TV 4K
-http://myhand.org:8080/26511658231305/14811509280534/363395
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/4tpRVFX/Kurdsat.png" tvg-id="" tvg-name="Kurdsat 4K",Kurdsat 4K
-http://myhand.org:8080/26511658231305/14811509280534/69863
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="KurdMax Sor 4K",KurdMax Sor 4K
-http://myhand.org:8080/26511658231305/14811509280534/71222
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="KurdMax Show Sor 4K",KurdMax Show Sor 4K
-http://myhand.org:8080/26511658231305/14811509280534/71224
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="TRT Kurdi 4K",TRT Kurdi 4K
-http://myhand.org:8080/26511658231305/14811509280534/363528
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Sahar 4K",Sahar 4K
-http://myhand.org:8080/26511658231305/14811509280534/363525
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Waar 4K",Waar 4K
-http://myhand.org:8080/26511658231305/14811509280534/363529
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kurd Channel 4K",Kurd Channel 4K
-http://myhand.org:8080/26511658231305/14811509280534/363507
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Komal 4K",Komal 4K
-http://myhand.org:8080/26511658231305/14811509280534/807144
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Shams 4K",Shams 4K
-http://myhand.org:8080/26511658231305/14811509280534/864811
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/1MrCC8t/K24.png" tvg-id="" tvg-name="K24 HD",K24 HD
-http://myhand.org:8080/26511658231305/14811509280534/1160
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/KyHh2GF/Kurdsat-News.png" tvg-id="" tvg-name="Kurdsat News HD",Kurdsat News HD
-http://myhand.org:8080/26511658231305/14811509280534/1
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/qMqX33F/KNN.png" tvg-id="" tvg-name="KNN HD",KNN HD
-http://myhand.org:8080/26511658231305/14811509280534/183841
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kurdistan TV HD",Kurdistan TV HD
-http://myhand.org:8080/26511658231305/14811509280534/21
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Gali Kurdistan TV",Gali Kurdistan TV
-http://myhand.org:8080/26511658231305/14811509280534/13455
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kirkuk TV",Kirkuk TV
-http://myhand.org:8080/26511658231305/14811509280534/204
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Channel 8 HD",Channel 8 HD
-http://myhand.org:8080/26511658231305/14811509280534/816554
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/9NGx5cj/Zagros.png" tvg-id="" tvg-name="Zagros HD",Zagros HD
-http://myhand.org:8080/26511658231305/14811509280534/10
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Iraqia Kurdish TV",Iraqia Kurdish TV
-http://myhand.org:8080/26511658231305/14811509280534/10691
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Amozhgary TV HD",Amozhgary TV HD
-http://myhand.org:8080/26511658231305/14811509280534/13498
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Bangawaz TV",Bangawaz TV
-http://myhand.org:8080/26511658231305/14811509280534/1161
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Payam TV",Payam TV
-http://myhand.org:8080/26511658231305/14811509280534/2564
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Speda HD",Speda HD
-http://myhand.org:8080/26511658231305/14811509280534/217
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="NRT 4 HD",NRT 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/16727
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/4tpRVFX/Kurdsat.png" tvg-id="" tvg-name="Kurdsat TV HD",Kurdsat TV HD
-http://myhand.org:8080/26511658231305/14811509280534/4
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="KurdMax Show HD Sorani",KurdMax Show HD Sorani
-http://myhand.org:8080/26511658231305/14811509280534/2289
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="KurdMax Show Kurmanji HD",KurdMax Show Kurmanji HD
-http://myhand.org:8080/26511658231305/14811509280534/2290
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="KurdMax Sorani HD",KurdMax Sorani HD
-http://myhand.org:8080/26511658231305/14811509280534/5
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="KurdMax Kurmanji HD",KurdMax Kurmanji HD
-http://myhand.org:8080/26511658231305/14811509280534/11264
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="AVA HD",AVA HD
-http://myhand.org:8080/26511658231305/14811509280534/9593
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.ibb.co/4ZdpNb8/NRT-2.png" tvg-id="" tvg-name="NRT 2 HD",NRT 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/9
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zoom HD",Zoom HD
-http://myhand.org:8080/26511658231305/14811509280534/199
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Zarok TV",Zarok TV
-http://myhand.org:8080/26511658231305/14811509280534/10680
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Waar TV HD",Waar TV HD
-http://myhand.org:8080/26511658231305/14811509280534/11210
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="Kurd Channel HD",Kurd Channel HD
-http://myhand.org:8080/26511658231305/14811509280534/263419
-#EXTGRP:Kurdish
-#EXTINF:-1 group-title="Kurdish" tvg-logo="#" tvg-id="" tvg-name="A TV HD",A TV HD
-http://myhand.org:8080/26511658231305/14811509280534/28027
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="" tvg-id="" tvg-name="NRT Sport HD",NRT Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/752090
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="NRT Sport 4K",NRT Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/207166
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="" tvg-id="" tvg-name="AVA Sport HD",AVA Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/752031
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="" tvg-id="" tvg-name="AVA Sport 4K",AVA Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/752032
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="" tvg-id="" tvg-name="4Sport HD",4Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/752091
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="4sport 4K",4sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/108459
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Duhok Sport 4K",Duhok Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/321358
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Reng Sport HD",Reng Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/106139
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Reng Sport 4K",Reng Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/108463
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Motor 1 HD",Motor 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/322319
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Motor 1 4K",Motor 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/681366
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Kurdistan Sport HD",Kurdistan Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/398946
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Kurdistan Sport 4K",Kurdistan Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/74767
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="ASO Sport HD",ASO Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/106144
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="ASO Sport 4K",ASO Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/108471
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="MMN Sport HD",MMN Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/33300
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="" tvg-id="" tvg-name="MTV Sport 4K",MTV Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/717388
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Dasinya Sport 4K",Dasinya Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/321354
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Sima Sport 4K",Sima Sport 4K
-http://myhand.org:8080/26511658231305/14811509280534/321395
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Nubar Sport HD",Nubar Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/427837
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="" tvg-id="" tvg-name="Azadi Sport TV",Azadi Sport TV
-http://myhand.org:8080/26511658231305/14811509280534/857965
-#EXTGRP:Kurdish Sports HD | 4K
-#EXTINF:-1 group-title="Kurdish Sports HD | 4K" tvg-logo="#" tvg-id="" tvg-name="Zaxo Sport",Zaxo Sport
-http://myhand.org:8080/26511658231305/14811509280534/427838
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="Astera Movies HD",Astera Movies HD
-http://myhand.org:8080/26511658231305/14811509280534/90966
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="Niga Movies HD",Niga Movies HD
-http://myhand.org:8080/26511658231305/14811509280534/103927
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="MMN Movies HD",MMN Movies HD
-http://myhand.org:8080/26511658231305/14811509280534/78325
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="Barin Movies FHD",Barin Movies FHD
-http://myhand.org:8080/26511658231305/14811509280534/399008
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="Bnar Movies HD",Bnar Movies HD
-http://myhand.org:8080/26511658231305/14811509280534/425548
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="Speda Drama HD",Speda Drama HD
-http://myhand.org:8080/26511658231305/14811509280534/106140
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="MMN Drama HD",MMN Drama HD
-http://myhand.org:8080/26511658231305/14811509280534/246074
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="MMN Action HD",MMN Action HD
-http://myhand.org:8080/26511658231305/14811509280534/250007
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 1 HD",KurdCinema Action 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/103579
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 3 HD",KurdCinema Action 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/103581
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 4 HD",KurdCinema Action 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/103583
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 6 HD",KurdCinema Action 6 HD
-http://myhand.org:8080/26511658231305/14811509280534/103585
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 7 HD",KurdCinema Action 7 HD
-http://myhand.org:8080/26511658231305/14811509280534/103586
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 10 HD",KurdCinema Action 10 HD
-http://myhand.org:8080/26511658231305/14811509280534/103589
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 11 HD",KurdCinema Action 11 HD
-http://myhand.org:8080/26511658231305/14811509280534/103590
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 12 HD",KurdCinema Action 12 HD
-http://myhand.org:8080/26511658231305/14811509280534/103591
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 9 HD",KurdCinema Action 9 HD
-http://myhand.org:8080/26511658231305/14811509280534/103592
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 8 HD",KurdCinema Action 8 HD
-http://myhand.org:8080/26511658231305/14811509280534/103593
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 5 HD",KurdCinema Action 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/103594
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/b0c250ac1e8363e25bafcf400323b9f3.png" tvg-id="" tvg-name="KurdCinema Action 2 HD",KurdCinema Action 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/103596
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 1 HD",KurdCinema Comedy 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/103597
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 10 HD",KurdCinema Comedy 10 HD
-http://myhand.org:8080/26511658231305/14811509280534/103953
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 3 HD",KurdCinema Comedy 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/103954
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 2 HD",KurdCinema Comedy 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/103598
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 4 HD",KurdCinema Comedy 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/103901
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 5 HD",KurdCinema Comedy 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/103902
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 6 HD",KurdCinema Comedy 6 HD
-http://myhand.org:8080/26511658231305/14811509280534/103949
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 7 HD",KurdCinema Comedy 7 HD
-http://myhand.org:8080/26511658231305/14811509280534/103950
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 8 HD",KurdCinema Comedy 8 HD
-http://myhand.org:8080/26511658231305/14811509280534/103951
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/da4b95e85d3b1f6f2123667305e1c116.png" tvg-id="" tvg-name="KurdCinema Comedy 9 HD",KurdCinema Comedy 9 HD
-http://myhand.org:8080/26511658231305/14811509280534/103952
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 1 HD",KurdCinema Animation 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/103977
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 2 HD",KurdCinema Animation 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/103978
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 4 HD",KurdCinema Animation 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/103981
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 3 HD",KurdCinema Animation 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/103979
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 5 HD",KurdCinema Animation 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/103982
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 6 HD",KurdCinema Animation 6 HD
-http://myhand.org:8080/26511658231305/14811509280534/103983
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 7 HD",KurdCinema Animation 7 HD
-http://myhand.org:8080/26511658231305/14811509280534/103984
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/4aa5f0e20aa5a3a3d49f2cec3f86019f.png" tvg-id="" tvg-name="KurdCinema Animation 8 HD",KurdCinema Animation 8 HD
-http://myhand.org:8080/26511658231305/14811509280534/103986
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 3 HD",KurdCinema Biography 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/104003
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 1 HD",KurdCinema Biography 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/104004
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 2 HD",KurdCinema Biography 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/103995
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 4 HD",KurdCinema Biography 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/103997
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 5 HD",KurdCinema Biography 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/103998
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 6 HD",KurdCinema Biography 6 HD
-http://myhand.org:8080/26511658231305/14811509280534/103999
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 7 HD",KurdCinema Biography 7 HD
-http://myhand.org:8080/26511658231305/14811509280534/104001
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="http://vod-logo.net/photos/af6b5893d2192816d286e32271bc41ef.png" tvg-id="" tvg-name="KurdCinema Biography 8 HD",KurdCinema Biography 8 HD
-http://myhand.org:8080/26511658231305/14811509280534/104002
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="" tvg-name="KurdCinema Sport 1 HD",KurdCinema Sport 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/103993
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="#" tvg-id="" tvg-name="Family Shafilm 4K",Family Shafilm 4K
-http://myhand.org:8080/26511658231305/14811509280534/482545
-#EXTGRP:Movies
-#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="" tvg-name="Mr Bean HD",Mr Bean HD
-http://myhand.org:8080/26511658231305/14811509280534/704816
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 1 4K",Alwan Sport 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/829083
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 2 4K",Alwan Sport 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/829084
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 3 4K",Alwan Sport 3 4K
-http://myhand.org:8080/26511658231305/14811509280534/829085
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 4 4K",Alwan Sport 4 4K
-http://myhand.org:8080/26511658231305/14811509280534/829086
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 5 4K",Alwan Sport 5 4K
-http://myhand.org:8080/26511658231305/14811509280534/829087
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 6 4K",Alwan Sport 6 4K
-http://myhand.org:8080/26511658231305/14811509280534/829088
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 1 HD",Alwan Sport 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/847438
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 2 HD",Alwan Sport 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/847439
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 3 HD",Alwan Sport 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/847440
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 4 HD",Alwan Sport 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/847441
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 5 HD",Alwan Sport 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/847442
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 6 HD",Alwan Sport 6 HD
-http://myhand.org:8080/26511658231305/14811509280534/847443
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 1 SD",Alwan Sport 1 SD
-http://myhand.org:8080/26511658231305/14811509280534/847444
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 2 SD",Alwan Sport 2 SD
-http://myhand.org:8080/26511658231305/14811509280534/847445
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 3 SD",Alwan Sport 3 SD
-http://myhand.org:8080/26511658231305/14811509280534/847446
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 4 SD",Alwan Sport 4 SD
-http://myhand.org:8080/26511658231305/14811509280534/847447
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 5 SD",Alwan Sport 5 SD
-http://myhand.org:8080/26511658231305/14811509280534/847448
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Alwan Sport 6 SD",Alwan Sport 6 SD
-http://myhand.org:8080/26511658231305/14811509280534/847449
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/3a5f6cd74e18795eff0716e702da8165.png" tvg-id="adsports1.ae" tvg-name="Sport | Ar: Abu Dhabi Sports 1 HD",Sport | Ar: Abu Dhabi Sports 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/67459
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/56f87211a4a5593a6c00936758142919.png" tvg-id="adsports2.ae" tvg-name="Sport | Ar: Abu Dhabi Sports 2 HD",Sport | Ar: Abu Dhabi Sports 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/67460
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/90757db528d7de115eaa7cc212419877.png" tvg-id="" tvg-name="Sport | Ar: KSA Sport 1 HD",Sport | Ar: KSA Sport 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/33666
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/4add404a2d5055d7b698a77879a8d349.jpg" tvg-id="" tvg-name="Sport | Ar: KSA Sport 2 HD",Sport | Ar: KSA Sport 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/33664
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: KSA Sport 3 HD",Sport | Ar: KSA Sport 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/512042
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.vod-logo.net/photos/5bc9d44d3ef7efdf24686d247ab8b731.jpg" tvg-id="dubaisports1.ae" tvg-name="Sport | Ar: Dubai Sport 1 HD",Sport | Ar: Dubai Sport 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/33461
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.vod-logo.net/photos/6fc0bc5c49c642cbcf5c21d0104f7622.jpg" tvg-id="" tvg-name="Sport | Ar: Dubai Sport 2 HD",Sport | Ar: Dubai Sport 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/33563
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.vod-logo.net/photos/394aac4ba00809aebac52fd8504af2e4.jpg" tvg-id="dubairacing3.ae" tvg-name="Sport | Ar: Dubai Sport 3 HD",Sport | Ar: Dubai Sport 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/33564
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/b0d908ea56909d69c6f4d41a8d817235.png" tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 1",Sport | Ar: On Time Sport HD 1
-http://myhand.org:8080/26511658231305/14811509280534/145725
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/3b1d514bb843b5c7d071cbe4ab4651dd.png" tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 2",Sport | Ar: On Time Sport HD 2
-http://myhand.org:8080/26511658231305/14811509280534/145726
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/9158844f96c2a492a58fbd014f9ae68a.jpg" tvg-id="dubairacing.ae" tvg-name="Sport | Ar: Dubai Racing 1 HD",Sport | Ar: Dubai Racing 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/33670
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.vod-logo.net/photos/bc7f8a67e89666e42575e47d61521f0a.jpg" tvg-id="" tvg-name="Sport | Ar: Dubai Racing 2 HD",Sport | Ar: Dubai Racing 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/33561
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="dubairacing3.ae" tvg-name="Sport | Ar: Dubai Racing 3 HD",Sport | Ar: Dubai Racing 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/299574
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Iraqia Sport HD",Sport | Ar: Iraqia Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/178141
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Shabab Iraq Sport 1 HD",Sport | Ar: Shabab Iraq Sport 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/178142
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Saudi 24 Sport",Sport | Ar: Saudi 24 Sport
-http://myhand.org:8080/26511658231305/14811509280534/299281
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.vod-logo.net/photos/968ee38da8adf3421baeeca4904c289c.jpg" tvg-id="" tvg-name="Sport | Ar: Sharjah Sport HD",Sport | Ar: Sharjah Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/33387
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/7e3ff41d07ecdfd4bdaf85a16bd5e509.png" tvg-id="" tvg-name="Sport | Ar: Zamalek Sports",Sport | Ar: Zamalek Sports
-http://myhand.org:8080/26511658231305/14811509280534/178148
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 1 HD",Sport | Ar: Bahrain Sport 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/110738
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 2 HD",Sport | Ar: Bahrain Sport 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/178149
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Jordan Sport HD",Sport | Ar: Jordan Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/178143
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Kuwait Sport HD",Sport | Ar: Kuwait Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/178144
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Kuwait Sport Plus",Sport | Ar: Kuwait Sport Plus
-http://myhand.org:8080/26511658231305/14811509280534/299282
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/5f743babffc410ad51f129add9891b0b.png" tvg-id="" tvg-name="Sport | Ar: Oman Sport HD",Sport | Ar: Oman Sport HD
-http://myhand.org:8080/26511658231305/14811509280534/100002
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/d74231da98a38310c23a1545064ae886.png" tvg-id="" tvg-name="Sport | Ar: Nile Sport",Sport | Ar: Nile Sport
-http://myhand.org:8080/26511658231305/14811509280534/178146
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1697553230.png" tvg-id="" tvg-name="Sport | Ar: Palestine Sport",Sport | Ar: Palestine Sport
-http://myhand.org:8080/26511658231305/14811509280534/178147
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.vod-logo.net/photos/4cfca5dcbe23b87ddd2dc5360b70e495.jpg" tvg-id="" tvg-name="Sport | Ar: Libya Sport 1",Sport | Ar: Libya Sport 1
-http://myhand.org:8080/26511658231305/14811509280534/33389
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Libya Sport 2",Sport | Ar: Libya Sport 2
-http://myhand.org:8080/26511658231305/14811509280534/178145
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/4875412ffa110272fc6064b0632239af.png" tvg-id="" tvg-name="Sport | Ar: Al Ahly TV",Sport | Ar: Al Ahly TV
-http://myhand.org:8080/26511658231305/14811509280534/178137
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1697585389.png" tvg-id="" tvg-name="Sport | Ar: Al Heddaf TV",Sport | Ar: Al Heddaf TV
-http://myhand.org:8080/26511658231305/14811509280534/178140
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport | Ar: Arryadia HD",Sport | Ar: Arryadia HD
-http://myhand.org:8080/26511658231305/14811509280534/178139
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="yassports.ae" tvg-name="Sport | Ar: Yas Sport",Sport | Ar: Yas Sport
-http://myhand.org:8080/26511658231305/14811509280534/265133
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="Sport: RealMadrid TV",Sport: RealMadrid TV
-http://myhand.org:8080/26511658231305/14811509280534/72169
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KKW6dzx/SSC-1.jpg" tvg-id="" tvg-name="SSC 1 4K",SSC 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/179707
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 2 4K",SSC 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/179708
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 3 4K",SSC 3 4K
-http://myhand.org:8080/26511658231305/14811509280534/179709
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 4 4K",SSC 4 4K
-http://myhand.org:8080/26511658231305/14811509280534/179710
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 5 4K",SSC 5 4K
-http://myhand.org:8080/26511658231305/14811509280534/179711
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 1 4K",SSC Extra 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/179712
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 2 4K",SSC Extra 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/382335
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 3 4K",SSC Extra 3 4K
-http://myhand.org:8080/26511658231305/14811509280534/382336
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC News HD",SSC News HD
-http://myhand.org:8080/26511658231305/14811509280534/369624
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KKW6dzx/SSC-1.jpg" tvg-id="" tvg-name="SSC 1 HD",SSC 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/178360
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 2 HD",SSC 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/178386
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 3 HD",SSC 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/178387
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 4 HD",SSC 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/178388
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 5 HD",SSC 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/178389
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 1 HD",SSC Extra 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/178390
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 2 HD",SSC Extra 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/369572
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 3 HD",SSC Extra 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/178391
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="SSC News SD",SSC News SD
-http://myhand.org:8080/26511658231305/14811509280534/857964
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KKW6dzx/SSC-1.jpg" tvg-id="" tvg-name="SSC 1 SD",SSC 1 SD
-http://myhand.org:8080/26511658231305/14811509280534/423793
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 2 SD",SSC 2 SD
-http://myhand.org:8080/26511658231305/14811509280534/423794
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 3 SD",SSC 3 SD
-http://myhand.org:8080/26511658231305/14811509280534/423795
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 4 SD",SSC 4 SD
-http://myhand.org:8080/26511658231305/14811509280534/423796
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC 5 SD",SSC 5 SD
-http://myhand.org:8080/26511658231305/14811509280534/570226
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 1 SD",SSC Extra 1 SD
-http://myhand.org:8080/26511658231305/14811509280534/423797
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 2 SD",SSC Extra 2 SD
-http://myhand.org:8080/26511658231305/14811509280534/423798
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="#" tvg-id="" tvg-name="SSC Extra 3 SD",SSC Extra 3 SD
-http://myhand.org:8080/26511658231305/14811509280534/423799
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="StarzPlay Sports 4K",StarzPlay Sports 4K
-http://myhand.org:8080/26511658231305/14811509280534/398662
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/c6506a04c180c57d1a3abaaff75e81b2.png" tvg-id="" tvg-name="AD Sport Premium 1 4K",AD Sport Premium 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/363674
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/e364fae40a2b37baa6dce401a577b4a4.jpg" tvg-id="" tvg-name="AD Sport Premium 2 4K",AD Sport Premium 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/363675
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="AD Sport Asia 1 4K",AD Sport Asia 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/368743
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="AD Sport Asia 2 4K",AD Sport Asia 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/368745
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/f9908bb625faabefb5d49acfd532cf3c.png" tvg-id="" tvg-name="StarzPlay Sports HD",StarzPlay Sports HD
-http://myhand.org:8080/26511658231305/14811509280534/363649
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/c6506a04c180c57d1a3abaaff75e81b2.png" tvg-id="" tvg-name="AD Sport Premium 1 HD",AD Sport Premium 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/363647
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/e364fae40a2b37baa6dce401a577b4a4.jpg" tvg-id="" tvg-name="AD Sport Premium 2 HD",AD Sport Premium 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/363648
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="AD Sport Asia 1 HD",AD Sport Asia 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/368744
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="AD Sport Asia 2 HD",AD Sport Asia 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/368746
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="StarzPlay CRLife 1 HD",StarzPlay CRLife 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/392242
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="StarzPlay CRLife 2 HD",StarzPlay CRLife 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/392244
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/c6506a04c180c57d1a3abaaff75e81b2.png" tvg-id="" tvg-name="AD Sport Premium 1 SD",AD Sport Premium 1 SD
-http://myhand.org:8080/26511658231305/14811509280534/363677
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="http://vod-logo.net/photos/e364fae40a2b37baa6dce401a577b4a4.jpg" tvg-id="" tvg-name="AD Sport Premium 2 SD",AD Sport Premium 2 SD
-http://myhand.org:8080/26511658231305/14811509280534/363678
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="AD Sport Asia 1 SD",AD Sport Asia 1 SD
-http://myhand.org:8080/26511658231305/14811509280534/372058
-#EXTGRP:Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="" tvg-name="AD Sport Asia 2 SD",AD Sport Asia 2 SD
-http://myhand.org:8080/26511658231305/14811509280534/372059
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beINSports1.qa" tvg-name="BeIN Sports 1 4K",BeIN Sports 1 4K
-http://myhand.org:8080/26511658231305/14811509280534/66112
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beINSports2.qa" tvg-name="BeIN Sports 2 4K",BeIN Sports 2 4K
-http://myhand.org:8080/26511658231305/14811509280534/66111
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3premiumar.qa" tvg-name="BeIN Sports 3 4K",BeIN Sports 3 4K
-http://myhand.org:8080/26511658231305/14811509280534/66104
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports1.qa" tvg-name="BeIN Sports 4 4K",BeIN Sports 4 4K
-http://myhand.org:8080/26511658231305/14811509280534/66105
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports2ar.qa" tvg-name="BeIN Sports 5 4K",BeIN Sports 5 4K
-http://myhand.org:8080/26511658231305/14811509280534/66106
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3ar.qa" tvg-name="BeIN Sports 6 4K",BeIN Sports 6 4K
-http://myhand.org:8080/26511658231305/14811509280534/66107
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports4ar.qa" tvg-name="BeIN Sports 7 4K",BeIN Sports 7 4K
-http://myhand.org:8080/26511658231305/14811509280534/66108
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports5ar.qa" tvg-name="BeIN Sports 8 4K",BeIN Sports 8 4K
-http://myhand.org:8080/26511658231305/14811509280534/66109
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports6.qa" tvg-name="BeIN Sports 9 4K",BeIN Sports 9 4K
-http://myhand.org:8080/26511658231305/14811509280534/66110
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sports 1 HD",BeIN Sports 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/154695
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports1.qa" tvg-name="BeIN Sports 1 FHD",BeIN Sports 1 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33705
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 1 HD -8",BeIN Sports 1 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79027
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports2premiumar.qa" tvg-name="BeIN Sports 2 HD",BeIN Sports 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/154696
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports2.qa" tvg-name="BeIN Sports 2 FHD",BeIN Sports 2 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33704
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 2 HD -8",BeIN Sports 2 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79026
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3premiumar.qa" tvg-name="BeIN Sports 3 HD",BeIN Sports 3 HD
-http://myhand.org:8080/26511658231305/14811509280534/154697
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3.qa" tvg-name="BeIN Sports 3 FHD",BeIN Sports 3 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33703
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 3 HD -8",BeIN Sports 3 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79025
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinseries1ar.qa" tvg-name="BeIN Sports 4 HD",BeIN Sports 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/154698
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports4.qa" tvg-name="BeIN Sports 4 FHD",BeIN Sports 4 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33702
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 4 HD -8",BeIN Sports 4 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79020
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports2ar.qa" tvg-name="BeIN Sports 5 HD",BeIN Sports 5 HD
-http://myhand.org:8080/26511658231305/14811509280534/154699
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports5.qa" tvg-name="BeIN Sports 5 FHD",BeIN Sports 5 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33701
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 5 HD -8",BeIN Sports 5 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79021
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3ar.qa" tvg-name="BeIN Sports 6 HD",BeIN Sports 6 HD
-http://myhand.org:8080/26511658231305/14811509280534/154700
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports6.qa" tvg-name="BeIN Sports 6 FHD",BeIN Sports 6 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33700
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 6 HD -8",BeIN Sports 6 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79022
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports7.qa" tvg-name="BeIN Sports 7 HD",BeIN Sports 7 HD
-http://myhand.org:8080/26511658231305/14811509280534/154701
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports7.qa" tvg-name="BeIN Sports 7 FHD",BeIN Sports 7 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33699
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 7 HD -8",BeIN Sports 7 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79023
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports8.qa" tvg-name="BeIN Sports 8 HD",BeIN Sports 8 HD
-http://myhand.org:8080/26511658231305/14811509280534/154702
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports8.qa" tvg-name="BeIN Sports 8 FHD",BeIN Sports 8 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33698
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="BeIN Sports 8 HD -8",BeIN Sports 8 HD -8
-http://myhand.org:8080/26511658231305/14811509280534/79024
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports9.qa" tvg-name="BeIN Sports 9 HD",BeIN Sports 9 HD
-http://myhand.org:8080/26511658231305/14811509280534/154703
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports9.qa" tvg-name="BeIN Sports 9 FHD",BeIN Sports 9 FHD
-http://myhand.org:8080/26511658231305/14811509280534/33697
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsportsxtra3.qa" tvg-name="BeIN Sports 4 HD",BeIN Sports 4 HD
-http://myhand.org:8080/26511658231305/14811509280534/154704
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="" tvg-name="Bein Sports SD",Bein Sports SD
-http://myhand.org:8080/26511658231305/14811509280534/381749
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports1.qa" tvg-name="BeIN Sports 1 SD",BeIN Sports 1 SD
-http://myhand.org:8080/26511658231305/14811509280534/33687
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports1.qa" tvg-name="BeIN Sports 1 Low",BeIN Sports 1 Low
-http://myhand.org:8080/26511658231305/14811509280534/381736
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports2.qa" tvg-name="BeIN Sports 2 SD",BeIN Sports 2 SD
-http://myhand.org:8080/26511658231305/14811509280534/33686
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports2.qa" tvg-name="BeIN Sports 2 Low",BeIN Sports 2 Low
-http://myhand.org:8080/26511658231305/14811509280534/381737
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3.qa" tvg-name="BeIN Sports 3 SD",BeIN Sports 3 SD
-http://myhand.org:8080/26511658231305/14811509280534/33685
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports3.qa" tvg-name="BeIN Sports 3 Low",BeIN Sports 3 Low
-http://myhand.org:8080/26511658231305/14811509280534/381738
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports4.qa" tvg-name="BeIN Sports 4 SD",BeIN Sports 4 SD
-http://myhand.org:8080/26511658231305/14811509280534/33684
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports4.qa" tvg-name="BeIN Sports 4 Low",BeIN Sports 4 Low
-http://myhand.org:8080/26511658231305/14811509280534/381739
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports5.qa" tvg-name="BeIN Sports 5 SD",BeIN Sports 5 SD
-http://myhand.org:8080/26511658231305/14811509280534/33683
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports5.qa" tvg-name="BeIN Sports 5 Low",BeIN Sports 5 Low
-http://myhand.org:8080/26511658231305/14811509280534/381740
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports6.qa" tvg-name="BeIN Sports 6 SD",BeIN Sports 6 SD
-http://myhand.org:8080/26511658231305/14811509280534/33682
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports6.qa" tvg-name="BeIN Sports 6 Low",BeIN Sports 6 Low
-http://myhand.org:8080/26511658231305/14811509280534/381741
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports7.qa" tvg-name="BeIN Sports 7 SD",BeIN Sports 7 SD
-http://myhand.org:8080/26511658231305/14811509280534/33681
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports7.qa" tvg-name="BeIN Sports 7 Low",BeIN Sports 7 Low
-http://myhand.org:8080/26511658231305/14811509280534/381742
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports8.qa" tvg-name="BeIN Sports 8 SD",BeIN Sports 8 SD
-http://myhand.org:8080/26511658231305/14811509280534/33680
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports8.qa" tvg-name="BeIN Sports 8 Low",BeIN Sports 8 Low
-http://myhand.org:8080/26511658231305/14811509280534/381743
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports9.qa" tvg-name="BeIN Sports 9 SD",BeIN Sports 9 SD
-http://myhand.org:8080/26511658231305/14811509280534/33679
-#EXTGRP:Bein Sport 
-#EXTINF:-1 group-title="Bein Sport " tvg-logo="#" tvg-id="beinsports9.qa" tvg-name="BeIN Sports 9 Low",BeIN Sports 9 Low
-http://myhand.org:8080/26511658231305/14811509280534/381744
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/e7296375fcd29f375302e4c421a38423.png" tvg-id="" tvg-name="Kids | VIP: Afarin ᴴᴰ",Kids | VIP: Afarin ᴴᴰ
-http://myhand.org:8080/26511658231305/14811509280534/134651
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1db1829edbf8b872ea86e23ae48c72df.png" tvg-id="" tvg-name="Kids | VIP: BeIN Baraem HD",Kids | VIP: BeIN Baraem HD
-http://myhand.org:8080/26511658231305/14811509280534/134641
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Boomerang EN HD",Kids | VIP: Boomerang EN HD
-http://myhand.org:8080/26511658231305/14811509280534/134634
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/bb60317eea32c0b52211ae3244901a91.png" tvg-id="" tvg-name="Kids | VIP: Cartoon Network Arabia HD",Kids | VIP: Cartoon Network Arabia HD
-http://myhand.org:8080/26511658231305/14811509280534/134645
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Cartoon Network HD",Kids | VIP: Cartoon Network HD
-http://myhand.org:8080/26511658231305/14811509280534/134623
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/518ecfbde17a1d0d04486c173a07b0a8.png" tvg-id="" tvg-name="Kids | VIP: Disney Channel HD",Kids | VIP: Disney Channel HD
-http://myhand.org:8080/26511658231305/14811509280534/134624
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Gem Junior HD",Kids | VIP: Gem Junior HD
-http://myhand.org:8080/26511658231305/14811509280534/134655
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/ab1a445b29dfd3932de60c46f0e2131a.png" tvg-id="" tvg-name="Kids | VIP: HBO Family",Kids | VIP: HBO Family
-http://myhand.org:8080/26511658231305/14811509280534/134625
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d66f38c2e41d565e89c0016d22b57697.png" tvg-id="" tvg-name="Kids | VIP: HodHod TV HD",Kids | VIP: HodHod TV HD
-http://myhand.org:8080/26511658231305/14811509280534/134653
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9af4cb01c6dc6ada7664aa5b6a51d206.png" tvg-id="" tvg-name="Kids | VIP: Karamesh",Kids | VIP: Karamesh
-http://myhand.org:8080/26511658231305/14811509280534/134648
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/af1c5a03cdedae32279e38b1fa3c9d52.png" tvg-id="" tvg-name="Kids | VIP: Majid Kids TV",Kids | VIP: Majid Kids TV
-http://myhand.org:8080/26511658231305/14811509280534/134642
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d7508a08b123c7a626a1d3c408649ca9.png" tvg-id="" tvg-name="Kids | VIP: Nels TV",Kids | VIP: Nels TV
-http://myhand.org:8080/26511658231305/14811509280534/134659
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Nick HD",Kids | VIP: Nick HD
-http://myhand.org:8080/26511658231305/14811509280534/134629
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids | VIP: Nick Jr Too",Kids | VIP: Nick Jr Too
-http://myhand.org:8080/26511658231305/14811509280534/134630
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids | VIP: Nick Jr. HD",Kids | VIP: Nick Jr. HD
-http://myhand.org:8080/26511658231305/14811509280534/134632
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" tvg-id="" tvg-name="Kids | VIP: Nickelodeon HD",Kids | VIP: Nickelodeon HD
-http://myhand.org:8080/26511658231305/14811509280534/134631
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids | VIP: NickToons HD",Kids | VIP: NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/134633
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ibb.co/1qKb0Gr" tvg-id="" tvg-name="Kids | VIP: NRT 3 Kids HD",Kids | VIP: NRT 3 Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/134656
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://media.elcinema.com/tvguide/1232_1.png" tvg-id="" tvg-name="Kids | VIP: OSN Kids HD",Kids | VIP: OSN Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/134635
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/18044e54747ccdef2e57c1511f1ccf59.png" tvg-id="" tvg-name="Kids | VIP: OSN Kids Zone HD",Kids | VIP: OSN Kids Zone HD
-http://myhand.org:8080/26511658231305/14811509280534/134636
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids | VIP: OSN Nick Jr HD",Kids | VIP: OSN Nick Jr HD
-http://myhand.org:8080/26511658231305/14811509280534/134638
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids | VIP: OSN NickToons HD",Kids | VIP: OSN NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/134637
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: PBS Kids",Kids | VIP: PBS Kids
-http://myhand.org:8080/26511658231305/14811509280534/134628
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Persiana Junior",Kids | VIP: Persiana Junior
-http://myhand.org:8080/26511658231305/14811509280534/134654
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: POOYA & NAHAL",Kids | VIP: POOYA & NAHAL
-http://myhand.org:8080/26511658231305/14811509280534/134652
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids | VIP: Rotana Kids HD",Kids | VIP: Rotana Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/134650
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/34e5f786bcab952e8a2e83b05b6987b8.png" tvg-id="" tvg-name="Kids | VIP: Sanafir",Kids | VIP: Sanafir
-http://myhand.org:8080/26511658231305/14811509280534/134643
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids | VIP: Shaun the Sheep 1",Kids | VIP: Shaun the Sheep 1
-http://myhand.org:8080/26511658231305/14811509280534/134657
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9d88ee92f3fb404cfb5c0e18707d53a7.png" tvg-id="" tvg-name="Kids | VIP: Shehab TV",Kids | VIP: Shehab TV
-http://myhand.org:8080/26511658231305/14811509280534/134649
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids | VIP: Shun The Sheep 2",Kids | VIP: Shun The Sheep 2
-http://myhand.org:8080/26511658231305/14811509280534/134621
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/129de2cf101be602b53fa56da6575893.png" tvg-id="" tvg-name="Kids | VIP: SpaceToon TV",Kids | VIP: SpaceToon TV
-http://myhand.org:8080/26511658231305/14811509280534/134644
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/5294ae9c0cd2ec89f180cc5f0b576f1c.png" tvg-id="" tvg-name="Kids | VIP: Tom And Jerry HD",Kids | VIP: Tom And Jerry HD
-http://myhand.org:8080/26511658231305/14811509280534/134620
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0796e927be423cae0c72f02b04e5be9f.png" tvg-id="" tvg-name="Kids | VIP: Toyor Aljana",Kids | VIP: Toyor Aljana
-http://myhand.org:8080/26511658231305/14811509280534/134647
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Treehouse HD",Kids | VIP: Treehouse HD
-http://myhand.org:8080/26511658231305/14811509280534/134627
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids:  NickToons HD",Kids:  NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/37027
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9d88ee92f3fb404cfb5c0e18707d53a7.png" tvg-id="" tvg-name="Kids: Shehab TV",Kids: Shehab TV
-http://myhand.org:8080/26511658231305/14811509280534/99670
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids: En: NickToons HD",Kids: En: NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/279124
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/34e5f786bcab952e8a2e83b05b6987b8.png" tvg-id="" tvg-name="Kids:  Sanafir 1 HD",Kids:  Sanafir 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/59897
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/34e5f786bcab952e8a2e83b05b6987b8.png" tvg-id="" tvg-name="Kids:  Sanafir 2 HD",Kids:  Sanafir 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/840130
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="NickJrAfrica.us" tvg-name="Kids: weyyak Smurf",Kids: weyyak Smurf
-http://myhand.org:8080/26511658231305/14811509280534/60953
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d7508a08b123c7a626a1d3c408649ca9.png" tvg-id="" tvg-name="Kids:  Nels TV",Kids:  Nels TV
-http://myhand.org:8080/26511658231305/14811509280534/31572
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/ngmh7J0/oqq.png" tvg-id="" tvg-name="Kids:  Tom & Jerry",Kids:  Tom & Jerry
-http://myhand.org:8080/26511658231305/14811509280534/521653
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/3c7DPrm/e9fd0dc950f1f8dbeaf6c57a516b5f70abb4bb3e-00.jpg" tvg-id="" tvg-name="Kids: Youmeat Cartonia",Kids: Youmeat Cartonia
-http://myhand.org:8080/26511658231305/14811509280534/678242
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/QDcPZYF/1.png" tvg-id="" tvg-name="Kids:  Sinbad - سندباد",Kids:  Sinbad - سندباد
-http://myhand.org:8080/26511658231305/14811509280534/521658
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/7JBpxz9/1-grendizer-andrea-gatti-transparent.png" tvg-id="" tvg-name="Kids: Grendizer",Kids: Grendizer
-http://myhand.org:8080/26511658231305/14811509280534/676046
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/db07fe66ccd32035365a6f6b24be82ea.png" tvg-id="" tvg-name="Kids:  Atfal & Mawaheb",Kids:  Atfal & Mawaheb
-http://myhand.org:8080/26511658231305/14811509280534/14197
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1db1829edbf8b872ea86e23ae48c72df.png" tvg-id="baraem.qa" tvg-name="Kids:  BeIN Baraem HD",Kids:  BeIN Baraem HD
-http://myhand.org:8080/26511658231305/14811509280534/2715
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d7e96ef28015972392de60a1be60d7ef.png" tvg-id="" tvg-name="Kids:  BeIN Jeem HD",Kids:  BeIN Jeem HD
-http://myhand.org:8080/26511658231305/14811509280534/2713
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/bb60317eea32c0b52211ae3244901a91.png" tvg-id="" tvg-name="Kids:  Cartoon Network Arabia HD",Kids:  Cartoon Network Arabia HD
-http://myhand.org:8080/26511658231305/14811509280534/6551
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/c9c6afef702accfdae08d7239bd8d080.JPG" tvg-id="" tvg-name="Kids: Disney Channel HD",Kids: Disney Channel HD
-http://myhand.org:8080/26511658231305/14811509280534/37025
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0e2f704d935f99f8a76ee1dfeaf94f57.jpg" tvg-id="" tvg-name="Kids:  Disney Junior HD",Kids:  Disney Junior HD
-http://myhand.org:8080/26511658231305/14811509280534/37029
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d66f38c2e41d565e89c0016d22b57697.png" tvg-id="" tvg-name="Kids:  HodHod  TV",Kids:  HodHod  TV
-http://myhand.org:8080/26511658231305/14811509280534/14231
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9af4cb01c6dc6ada7664aa5b6a51d206.png" tvg-id="" tvg-name="Kids:  Karamesh",Kids:  Karamesh
-http://myhand.org:8080/26511658231305/14811509280534/20960
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/18044e54747ccdef2e57c1511f1ccf59.png" tvg-id="" tvg-name="Kids:  OSN Kids Zone HD",Kids:  OSN Kids Zone HD
-http://myhand.org:8080/26511658231305/14811509280534/37031
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids:  Rotana Kids HD",Kids:  Rotana Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/13384
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/129de2cf101be602b53fa56da6575893.png" tvg-id="" tvg-name="Kids:  SpaceToon TV",Kids:  SpaceToon TV
-http://myhand.org:8080/26511658231305/14811509280534/7053
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/97eeaf95e135faba20755c951f4f9a77.png" tvg-id="" tvg-name="Kids:  Taha TV",Kids:  Taha TV
-http://myhand.org:8080/26511658231305/14811509280534/20954
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/af1c5a03cdedae32279e38b1fa3c9d52.png" tvg-id="" tvg-name="Kids: Majid Kids TV",Kids: Majid Kids TV
-http://myhand.org:8080/26511658231305/14811509280534/17596
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids: Nick Jr. HD",Kids: Nick Jr. HD
-http://myhand.org:8080/26511658231305/14811509280534/37026
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" tvg-id="" tvg-name="Kids: OSN Nickelodeon HD",Kids: OSN Nickelodeon HD
-http://myhand.org:8080/26511658231305/14811509280534/37024
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids: Rotana Kids FHD",Kids: Rotana Kids FHD
-http://myhand.org:8080/26511658231305/14811509280534/69573
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids: Rotana Kids HD",Kids: Rotana Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/78574
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0796e927be423cae0c72f02b04e5be9f.png" tvg-id="" tvg-name="Kids: Toyor Aljana",Kids: Toyor Aljana
-http://myhand.org:8080/26511658231305/14811509280534/71208
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/FV5p3h8/176684-middle.png" tvg-id="" tvg-name="Kids: Super Simple Songs",Kids: Super Simple Songs
-http://myhand.org:8080/26511658231305/14811509280534/705179
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0f073a6cfebb0328b5eec0218f5017b4.png" tvg-id="" tvg-name="Kids: Little Baby Bum 1 TV",Kids: Little Baby Bum 1 TV
-http://myhand.org:8080/26511658231305/14811509280534/202183
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0f073a6cfebb0328b5eec0218f5017b4.png" tvg-id="" tvg-name="Kids: Little Baby Bum 2 TV",Kids: Little Baby Bum 2 TV
-http://myhand.org:8080/26511658231305/14811509280534/202184
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids: Shaun the Sheep 1",Kids: Shaun the Sheep 1
-http://myhand.org:8080/26511658231305/14811509280534/36867
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids: Shun The Sheep 2",Kids: Shun The Sheep 2
-http://myhand.org:8080/26511658231305/14811509280534/37126
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Angry Birds HD",Angry Birds HD
-http://myhand.org:8080/26511658231305/14811509280534/704809
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Angry Birds Stella HD",Angry Birds Stella HD
-http://myhand.org:8080/26511658231305/14811509280534/704810
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Bernard HD",Bernard HD
-http://myhand.org:8080/26511658231305/14811509280534/704811
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Grizzy and the Lemmings HD",Grizzy and the Lemmings HD
-http://myhand.org:8080/26511658231305/14811509280534/704812
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="LarVA HD",LarVA HD
-http://myhand.org:8080/26511658231305/14811509280534/704813
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Looney Tunes HD",Looney Tunes HD
-http://myhand.org:8080/26511658231305/14811509280534/704814
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Monica Toy HD",Monica Toy HD
-http://myhand.org:8080/26511658231305/14811509280534/704815
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Mr Bean HD",Mr Bean HD
-http://myhand.org:8080/26511658231305/14811509280534/704816
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Munki and Trunk HD",Munki and Trunk HD
-http://myhand.org:8080/26511658231305/14811509280534/704817
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Oggy HD",Oggy HD
-http://myhand.org:8080/26511658231305/14811509280534/704818
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Oscars Oasis HD",Oscars Oasis HD
-http://myhand.org:8080/26511658231305/14811509280534/704819
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Pat And Mat HD",Pat And Mat HD
-http://myhand.org:8080/26511658231305/14811509280534/704820
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Piggy Tales HD",Piggy Tales HD
-http://myhand.org:8080/26511658231305/14811509280534/704821
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Pingu HD",Pingu HD
-http://myhand.org:8080/26511658231305/14811509280534/704822
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="The Pink Panther Show HD",The Pink Panther Show HD
-http://myhand.org:8080/26511658231305/14811509280534/704823
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="The Road Runner Show HD",The Road Runner Show HD
-http://myhand.org:8080/26511658231305/14811509280534/704824
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="The Terror of Oddsville HD",The Terror of Oddsville HD
-http://myhand.org:8080/26511658231305/14811509280534/704825
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Timmy Time HD",Timmy Time HD
-http://myhand.org:8080/26511658231305/14811509280534/704826
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Tom And Jerry HD",Tom And Jerry HD
-http://myhand.org:8080/26511658231305/14811509280534/704827
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/e7296375fcd29f375302e4c421a38423.png" tvg-id="" tvg-name="Kids | VIP: Afarin ᴴᴰ",Kids | VIP: Afarin ᴴᴰ
-http://myhand.org:8080/26511658231305/14811509280534/134651
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1db1829edbf8b872ea86e23ae48c72df.png" tvg-id="" tvg-name="Kids | VIP: BeIN Baraem HD",Kids | VIP: BeIN Baraem HD
-http://myhand.org:8080/26511658231305/14811509280534/134641
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Boomerang EN HD",Kids | VIP: Boomerang EN HD
-http://myhand.org:8080/26511658231305/14811509280534/134634
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/bb60317eea32c0b52211ae3244901a91.png" tvg-id="" tvg-name="Kids | VIP: Cartoon Network Arabia HD",Kids | VIP: Cartoon Network Arabia HD
-http://myhand.org:8080/26511658231305/14811509280534/134645
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Cartoon Network HD",Kids | VIP: Cartoon Network HD
-http://myhand.org:8080/26511658231305/14811509280534/134623
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/518ecfbde17a1d0d04486c173a07b0a8.png" tvg-id="" tvg-name="Kids | VIP: Disney Channel HD",Kids | VIP: Disney Channel HD
-http://myhand.org:8080/26511658231305/14811509280534/134624
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Gem Junior HD",Kids | VIP: Gem Junior HD
-http://myhand.org:8080/26511658231305/14811509280534/134655
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/ab1a445b29dfd3932de60c46f0e2131a.png" tvg-id="" tvg-name="Kids | VIP: HBO Family",Kids | VIP: HBO Family
-http://myhand.org:8080/26511658231305/14811509280534/134625
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9af4cb01c6dc6ada7664aa5b6a51d206.png" tvg-id="" tvg-name="Kids | VIP: Karamesh",Kids | VIP: Karamesh
-http://myhand.org:8080/26511658231305/14811509280534/134648
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d66f38c2e41d565e89c0016d22b57697.png" tvg-id="" tvg-name="Kids | VIP: HodHod TV HD",Kids | VIP: HodHod TV HD
-http://myhand.org:8080/26511658231305/14811509280534/134653
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/af1c5a03cdedae32279e38b1fa3c9d52.png" tvg-id="" tvg-name="Kids | VIP: Majid Kids TV",Kids | VIP: Majid Kids TV
-http://myhand.org:8080/26511658231305/14811509280534/134642
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d7508a08b123c7a626a1d3c408649ca9.png" tvg-id="" tvg-name="Kids | VIP: Nels TV",Kids | VIP: Nels TV
-http://myhand.org:8080/26511658231305/14811509280534/134659
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Nick HD",Kids | VIP: Nick HD
-http://myhand.org:8080/26511658231305/14811509280534/134629
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids | VIP: Nick Jr Too",Kids | VIP: Nick Jr Too
-http://myhand.org:8080/26511658231305/14811509280534/134630
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids | VIP: Nick Jr. HD",Kids | VIP: Nick Jr. HD
-http://myhand.org:8080/26511658231305/14811509280534/134632
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" tvg-id="" tvg-name="Kids | VIP: Nickelodeon HD",Kids | VIP: Nickelodeon HD
-http://myhand.org:8080/26511658231305/14811509280534/134631
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids | VIP: NickToons HD",Kids | VIP: NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/134633
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ibb.co/1qKb0Gr" tvg-id="" tvg-name="Kids | VIP: NRT 3 Kids HD",Kids | VIP: NRT 3 Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/134656
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://media.elcinema.com/tvguide/1232_1.png" tvg-id="" tvg-name="Kids | VIP: OSN Kids HD",Kids | VIP: OSN Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/134635
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/18044e54747ccdef2e57c1511f1ccf59.png" tvg-id="" tvg-name="Kids | VIP: OSN Kids Zone HD",Kids | VIP: OSN Kids Zone HD
-http://myhand.org:8080/26511658231305/14811509280534/134636
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids | VIP: OSN Nick Jr HD",Kids | VIP: OSN Nick Jr HD
-http://myhand.org:8080/26511658231305/14811509280534/134638
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids | VIP: OSN NickToons HD",Kids | VIP: OSN NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/134637
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Persiana Junior",Kids | VIP: Persiana Junior
-http://myhand.org:8080/26511658231305/14811509280534/134654
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: PBS Kids",Kids | VIP: PBS Kids
-http://myhand.org:8080/26511658231305/14811509280534/134628
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: POOYA & NAHAL",Kids | VIP: POOYA & NAHAL
-http://myhand.org:8080/26511658231305/14811509280534/134652
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids | VIP: Rotana Kids HD",Kids | VIP: Rotana Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/134650
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/34e5f786bcab952e8a2e83b05b6987b8.png" tvg-id="" tvg-name="Kids | VIP: Sanafir",Kids | VIP: Sanafir
-http://myhand.org:8080/26511658231305/14811509280534/134643
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids | VIP: Shaun the Sheep 1",Kids | VIP: Shaun the Sheep 1
-http://myhand.org:8080/26511658231305/14811509280534/134657
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9d88ee92f3fb404cfb5c0e18707d53a7.png" tvg-id="" tvg-name="Kids | VIP: Shehab TV",Kids | VIP: Shehab TV
-http://myhand.org:8080/26511658231305/14811509280534/134649
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids | VIP: Shun The Sheep 2",Kids | VIP: Shun The Sheep 2
-http://myhand.org:8080/26511658231305/14811509280534/134621
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/129de2cf101be602b53fa56da6575893.png" tvg-id="" tvg-name="Kids | VIP: SpaceToon TV",Kids | VIP: SpaceToon TV
-http://myhand.org:8080/26511658231305/14811509280534/134644
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/5294ae9c0cd2ec89f180cc5f0b576f1c.png" tvg-id="" tvg-name="Kids | VIP: Tom And Jerry HD",Kids | VIP: Tom And Jerry HD
-http://myhand.org:8080/26511658231305/14811509280534/134620
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0796e927be423cae0c72f02b04e5be9f.png" tvg-id="" tvg-name="Kids | VIP: Toyor Aljana",Kids | VIP: Toyor Aljana
-http://myhand.org:8080/26511658231305/14811509280534/134647
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids:  NickToons HD",Kids:  NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/37027
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Kids | VIP: Treehouse HD",Kids | VIP: Treehouse HD
-http://myhand.org:8080/26511658231305/14811509280534/134627
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9d88ee92f3fb404cfb5c0e18707d53a7.png" tvg-id="" tvg-name="Kids: Shehab TV",Kids: Shehab TV
-http://myhand.org:8080/26511658231305/14811509280534/99670
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" tvg-id="" tvg-name="Kids: En: NickToons HD",Kids: En: NickToons HD
-http://myhand.org:8080/26511658231305/14811509280534/279124
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/34e5f786bcab952e8a2e83b05b6987b8.png" tvg-id="" tvg-name="Kids:  Sanafir 1 HD",Kids:  Sanafir 1 HD
-http://myhand.org:8080/26511658231305/14811509280534/59897
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/34e5f786bcab952e8a2e83b05b6987b8.png" tvg-id="" tvg-name="Kids:  Sanafir 2 HD",Kids:  Sanafir 2 HD
-http://myhand.org:8080/26511658231305/14811509280534/840130
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="NickJrAfrica.us" tvg-name="Kids: weyyak Smurf",Kids: weyyak Smurf
-http://myhand.org:8080/26511658231305/14811509280534/60953
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d7508a08b123c7a626a1d3c408649ca9.png" tvg-id="" tvg-name="Kids:  Nels TV",Kids:  Nels TV
-http://myhand.org:8080/26511658231305/14811509280534/31572
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/ngmh7J0/oqq.png" tvg-id="" tvg-name="Kids:  Tom & Jerry",Kids:  Tom & Jerry
-http://myhand.org:8080/26511658231305/14811509280534/521653
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/QDcPZYF/1.png" tvg-id="" tvg-name="Kids:  Sinbad - سندباد",Kids:  Sinbad - سندباد
-http://myhand.org:8080/26511658231305/14811509280534/521658
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/3c7DPrm/e9fd0dc950f1f8dbeaf6c57a516b5f70abb4bb3e-00.jpg" tvg-id="" tvg-name="Kids: Youmeat Cartonia",Kids: Youmeat Cartonia
-http://myhand.org:8080/26511658231305/14811509280534/678242
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/7JBpxz9/1-grendizer-andrea-gatti-transparent.png" tvg-id="" tvg-name="Kids: Grendizer",Kids: Grendizer
-http://myhand.org:8080/26511658231305/14811509280534/676046
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/db07fe66ccd32035365a6f6b24be82ea.png" tvg-id="" tvg-name="Kids:  Atfal & Mawaheb",Kids:  Atfal & Mawaheb
-http://myhand.org:8080/26511658231305/14811509280534/14197
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1db1829edbf8b872ea86e23ae48c72df.png" tvg-id="baraem.qa" tvg-name="Kids:  BeIN Baraem HD",Kids:  BeIN Baraem HD
-http://myhand.org:8080/26511658231305/14811509280534/2715
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d7e96ef28015972392de60a1be60d7ef.png" tvg-id="" tvg-name="Kids:  BeIN Jeem HD",Kids:  BeIN Jeem HD
-http://myhand.org:8080/26511658231305/14811509280534/2713
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/bb60317eea32c0b52211ae3244901a91.png" tvg-id="" tvg-name="Kids:  Cartoon Network Arabia HD",Kids:  Cartoon Network Arabia HD
-http://myhand.org:8080/26511658231305/14811509280534/6551
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/c9c6afef702accfdae08d7239bd8d080.JPG" tvg-id="" tvg-name="Kids: Disney Channel HD",Kids: Disney Channel HD
-http://myhand.org:8080/26511658231305/14811509280534/37025
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0e2f704d935f99f8a76ee1dfeaf94f57.jpg" tvg-id="" tvg-name="Kids:  Disney Junior HD",Kids:  Disney Junior HD
-http://myhand.org:8080/26511658231305/14811509280534/37029
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/d66f38c2e41d565e89c0016d22b57697.png" tvg-id="" tvg-name="Kids:  HodHod  TV",Kids:  HodHod  TV
-http://myhand.org:8080/26511658231305/14811509280534/14231
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/9af4cb01c6dc6ada7664aa5b6a51d206.png" tvg-id="" tvg-name="Kids:  Karamesh",Kids:  Karamesh
-http://myhand.org:8080/26511658231305/14811509280534/20960
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/18044e54747ccdef2e57c1511f1ccf59.png" tvg-id="" tvg-name="Kids:  OSN Kids Zone HD",Kids:  OSN Kids Zone HD
-http://myhand.org:8080/26511658231305/14811509280534/37031
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids:  Rotana Kids HD",Kids:  Rotana Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/13384
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/129de2cf101be602b53fa56da6575893.png" tvg-id="" tvg-name="Kids:  SpaceToon TV",Kids:  SpaceToon TV
-http://myhand.org:8080/26511658231305/14811509280534/7053
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/97eeaf95e135faba20755c951f4f9a77.png" tvg-id="" tvg-name="Kids:  Taha TV",Kids:  Taha TV
-http://myhand.org:8080/26511658231305/14811509280534/20954
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/af1c5a03cdedae32279e38b1fa3c9d52.png" tvg-id="" tvg-name="Kids: Majid Kids TV",Kids: Majid Kids TV
-http://myhand.org:8080/26511658231305/14811509280534/17596
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" tvg-id="" tvg-name="Kids: Nick Jr. HD",Kids: Nick Jr. HD
-http://myhand.org:8080/26511658231305/14811509280534/37026
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" tvg-id="" tvg-name="Kids: OSN Nickelodeon HD",Kids: OSN Nickelodeon HD
-http://myhand.org:8080/26511658231305/14811509280534/37024
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids: Rotana Kids FHD",Kids: Rotana Kids FHD
-http://myhand.org:8080/26511658231305/14811509280534/69573
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/40ab1b27ac47f630abbbaa5170672c60.png" tvg-id="" tvg-name="Kids: Rotana Kids HD",Kids: Rotana Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/78574
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0796e927be423cae0c72f02b04e5be9f.png" tvg-id="" tvg-name="Kids: Toyor Aljana",Kids: Toyor Aljana
-http://myhand.org:8080/26511658231305/14811509280534/71208
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0f073a6cfebb0328b5eec0218f5017b4.png" tvg-id="" tvg-name="Kids: Little Baby Bum 1 TV",Kids: Little Baby Bum 1 TV
-http://myhand.org:8080/26511658231305/14811509280534/202183
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/FV5p3h8/176684-middle.png" tvg-id="" tvg-name="Kids: Super Simple Songs",Kids: Super Simple Songs
-http://myhand.org:8080/26511658231305/14811509280534/705179
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/0f073a6cfebb0328b5eec0218f5017b4.png" tvg-id="" tvg-name="Kids: Little Baby Bum 2 TV",Kids: Little Baby Bum 2 TV
-http://myhand.org:8080/26511658231305/14811509280534/202184
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids: Shaun the Sheep 1",Kids: Shaun the Sheep 1
-http://myhand.org:8080/26511658231305/14811509280534/36867
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="http://vod-logo.net/photos/1aa987362efd07dc20c421e2b4b2f84e.png" tvg-id="" tvg-name="Kids: Shun The Sheep 2",Kids: Shun The Sheep 2
-http://myhand.org:8080/26511658231305/14811509280534/37126
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Angry Birds HD",Angry Birds HD
-http://myhand.org:8080/26511658231305/14811509280534/704809
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Angry Birds Stella HD",Angry Birds Stella HD
-http://myhand.org:8080/26511658231305/14811509280534/704810
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Bernard HD",Bernard HD
-http://myhand.org:8080/26511658231305/14811509280534/704811
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="LarVA HD",LarVA HD
-http://myhand.org:8080/26511658231305/14811509280534/704813
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Grizzy and the Lemmings HD",Grizzy and the Lemmings HD
-http://myhand.org:8080/26511658231305/14811509280534/704812
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Looney Tunes HD",Looney Tunes HD
-http://myhand.org:8080/26511658231305/14811509280534/704814
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Monica Toy HD",Monica Toy HD
-http://myhand.org:8080/26511658231305/14811509280534/704815
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Munki and Trunk HD",Munki and Trunk HD
-http://myhand.org:8080/26511658231305/14811509280534/704817
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Oscars Oasis HD",Oscars Oasis HD
-http://myhand.org:8080/26511658231305/14811509280534/704819
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Pat And Mat HD",Pat And Mat HD
-http://myhand.org:8080/26511658231305/14811509280534/704820
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Piggy Tales HD",Piggy Tales HD
-http://myhand.org:8080/26511658231305/14811509280534/704821
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Pingu HD",Pingu HD
-http://myhand.org:8080/26511658231305/14811509280534/704822
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="The Pink Panther Show HD",The Pink Panther Show HD
-http://myhand.org:8080/26511658231305/14811509280534/704823
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="The Road Runner Show HD",The Road Runner Show HD
-http://myhand.org:8080/26511658231305/14811509280534/704824
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="The Terror of Oddsville HD",The Terror of Oddsville HD
-http://myhand.org:8080/26511658231305/14811509280534/704825
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Timmy Time HD",Timmy Time HD
-http://myhand.org:8080/26511658231305/14811509280534/704826
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Tom And Jerry HD",Tom And Jerry HD
-http://myhand.org:8080/26511658231305/14811509280534/704827
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Oggy HD",Oggy HD
-http://myhand.org:8080/26511658231305/14811509280534/704818
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="#" tvg-id="" tvg-name="Reng Kids HD",Reng Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/298993
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="#" tvg-id="" tvg-name="Niga Kids HD",Niga Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/398945
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="#" tvg-id="" tvg-name="MMN Kids HD",MMN Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/78326
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="#" tvg-id="" tvg-name="Qallam Kids TV 4k",Qallam Kids TV 4k
-http://myhand.org:8080/26511658231305/14811509280534/427823
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name=" MTV Kids 4K", MTV Kids 4K
-http://myhand.org:8080/26511658231305/14811509280534/717386
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="#" tvg-id="" tvg-name="Dasinya Kids 4K",Dasinya Kids 4K
-http://myhand.org:8080/26511658231305/14811509280534/321355
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="" tvg-name="Sima Kids 4K",Sima Kids 4K
-http://myhand.org:8080/26511658231305/14811509280534/756985
-#EXTGRP:Kids
-#EXTINF:-1 group-title="Kids" tvg-logo="#" tvg-id="" tvg-name="NRT 3 Kids HD",NRT 3 Kids HD
-http://myhand.org:8080/26511658231305/14811509280534/11167
-#EXTM3U
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/7fcbff4dd86d2169111c0703cbf4488f.png" tvg-id="" tvg-name="News | Ar: Al Jazeera HD",News | Ar: Al Jazeera HD
-http://myhand.org:8080/26511658231305/14811509280534/2243
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/7fcbff4dd86d2169111c0703cbf4488f.png" tvg-id="" tvg-name="News | Ar: Al jazeera SD ✦",News | Ar: Al jazeera SD ✦
-http://myhand.org:8080/26511658231305/14811509280534/265139
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/7b6189b808db66ae31520c20d2ddd8b5.png" tvg-id="" tvg-name="News | Ar: Al Jazeera Mubasher ✦",News | Ar: Al Jazeera Mubasher ✦
-http://myhand.org:8080/26511658231305/14811509280534/66126
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/7fcbff4dd86d2169111c0703cbf4488f.png" tvg-id="" tvg-name="News | Ar: Al Jazeera Mubasher 2 ✦",News | Ar: Al Jazeera Mubasher 2 ✦
-http://myhand.org:8080/26511658231305/14811509280534/13436
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/223f1d0317177abf0647fc1c6039ba44.png" tvg-id="alarabiyahd.sa" tvg-name="News | Ar: Al Arabiya HD ✦",News | Ar: Al Arabiya HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/2288
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/53b481f9274a55d3560f32cbd9cb705f.png" tvg-id="alarabiyahd.sa" tvg-name="News | Ar: Al Hadath HD ✦",News | Ar: Al Hadath HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/3523
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/9ca5c12efad333fabe8a1de0f7d3aec7.png" tvg-id="skynewsarabiahd.sa" tvg-name="News | Ar: Sky News Arabic HD ✦",News | Ar: Sky News Arabic HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/3522
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/b6dbee6c23afc6ca201a8485dda03d6e.png" tvg-id="" tvg-name="News | Ar: Al Mayadeen TV ✦",News | Ar: Al Mayadeen TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/2281
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/97cd3319ec49817dca2894583590a183.png" tvg-id="aaraby.eg" tvg-name="News | Ar: Al Araby TV ✦",News | Ar: Al Araby TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/1989
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | Ar: Araby 2 ✦ HD",News | Ar: Araby 2 ✦ HD
-http://myhand.org:8080/26511658231305/14811509280534/363762
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/d066e4539347c1beb65084696c674797.png" tvg-id="" tvg-name="News | Ar: RT Arabic HD ✦",News | Ar: RT Arabic HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/2669
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/8af4e3c5e9bd720d808edddecce18f0d.png" tvg-id="" tvg-name="News | Ar: TRT News Arabic HD ✦",News | Ar: TRT News Arabic HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/69643
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/c3c5d800b0db0cfa9833489eba961898.png" tvg-id="" tvg-name="News | Ar: Al Ghad Al Araby HD ✦",News | Ar: Al Ghad Al Araby HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/6892
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/dea1ea8d31976b8945e3fd920d92665e.png" tvg-id="" tvg-name="News | Ar: BBC World News Arabic ✦",News | Ar: BBC World News Arabic ✦
-http://myhand.org:8080/26511658231305/14811509280534/1063
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/09ec027025c1c45dc83b78166009f48e.png" tvg-id="" tvg-name="News | En: BBC World News HD ✦",News | En: BBC World News HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/3239
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | En: CNN International ✦",News | En: CNN International ✦
-http://myhand.org:8080/26511658231305/14811509280534/285678
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/80f44b09886df7a76b3d0847752e2909.png" tvg-id="" tvg-name="News | Ar: France 24 Arabic HD ✦",News | Ar: France 24 Arabic HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/2748
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/80f44b09886df7a76b3d0847752e2909.png" tvg-id="" tvg-name="News | Ar: France 24 Arabic SD ✦",News | Ar: France 24 Arabic SD ✦
-http://myhand.org:8080/26511658231305/14811509280534/265143
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/9346fd9c39bc582eb06cd0c88a2b1315.png" tvg-id="" tvg-name="News | Ar: DW Arabic HD ✦",News | Ar: DW Arabic HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/3241
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | En: DW English ✦",News | En: DW English ✦
-http://myhand.org:8080/26511658231305/14811509280534/299276
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/8921f40884e3a6a69bede6a6fbf5b500.png" tvg-id="" tvg-name="News | Ar: Asharq News HD ✦",News | Ar: Asharq News HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/132679
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/ab8c3243b0a9766a40b1327ed011465d.png" tvg-id="" tvg-name="News | Ar: Nabaa News ✦",News | Ar: Nabaa News ✦
-http://myhand.org:8080/26511658231305/14811509280534/132680
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/96bd40996097360b49468d244bce1ea1.png" tvg-id="" tvg-name="News | Ar: Al Qanat 9 ✦",News | Ar: Al Qanat 9 ✦
-http://myhand.org:8080/26511658231305/14811509280534/99852
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/ae1e3a95431577be18dd4150e6e3e562.png" tvg-id="" tvg-name="News | Ar: Al Mustakila ✦",News | Ar: Al Mustakila ✦
-http://myhand.org:8080/26511658231305/14811509280534/1987
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/62a7378b684e1f9fd0a818492359e51b.png" tvg-id="cnbcarabic.sa" tvg-name="News | Ar: CNBC Arabiya ✦",News | Ar: CNBC Arabiya ✦
-http://myhand.org:8080/26511658231305/14811509280534/13451
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/125cd61977aa42a397bd84273a7e021a.png" tvg-id="" tvg-name="News | Ar: Al Hiwar TV ✦",News | Ar: Al Hiwar TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/9010
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/N6Gtqqv/Alan-TV.png" tvg-id="" tvg-name="News | Ar: Al Aan HD ✦",News | Ar: Al Aan HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/299049
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | Ar: Al Ayam TV ✦",News | Ar: Al Ayam TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/299052
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | Ar: Al Hadath Al Youm ✦",News | Ar: Al Hadath Al Youm ✦
-http://myhand.org:8080/26511658231305/14811509280534/299053
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/zZ6hSYk/Al-Hurra-HD.png" tvg-id="" tvg-name="News | Ar: Al Hurra HD ✦",News | Ar: Al Hurra HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/299050
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | Ar: Al Yaum TV ✦",News | Ar: Al Yaum TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/299055
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | Ar: CBC Extra News TV ✦",News | Ar: CBC Extra News TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/299054
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/18d37c486769fcc9fc50c9fff4adebc0.png" tvg-id="" tvg-name="News | Ar: i24 News Arabic ✦",News | Ar: i24 News Arabic ✦
-http://myhand.org:8080/26511658231305/14811509280534/20943
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="http://vod-logo.net/photos/d52648990b4c9dc21f4287a0cdc1d0a4.png" tvg-id="" tvg-name="News | Ar: Al Alam News TV ✦",News | Ar: Al Alam News TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/265147
-#EXTGRP:News
-#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="" tvg-name="News | Ar: iNews HD ✦",News | Ar: iNews HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/299051
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148034.png" tvg-id="" tvg-name="Iq| Al Rabiaa Iraq ✦",Iq| Al Rabiaa Iraq ✦
-http://myhand.org:8080/26511658231305/14811509280534/180296
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698149565.png" tvg-id="" tvg-name="Iq| UTV Iraq HD ✦",Iq| UTV Iraq HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/39062
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://i.ibb.co/DWwYqBQ/qt-q-95.png" tvg-id="ViasatFilmPremiere.fi" tvg-name="Iq|  OWS HD",Iq|  OWS HD
-http://myhand.org:8080/26511658231305/14811509280534/151091
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698146155.png" tvg-id="" tvg-name="Iq| Iraqia Sport HD ✦",Iq| Iraqia Sport HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/99682
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/adb4c6ec5b0a12025374b8ae5ce0a0dd.png" tvg-id="" tvg-name="Iq| Shabab Iraq Sport 1 HD ✦",Iq| Shabab Iraq Sport 1 HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/91891
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/c7dda25ede63c53c896f642f17eaad76.png" tvg-id="" tvg-name="Iq| Al Sharqiya HD ✦",Iq| Al Sharqiya HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/2292
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/c5fec026235f84b518823814cc6b0a2a.png" tvg-id="" tvg-name="Iq| Al Sharqiya News HD ✦",Iq| Al Sharqiya News HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/2291
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/8bebe7ae64943c0be4222ca18b55288a.png" tvg-id="" tvg-name="Iq| Al Wilayah TV ✦",Iq| Al Wilayah TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/179887
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148707.png" tvg-id="" tvg-name="Iq| Al Iraqia HD ✦",Iq| Al Iraqia HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/33812
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698146100.png" tvg-id="" tvg-name="Iq| Iraqia News HD ✦",Iq| Iraqia News HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/31009
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148814.png" tvg-id="" tvg-name="Iq| Iraq 24 HD ✦",Iq| Iraq 24 HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/47428
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145347.png" tvg-id="" tvg-name="Iq| 1 Iraq TV ✦",Iq| 1 Iraq TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/426825
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/0f8648c7053850632d1d3cd561e5e7a9.png" tvg-id="" tvg-name="Iq| Iraq Future TV ✦",Iq| Iraq Future TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/10688
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/7af171ca59720dc512834a65726a1af7.png" tvg-id="" tvg-name="Iq| Iraqia Turkuman ✦",Iq| Iraqia Turkuman ✦
-http://myhand.org:8080/26511658231305/14811509280534/2738
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://i.ibb.co/zZ6hSYk/Al-Hurra-HD.png" tvg-id="" tvg-name="Iq| Al Hurra Iraq ✦",Iq| Al Hurra Iraq ✦
-http://myhand.org:8080/26511658231305/14811509280534/67438
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://i.ibb.co/zZ6hSYk/Al-Hurra-HD.png" tvg-id="" tvg-name="Iq| Al Hurra HD ✦",Iq| Al Hurra HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/67443
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145522.png" tvg-id="" tvg-name="Iq| Al Ahd Iraq TV ✦",Iq| Al Ahd Iraq TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/30473
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/4667bf82a7ab70b20cba17e8df3c13c0.png" tvg-id="" tvg-name="Iq| Iraqi Education ✦",Iq| Iraqi Education ✦
-http://myhand.org:8080/26511658231305/14811509280534/69834
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| One TV ✦",Iq| One TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/521830
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Al Aimma",Iq| Al Aimma
-http://myhand.org:8080/26511658231305/14811509280534/854802
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/e0c14a7fc7221d29bc5af68e423ddf30.png" tvg-id="" tvg-name="Iq| ANB Iraq ✦",Iq| ANB Iraq ✦
-http://myhand.org:8080/26511658231305/14811509280534/99418
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148881.png" tvg-id="" tvg-name="Iq| Karbala TV ✦",Iq| Karbala TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/20676
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698149600.png" tvg-id="" tvg-name="Iq| WTV Watan TV ✦",Iq| WTV Watan TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/270447
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq|  Al Masra HD ✦",Iq|  Al Masra HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/394733
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| MarjaeyatTV 2 FHD ✦",Iq| MarjaeyatTV 2 FHD ✦
-http://myhand.org:8080/26511658231305/14811509280534/709040
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Shihab FHD ✦",Iq| Shihab FHD ✦
-http://myhand.org:8080/26511658231305/14811509280534/709041
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145426.png" tvg-id="" tvg-name="Iq| Afaq TV ✦",Iq| Afaq TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/709043
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698147912.png" tvg-id="" tvg-name="Iq| Al Mawsleya ✦",Iq| Al Mawsleya ✦
-http://myhand.org:8080/26511658231305/14811509280534/14395
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/ee1f722c70ac2d4d4f37321330b2be6a.png" tvg-id="" tvg-name="Iq| Al Mustakila HD ✦",Iq| Al Mustakila HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/100353
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148637.png" tvg-id="" tvg-name="Iq| Hona Baghdad ✦",Iq| Hona Baghdad ✦
-http://myhand.org:8080/26511658231305/14811509280534/7054
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145934.png" tvg-id="" tvg-name="Iq| Al Forat TV ✦",Iq| Al Forat TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/14221
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145800.png" tvg-id="" tvg-name="Iq| Al Baghdadia TV ✦",Iq| Al Baghdadia TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/53943
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148138.png" tvg-id="" tvg-name="Iq| Al Sumaria TV ✦",Iq| Al Sumaria TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/5273
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145693.png" tvg-id="" tvg-name="Iq| Al Rasheed TV ✦",Iq| Al Rasheed TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/168
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148055.png" tvg-id="" tvg-name="Iq| Al Rafidain TV ✦",Iq| Al Rafidain TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/6532
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/07c1d518905fe337fa1dafdb4f6ace61.png" tvg-id="" tvg-name="Iq| Al Qamar ✦",Iq| Al Qamar ✦
-http://myhand.org:8080/26511658231305/14811509280534/14157
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| iFilm Arabic ✦",Iq| iFilm Arabic ✦
-http://myhand.org:8080/26511658231305/14811509280534/570228
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/520c71f763756107171f6f8871e8fbe3.png" tvg-id="" tvg-name="Iq| MBN Alhura ✦",Iq| MBN Alhura ✦
-http://myhand.org:8080/26511658231305/14811509280534/69662
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698147978.png" tvg-id="" tvg-name="Iq| Al Nojaba TV ✦",Iq| Al Nojaba TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/100341
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148746.png" tvg-id="" tvg-name="Iq| iNews HD ✦",Iq| iNews HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/100350
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/9d88ee92f3fb404cfb5c0e18707d53a7.png" tvg-id="" tvg-name="Iq| Shehab TV ✦",Iq| Shehab TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/99669
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698149470.png" tvg-id="" tvg-name="Iq| Salahaden TV ✦",Iq| Salahaden TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/14399
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/feb760f6687ef75ed3949e5e221f7ee8.png" tvg-id="" tvg-name="Iq| Dijleh TV ✦",Iq| Dijleh TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/71221
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/2f5d9aef2cd010e8b13dc76cced43758.png" tvg-id="" tvg-name="Iq| Dijlah Zaman TV ✦",Iq| Dijlah Zaman TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/100349
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698149548.png" tvg-id="" tvg-name="Iq| Turkmeneli TV HD ✦",Iq| Turkmeneli TV HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/272853
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/8d0c9992829f87e740a709267642182e.png" tvg-id="" tvg-name="Iq| Al Nabaa HD ✦",Iq| Al Nabaa HD ✦
-http://myhand.org:8080/26511658231305/14811509280534/14131
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148218.png" tvg-id="" tvg-name="Iq| Al Anbar TV ✦",Iq| Al Anbar TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/14142
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/d089157b8fa9774c32ff595045458061.png" tvg-id="" tvg-name="Iq| Al Aqila TV ✦",Iq| Al Aqila TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/11172
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145592.png" tvg-id="" tvg-name="Iq| Al Etejah TV ✦",Iq| Al Etejah TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/30524
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/6d1bd1c72e67c4e66f0c2febe51fb284.png" tvg-id="" tvg-name="Iq| Al Awhad TV  ✦",Iq| Al Awhad TV  ✦
-http://myhand.org:8080/26511658231305/14811509280534/14217
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/8bdae32a8e284a55b2f835c561409abf.png" tvg-id="" tvg-name="Iq| Thaqalayn TV ✦",Iq| Thaqalayn TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/46342
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/315a203fe488267898bb6cabd7591fad.png" tvg-id="" tvg-name="Iq| Al Sirat ✦",Iq| Al Sirat ✦
-http://myhand.org:8080/26511658231305/14811509280534/14145
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/c3bcc11365be5d97f4c8ee037d8508fc.png" tvg-id="" tvg-name="Iq| Altaghier ✦",Iq| Altaghier ✦
-http://myhand.org:8080/26511658231305/14811509280534/14210
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/bfdc677a9317fba1b9684007a9afe645.png" tvg-id="" tvg-name="Iq| Al Anwar 1 ✦",Iq| Al Anwar 1 ✦
-http://myhand.org:8080/26511658231305/14811509280534/14397
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148116.png" tvg-id="" tvg-name="Iq| Al Shaaer TV ✦",Iq| Al Shaaer TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/11169
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145778.png" tvg-id="" tvg-name="Iq| Al Ayam TV ✦",Iq| Al Ayam TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/14167
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145549.png" tvg-id="" tvg-name="Iq| Al Eshraq TV ✦",Iq| Al Eshraq TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/352251
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Al Janoubia Iraq ✦",Iq| Al Janoubia Iraq ✦
-http://myhand.org:8080/26511658231305/14811509280534/352247
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/010222af8b24c2204468c46812409549.png" tvg-id="" tvg-name="Iq| Al Anwar 2 ✦",Iq| Al Anwar 2 ✦
-http://myhand.org:8080/26511658231305/14811509280534/100342
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/a8d269d094defee22df04b10c14e1f66.png" tvg-id="" tvg-name="Iq| Al Taleaa TV ✦",Iq| Al Taleaa TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/100344
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148861.png" tvg-id="" tvg-name="Iq| Iraqia Syriac ✦",Iq| Iraqia Syriac ✦
-http://myhand.org:8080/26511658231305/14811509280534/100347
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/9268841b2a2023bc2965a62012aef0d2.png" tvg-id="" tvg-name="Iq| Al maaref TV ✦",Iq| Al maaref TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/99855
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/18800210399ec7cfc57fe2c0e474b512.png" tvg-id="" tvg-name="Iq| Suroyo TV ✦",Iq| Suroyo TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/99681
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/d5d49a746e88020179c646ea81fc2706.png" tvg-id="" tvg-name="Iq| Diwan ✦",Iq| Diwan ✦
-http://myhand.org:8080/26511658231305/14811509280534/100343
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698149482.png" tvg-id="" tvg-name="Iq| Saout Al Aqila ✦",Iq| Saout Al Aqila ✦
-http://myhand.org:8080/26511658231305/14811509280534/69635
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/bb9894c7dfd6260e6f6870827e82cb0a.png" tvg-id="" tvg-name="Iq| Imam Ali 1 FA TV ✦",Iq| Imam Ali 1 FA TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/105052
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Al Kawthar TV ✦",Iq| Al Kawthar TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/328433
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145618.png" tvg-id="" tvg-name="IQ| Al Fallojah TV ✦",IQ| Al Fallojah TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/394416
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="IQ| Samrra TV ✦",IQ| Samrra TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/394417
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Sawt Alitra TV ✦",Iq| Sawt Alitra TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/352250
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Comedy TV LOL",Iq| Comedy TV LOL
-http://myhand.org:8080/26511658231305/14811509280534/382329
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/3c4b37f9e17945afc25a5b1f15f673c4.png" tvg-id="" tvg-name="Iq| Mr. Bean ✦",Iq| Mr. Bean ✦
-http://myhand.org:8080/26511658231305/14811509280534/36968
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://vod-logo.net/photos/aad51463b879c42078f97a4904b086d7.png" tvg-id="" tvg-name="Iq| Gags just for Laugh ✦",Iq| Gags just for Laugh ✦
-http://myhand.org:8080/26511658231305/14811509280534/62365
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698145664.png" tvg-id="" tvg-name="Iq| Al Ghadeer TV ✦",Iq| Al Ghadeer TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/10975
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148677.png" tvg-id="" tvg-name="Iq| Imam Hussein 1 TV ✦",Iq| Imam Hussein 1 TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/46336
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698148692.png" tvg-id="" tvg-name="Iq| Imam HUssein 2 ✦",Iq| Imam HUssein 2 ✦
-http://myhand.org:8080/26511658231305/14811509280534/7657
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://vod-logo.net/upload/uploads/img_film/1698147937.png" tvg-id="" tvg-name="Iq| Al Naeem TV ✦",Iq| Al Naeem TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/279134
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Alawla TV ✦",Iq| Alawla TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/521829
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| OM-AlBaneen TV ✦",Iq| OM-AlBaneen TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/816334
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| AL SAYEDAH TV ✦",Iq| AL SAYEDAH TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/816335
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="IQ| Al mawakab",IQ| Al mawakab
-http://myhand.org:8080/26511658231305/14811509280534/815312
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| ALWAAI ALSHIRAZI ✦",Iq| ALWAAI ALSHIRAZI ✦
-http://myhand.org:8080/26511658231305/14811509280534/816336
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Babel TV",Iq| Babel TV
-http://myhand.org:8080/26511658231305/14811509280534/815313
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Mahdawioun TV ✦",Iq| Mahdawioun TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/816337
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="IQ| ALMAWQEF TV",IQ| ALMAWQEF TV
-http://myhand.org:8080/26511658231305/14811509280534/815314
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Alhujja TV ✦",Iq| Alhujja TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/816338
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Al-Ahvaz ✦",Iq| Al-Ahvaz ✦
-http://myhand.org:8080/26511658231305/14811509280534/816339
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| ROGHAYAH TV ✦",Iq| ROGHAYAH TV ✦
-http://myhand.org:8080/26511658231305/14811509280534/816340
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Almawakab ✦",Iq| Almawakab ✦
-http://myhand.org:8080/26511658231305/14811509280534/816341
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Kalimat tv ✦",Iq| Kalimat tv ✦
-http://myhand.org:8080/26511658231305/14811509280534/816343
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| OWS HD",Iq| OWS HD
-http://myhand.org:8080/26511658231305/14811509280534/851859
-#EXTGRP:Iraq
-#EXTINF:-1 group-title="Iraq" tvg-logo="" tvg-id="" tvg-name="Iq| Al Awhad TV FHD ✦",Iq| Al Awhad TV FHD ✦
-http://myhand.org:8080/26511658231305/14811509280534/816344
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: NRT 2 HD",Ku: NRT 2 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527962
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: KurdMax Sorani HD",Ku: KurdMax Sorani HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527963
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: KurdMax Kurmanji HD",Ku: KurdMax Kurmanji HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527964
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: KurdMax Show HD Sorani",Ku: KurdMax Show HD Sorani
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527965
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: KurdMax Show Kurmanji HD",Ku: KurdMax Show Kurmanji HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527966
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Iraqia Kurdish TV",Ku: Iraqia Kurdish TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527967
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: A TV HD",Ku: A TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527968
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Sahar Kurdi TV",Ku: Sahar Kurdi TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527969
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: NRT 4 HD",Ku: NRT 4 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527970
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Amozhgary TV HD",Ku: Amozhgary TV HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527971
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Bangawaz TV",Ku: Bangawaz TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527972
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Komal TV",Ku: Komal TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527973
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: NRT 3 Kids HD",Ku: NRT 3 Kids HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527974
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Zarok TV",Ku: Zarok TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527975
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Med Music TV",Ku: Med Music TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527976
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Sterk TV",Ku: Sterk TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527977
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Aryen TV",Ku: Aryen TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527978
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Ronahi TV",Ku: Ronahi TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527979
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Cira TV",Ku: Cira TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527980
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Rojava HD",Ku: Rojava HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527981
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Jin HD",Ku: Jin HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527982
+#EXTGRP:Kurdish
+#EXTINF:-1 group-title="Kurdish" tvg-logo="" tvg-id="" tvg-name="Ku: Neu TV",Ku: Neu TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/527983
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Xtra SD 1",Bein Xtra SD 1
+http://tera10.org:8080/220936977606/yMcfUQnUgS/529740
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Xtra SD 2",Bein Xtra SD 2
+http://tera10.org:8080/220936977606/yMcfUQnUgS/529741
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Xtra SD 3",Bein Xtra SD 3
+http://tera10.org:8080/220936977606/yMcfUQnUgS/529742
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport English 1 720",Bein Sport English 1 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526000
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport English 2 720",Bein Sport English 2 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526001
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport French HD1 720",Bein Sport French HD1 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526002
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport French HD2 720",Bein Sport French HD2 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526003
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport English 1 SD",Bein Sport English 1 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526010
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport English 2 SD",Bein Sport English 2 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526011
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport French SD1",Bein Sport French SD1
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526012
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport French SD2",Bein Sport French SD2
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526013
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD1 720",Bein Sport HD1 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526014
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD2 720",Bein Sport HD2 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526015
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD3 720",Bein Sport HD3 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526016
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD4 720",Bein Sport HD4 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526017
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD5 720",Bein Sport HD5 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526018
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD6 720",Bein Sport HD6 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526019
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD7 720",Bein Sport HD7 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526020
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD8 720",Bein Sport HD8 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526021
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport HD9 720",Bein Sport HD9 720
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526022
+#EXTGRP:BEIN SPORTS 
+#EXTINF:-1 group-title="BEIN SPORTS " tvg-logo="" tvg-id="" tvg-name="Bein Sport NBA HD",Bein Sport NBA HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526026
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (F) 1 4K",SSC (F) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152044
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (S) 1 4K",SSC (S) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526817
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (B) 1 4K",SSC (B) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152037
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (V) 1 4K",SSC (V) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/519704
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 2 4K",SSC 2 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/175722
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 3 4K",SSC 3 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/175715
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 4 4K",SSC 4 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/175716
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (F) 5 4K",SSC (F) 5 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/175717
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (S) 5 4K",SSC (S) 5 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152041
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC (B) 5 4K",SSC (B) 5 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/243623
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC EXTRA (F) 1 4K",SSC EXTRA (F) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/310742
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC EXTRA (S) 1 4K",SSC EXTRA (S) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/391634
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC EXTRA (B) 1 4K",SSC EXTRA (B) 1 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526829
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC EXTRA 2 4K",SSC EXTRA 2 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152043
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC EXTRA 2 HD",SSC EXTRA 2 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/391635
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC Extra 3 4K",SSC Extra 3 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/391636
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC Extra 3 HD",SSC Extra 3 HD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/391644
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC HD 1 (720)",SSC HD 1 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526832
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC 1 (540)",SSC 1 (540)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526840
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 1 SD",SSC 1 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/175714
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 2 FHD",SSC 2 FHD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152038
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC HD 2 (720)",SSC HD 2 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526833
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 2 SD",SSC 2 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152042
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 3 FHD",SSC 3 FHD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152039
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 3 SD",SSC 3 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/391643
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 4 FHD",SSC 4 FHD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/152040
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC 4 SD",SSC 4 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/175719
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC EXTRA 1 SD",SSC EXTRA 1 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/519702
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC  NEWS FHD",SSC  NEWS FHD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/310741
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC:  EXTRA 2 SD",SSC:  EXTRA 2 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/310743
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="SSC Extra 3 SD",SSC Extra 3 SD
+http://tera10.org:8080/220936977606/yMcfUQnUgS/350080
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC News",SSC News
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526828
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 2",SSC Extra 2
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526830
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 3",SSC Extra 3
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526831
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC HD 3 (720)",SSC HD 3 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526834
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC HD 5 (720)",SSC HD 5 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526836
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC HD 4 (720)",SSC HD 4 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526835
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 1 (720)",SSC Extra 1 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526837
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 2 (720)",SSC Extra 2 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526838
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 3 (720)",SSC Extra 3 (720)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526839
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 1 (540)",SSC Extra 1 (540)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526841
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="" tvg-id="" tvg-name="SSC Extra 2 (540)",SSC Extra 2 (540)
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526842
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="VIP: SSC NEWS 4K",VIP: SSC NEWS 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/391645
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="اكشن اكسترا",اكشن اكسترا
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526660
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" tvg-id="" tvg-name="اكشن مع وليد",اكشن مع وليد
+http://tera10.org:8080/220936977606/yMcfUQnUgS/526659
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.e5cNdJpGnyH_y8JmfCTQHAHaK5?w=115&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" tvg-id="" tvg-name="KD : KIDS| MBC TOON",KD : KIDS| MBC TOON
+http://tera10.org:8080/220936977606/yMcfUQnUgS/378739
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAC0ATEDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQYAAwQCAQf/xABLEAACAQIEAwUFBQQHBQYHAAABAgMEEQAFEiETMUEGIlFhcRQjgZGhFTJCUsFysdHwBxYkM2KS4UNTVIKTRGOistLxJTQ1VXN14v/EABsBAAIDAQEBAAAAAAAAAAAAAAQFAgMGAQAH/8QANhEAAQMCBQIDBgUEAwEAAAAAAQACAwQRBRIhMUETURQiYQYycYGhsRVSkdHwI0LB8TM04VP/2gAMAwEAAhEDEQA/AAPFp42ugDNcAOATGrDew8T8LYZMjSqljkqqlrU8YPDLbXA3ZyedsC6nLYqYwurrIdD8RbqCrg793pty3xy+b5nDSVFOFFRDJGY+G4syqeqMtmuPDfCVuXMgKoBgGXla8wzzMpXEOVrEqX0B5AzTyk7DQtrAYJ5fmDiQ0tTR+zyyUjQpI83F4jMwazEWsSVut/1thYy+oBqaSYIwWJ4KkkqT7sSBGvblY4MN7muzSnIJYTtMAoN+G5DFr+dx8sSAdLKI72RtK6NsLuozVF6ohybjZZIJVJ/MI5F28xc4yai8yNv7ujp1HrNeY/TTjtWlkSemYji2vERsCzbEW8rm2JZeJUMvJp5Av7EdoV+ijG2w1ti2McXJ+lkpk0Zf5LDmMgIo6W51VdQqWt+Ebm9vjbDXQU4p4Qu+tu/IfFiBt8MA4qRKitoJmvelM7DwKuoBv6W+uGRCLXOwAux8AOZwqxm/iSN72TrBIGhrp3fD91lr6yphCQUsSyVMwYlpWKQwRDYu7KCSTyUAeJ6YpgNQY043DEu+oRElBvtYsAfpjSlDW1xeoUwwo3ei9ofSXUbAKo3t5/yak2A8cW0jGsbbnlJMVnfPLmPu8K5VYgXJxYFYdTjhL4sLWGCiSlbG8qipasVB7KsLyFrEVEjRqFsdwVVv3YwNPnCbzUkEidfZKgs489Eqrf54KKss7NHTwyzOuzFLKiHnZnYhb+WPJaDNEGpqVyo56HjkIH7Km/0xV1AOUUIXuFw1D0nSZNcbMQCVYMCrKw5qytuDg7ksJjhmqmvqnOlPKNLi/wATfAlUaZkjX78jiPfoTsSb+H6YY20QxJGuyoioo8Aotiupl8mUcoihhvIXnhZ6801RE0dUpdN9JVtMiE7XRh1wrT0Yp3UQuZonuUYjSwsbFXHK4wXqpWkcRJcljigwzVDFYUJjhFmJIH7THURt/PXALIWTm0rrAcrQwYnNh4JibmLuPVaMuzGm0JSzSLHNCqx2kNldRsCrHbBhCHsUYEHkVIYfMYAvldKRepnTWvDK8K+oh/uqDs2o9BvjZFR0sKy8OKsl0FRurFg5t3RZQCB1NvjiE1WyLywnMPmlLaF1Q4yyjKSia0UFJx3gUK1TO1RPo5yTMAC535mwxjdKKCKaEiCOGUzNKjMiq5mJMmoE/iub49aIe8DUUxSJQz6Y2Jkc7gQgG5Hjzxkny6jeyzQTQnhcaaSJpkSJATYJcG5P4hf5YHZXv/ub91ZJhjHG4d/P1Q6vr6dkjy+kIfZA2m4jigi5Aat97AD0622GMrba1IPQ4NJllEAiUutHqFMiRNokYgDZ53uDY9Cb2xmkppQrsumaFR33iuyLvpIIIDXB2O378HmCmrBdstn/AKBMMNxWfCQY3xXjve43/ZL2Z00tbThFa00bq8bk2BW9mB+h+GMsWUkRI8skhOgvtbkfC2Dcka2JG4N7jwHlgBW5k0E04kYgCQQmEcilrAg+mA60VVhC4ajc9x/lC4zSQTZa2iPkfuBw5Z6uipxHr9sCan06W7xOkWsbcj0IxuyYxxLKnHaUzurKxChQVW2mw6/HHlLQS5jDLWRGPicUgK2wVLAgKQNsV+xVNLMQ6GMuLncAEixDrb+dsDU1a+lkEjTcD7LU0ns1SOi6Egu9w96+x327I9c4m+MYqyFF0BYAAnVsT42tjz2x/wAifNsbU49RAe99Cs8PZTEr6M+oTFWlvs3Lef8Ash8eGcBxJGzyxrIrSRFRKqsCULC4DW64z1eY11XBHTGURQxqFVYV0sbC1y5u2A6U9VSRzJRTMntEsbTEkFyoO4ViNtsZPBMVGHxdB7b3c43+JJCeVPsnPMwzOcA4AafBMW+Jc+OBEmZsq6nUxsZwGDLYhLX2J/n5Y10VatU9QgIJiLENyBTUV3Jxr6PFm1EhjLbb63XzxzHNdkIIK13YhxqksbfdVe4bixBO5GwuB+mJdiWYkksSSSdz8tsUNV0itu3LbUF2897/AKYtMsQCnUCGAIsb3B2vtgqKqpi5zmvBturpsOnowJahhaHbXWmmJ4mnUFLC4JNgCve3OK5ZDI997DYE8yb3JPrjG9RUXbhrGF3AJY3vb8R5WxFqm3EiAPo1Cx2f0P0wnYKI4ga2+pAA9O5/TRROIAwinG11p3xMZva/+5P/AFI8TD3x9N+cIfOzuh8dfKk9M03vIoJWfTOgmjPEGl1kjaxII5b7Y0mbs5WlgYJaCW5CyUZ49M1upp5TrHwc+mA1dXz0dbPTiJXgQrZKkapFuPzrb4bYrjloqllMLtFNvpikPca/MK2PkZbMBn4T2R5B6b+EYly2amHHTg1FM2pBUU5LQkuOUgFnVvDUB8cZ4qmVqqmqRI+idFp5UezPrhHDaMkW3GxB62x3RVs1PIwBMbm6Op3V1PNWVtiD1BGNctDSVi1L0wENRIomanBOgyxjaamYm4uLh1J8CL2xOnqA121iph5cA2+i22MMkchYEHSUlHIFeTE+XXyviwrp206QCRpP4SDuL4w5XJUV8TRqjMQxSoJ2SKddxIGO1mtZwOR3/Fg/BSrAicdxI62tcWVbbAAeXIX/AExtsPqCw9Qj/SCqS0HKFzQRupeRksGTSl+Zubk252xseRgNybeHT5YokqFXYHGGWr574nKRLKZSN1T4h7Y+nm07La0qeWODP54EyVd+uK1qxfdsSDgNkI67keiqjfvWIxaS80kMcRs0rpEp/KXOnV8OfwwGjqUNtxvgtSSEtGyEakIdfUHHXeYaKtoykX2W3tB2hy/spS0kKRLJLIPdxs+hVjB0mR2AJJY8vHc32wEyP+kI1tZFS5hTwRpMyok0AdOGWOlS6uzArewJDbX5HmKu2eTVXaMUk1MVjqIIuEyyNZDpcupVgDzuQdsKmTdi8+irIZKwJBCpCs0dQkhCkgFiF8Be3nbCRwe0Elqd+IBvlO2wX1jNYZIHiraVU45Yoy2BDtba48SLjAt86WTiRzQyQzxko62vpe3Ig2I+IwWmqY5rOdQhpryHULantZR8MIee51BSVImca6qpvwII1DSuinSGIJ0hR4nbbrbHnk2HdGNj8xIR2CWMM0s2gtICkUbbmR27qgINzbmfTG2WsoaYJ9oVUEEahFjiqZtLlI9wDDEdRudztvsOmPnAr84nYyNKafVtanZuJY7WaZu/8gB5Yr0QxEtI6KzG5aV1DE+JLG+FsnmdqmMcRAT+/azs/BrWB62Uli7GhpI4Edza7F6ghr+eMr9tae50ZXWyDlefMWTbzWMEYT0aJraHjb9llbl+ycdY4HEKfRbymg9sx0yTb/8AZT3/APJjte2sP4srrI9tzDmTsR6CRQMKthiWGOl7ivdFicP625JOCswrI9SGNva6eKUaTvp4sB12xpizHK6uzU00MjRQcKmRZDJHEeWvhPaYG3mf1whOYl3d40/bdV/8xxUUp5SCjxsw3Gh1JHppN8euDuuGLsvoFRFDJxJOJqsUDVO7STSMLW4Maj52B9b4RO1FOaeakndSqyXje/IOm6/McvTyx1Fmue0BVopvaEQ34VSzagB0jmHfB9bjywQSsy/tDTSwxIkdbC6y8GqvxYpw2zqQStjcgEC3lhjHUFzMjzcDbuP/AApbNT2BDdL7j+coRkmY5hBLIlORwbXkLDUqk/dXvc/EYLPI8jNJIxeRiSzMdzfGWGKGIy8OJYg7s5RBpVSdiLY7ZgDzOEErruNl9XwildT0rBMbutv6cD5BXXXw+mJcdMVh7+GOgf5tihORay6v6Yl/LbHPyOPLjbzNt8cuvWC9YKQVYBl8GAI+uKOGtOk5p4wDIAWQGwbTewv4YsL2xy7jFrJHjYoWamgkeJXtBcNiRssTwK/enJllba4ZgoP5YlXGmGKpDS0bSMk0Lx2LDUrE7hJNwb/wxthzOlgAjpssaTMAgbiIt0W42cs2wHjuMYJqXN1aSbbiTs0strk3FiBfx3JwbAR1BrZfOvaOpjjpnwzOBe4iw+B3PbReQpm87Pp4ekagG1d3SLamJt48sezU+bFkW6XQ7KWsWv0Unax/nnj3LqxoY601D6Z77rIADw3VVQgeN98F6GFq2pTRO0lLBvO7WYtITbgx+Xj/AK4sdLIHueLBoC+cCBxsAEG9lz3/AHK/9T/XEw7ex0X+5P0/hiYB/EHeiJ8Evn+eU8jZhUNGIwoWIFWcKxuvMA4wQ5ZXyRmUCERByhkeZVUEW5LfX8hjfOK+qkWWLU1o9LSMO5cEjvE9fhj37NzeRQSXcAgm0b2IP5SxXfE4w/KGJzK1j3XsitPlFbNQcbicaWnsXRVPHjhsdLc9/Ei1wOV7WxfQVtBCaZKqkWYXXVOWdisn5gt9Nh6Y77NVEGSHMFzJ5ojUyQNC5hlZEWNWB1st7bnG3N6OjFswpHjanqCGkERBjLMf72Ertf8AMPj5EKmqxBXGKoZodjbTVempOpT54zqNwi/t1OYxwtAS3dCABbeQGBNXmaR3BcX8AbnALiVMZ4Yc6XuVK8mBPMHFE0dUqySaNKLIsTySAkKzC4vbx6b+WNxJUxsAvokMULidFslzSRydIbGVq2duoF/P+OMr0GYyNZa1OH3ruEaJSAdtKAajfpe2LYUpTxqOSYS61tIktKLBj1UytcHwIGKBVhxsEZ4YtFyuGqH31S/XFXHubiUn0N8VignkrBl9BT1NXKHsQ06WWNbXd3ZQAvgT/pjdUZZQU7GmjaSWsWyTSo+mKKUfgjFrt5k4olrmxODXb9kXT4fLUAmPZVJUzKQVlb4nBzL84aJC0rKCNvPCQMwBYxxpVPIrlHVYdWgg2Nzfpgzl+X5tXqZWmpaOnBKh5I2mqHI56IgwXbxLYLbKXbIKSnLPeNkzt2kUHYtbqbGw+JwSo80lqXjRN2kIA/jgHBlGU0tndp6qbY8SrcWv/hiSyAfA4YsmgijWfMHUBFDJFtbYcyP3fDFjnENuVVA3NIA1a8ymSCEU7OFUI89W/wCVVGpicfN5CKiprM0qrIZe8Ne/s9MgtHEPQWv4knxw0ZnJU5hV0+WQWaor0euqixsIqKKQIms/4239E88cV2TR5dTwyPPxJJJApUJZBYXuLknCh5LzbutZAzTMlgRV1VvqajpzyUW9qkHi5Oy+mLFynLF5xF25lpHdiT488EAjyOkaIzO7aURAWZmPQAb4OL2TzxkV+FGCVB0tIgYeRF8VGKyvLwNylePL6GFxJFAiSAEahfkefM4v0YYV7N14bTKyRnqGBJ+H/vgpTdn8tjtxVMz7XLsbX8lG2IXa3QqwMJFwkrRiaDj6GcpynSR7HDa35R+/AuryGkcFqe8bcwLkrf44kHs5C90ydklSZfRTPxJoUd9IXU172HIbG2KmynLGG0Og9DGzqR6b4YZMozBX0LC0jG9liUsxHjYb46/q/nxUt9nVFuf+zv8ALVfFgjDtlS52U2KWGgrKUEh2qqcfeVxeojXxUj73pjLU08nuMwoGIniAlhdLjWvMo3ryw1fZWZhihppVYc1caGHnZrHHrZPmIUlqdrdbFT9AcdEYB0K467m7LBQSS557EaONTVVjGORCSqLKo1PJIei2uW26Hqcbc2yzIcrZIKnPqsVzSGEyLQlssjqAiyGGRkBcWBUtZ2IBBI6GnsvI2U9pZoR3YqlVlCMLd2UjUBfwYNgd2h7IdoGzmvrLh8tmrZ65Kp50SOMTSGVgys2oPyBspvYWv0r6LGkkjVMosSqpGshY62XT4/6VqB1FmsGUkNY3W42OlhsR4YsBG2+OEQIkaawSigXbYnzIx1YdGXf0wmJF19GjuGi51XpI6c8VMzL5eu/7sdMCPEH6YpnlWGKWR/uxozGwuSBvsMdAuvPdlBJ4UMwx7qBBx3ko7MZhmpybMTXpWysYqesoswhlpDMV1qirHGF8gbtvt5m3MsvnymrnopZBLw9LRSgaRLE41K+m+x8R4g4JfA6MApJTYpHVSGJu/wB1xTzoiyxu9nZ1eMb2YAWb9MaZ80jDSuRGaYvYXbvtp2vttherIppTGYnVOGJGkdiRpUr5YEI8j8GIapGYho0UEs5PJVA3OJxwRy2dLrZfNPaOnacRkcObfZN4NBPMJpoIHkhGmF5NJdwTcaye73elxtjt8zeMAyGPSCra0Fo0UHkBaw+WMFBkkxIepk0lLcSGNrlNQ2V2BtfyHzwx5dlOX8ZmkhSTgGyB+8rNs19LbbYJdUwRnKBfRZQRukeGtKG/bUP+8X/M38MTDdwqb/hov8sP/pxMCeJg/Ij/AAb/AMyCTGHivBSRtT01OqGSacGapkkkNkRFVbaj0AXlyAvfGKZHE3s7U1VxQFcmu4keoNex0qRz8Lt+uMmZVNUrZZAjMDJqqZmS5a4IYuWHXawOCFXQ50qx1k00Y9plVq2YyAzRo1m4caMLEnkd/AchbB2TPcs+iZOk11Gi9ipqiNGmSSFWkLogijsVEdj39RYWN+Xl8tlAlJWLUUdQns80lmPs9kSXSQ2sJ92/w/06jmyuUv7Js3A1d52ZnVSN21G3XwH0xhqC6sJITpmjYSRsPI8jhNV04zuGzhYj9FtcIgFbR3Nr6qrNMqrqQtUo8cia21cKN/uk7F1JNj6bfuxmjMM86QzySOkJj46Qvo1bnuIw6jff5bYcKWVK6mhqFJRnWzjwYbMPnfA9uzuVCeScyzorixhiZEiHW690sPLfbC1uJE36+jhyk9ThVnXi37IS8b5ZULEWV6Wfv0dQwsjI+2mW3RuR8CAfwkGjMMskqzFNRqRVF+GqyHTvyZJfNeviB6XamosoanSmmj4sCMWRZWd92texvffnbGiGloIQDBCid1F2BuQg0gbnoNv/AGwxix6JsRYBc/5VP4S91s5sh8MEGR5bWSxnVMsRlqKgga6io06VJ8h+EdB64UqFTNUoz7gHiMepIN98O+Z0bV9HJSLLwtTK4bRcXXkGHhhRgpKugqJoqiOzBRoYXKOt+aNb+f3j4dN775HXc5aqhpozZjdFhzGFYK6pQCysyyrtbaRQ/LFlPWSRRrGo2HL4457QcVajLpUAtPQIWve+qOR4ze3wwNSWYWBUfDGyon9SBp9F84xSExVUjBwSj1M1bX1NPSRmzTuFJHNEG7P8Byw6VrQU8MVGhCQU8Wua34UQYDdk6Xg0k+b1CgNMClMD0hU/e3/Mf3Dxxg7Q5jKqiniGqWpPHqLm2iJT3E5dTv8AAYslOdwYFynaIYzI7f8Alls7OB6nOM+zFzdqiOkjjQ78KJC+mMegAxt7QSmWaCjiXU8eksBuTNJsqD6fPArshUvGme1VQqqkApiACTqOl7DfxNhgxklLPW1yV8ovHHOZizfjl3sB6fpgRzAyQuOwTunke+nBduUZosuyvs1QVOaVzgzQU7S1M1r8MW/u4V8SbAeJ9cIlb/SB2iqqk+zVVLlNLpkaNPZhVz6VUsomdlYamNlFkAF/AXLp22SrqMieKmjklY1tA0sUKs8kkIlF9KLubHST6eWPjdR2b7YTVFQfsbMpEMshUmFlUqTZbch4Y62RpdYqvpkMz7m6e8i7eVdXPT0WecCSOeRYoK+KPgvBO+ypUxr3dLHa4AtfqN1fAm/LHyfs52O7US1sEuZUiUlDHJTyyid04snCkWQLHGhY3NuZtzx9XmmWKw21MSfTzwLUFubyouAG1hyrSu2KGTwF9/nig1A56zf1xZBOspK3GsWN/EYoFiisjmC6T867aTUdTLl+TzUtMkTtFXZrPC9TqqEUkx00K/hUjTcg79ABqYRl39InaeCdTVTQ5jFf3sEsEVPMV5ngywqq39QR6cxm7U9i+0b181Tl1MKyjkmnnVIZEWWMyuXIeNyt/AEXwBi7O9sUlpg+S1yoskYZuCSAgIuSQfDDJj25LpY9p6lrXvyvvUFTl+dZfS11OxaGpj4kDkWkjPIqw6EG4YeWMLowDKw3Gxty26jAzsVFWUmSTw1MUkLHM654IpgVkWElQCVbexIJHz64OSC4ueZGB5LOAcFfCHRvLDsvn3aCnijzShrdWmT2WeBlAPfUsbNf4741ZVQCvVamseT2VWKQoXYcQjYm99l6bYx9tXaCfKHHIrVqbeRQ/rjEj1dVlNBU05LxUimCpiVtPCIJs/ofHCuszOdod1paeQQUl4xYuOpT5DT5dCNMVNToo8ET5sW3xhkzrsiX4UlTRN3iuowuYiRztJw9HxvhG+0zJFVUJqpYHmhMTQ1J4UoVj+HiHSQbdGII9cC2y2vWxV4nXpfWn6EfXAjaQ/3lUwuikJMjyvp02TZRVoJIAI9aho3pWBjYHkwFyhGFjMsokpyIqlj7LMwj9ojUsBc/iW97jmRf0OK8gzKsyukemqF1Lx3kiVHBEaMBqAJ23Nzg6Mzo8zhqaVwUZoJHAe1rqCQwI8DivzxP01CJgrXRkxl2Zp0+XohPZzsUuXZlTZpUVdPLFSuZ6VKV2kEkgvoZ3KqAo5257fPrtPVx1eYyvGwKxRRU4ZfxFASSOnMkYGwVUWuMSyFIiRrsSLi3I2x1XVeVtFIF4YKqQhQ3N7bYbF7phlV8VHFQy9XNfSw0sAsKJxC0h4PBSemSY1O8ARmuwkB5gjb44tL1MFPk8NHAokzKWplQoqopczFUiLAbKoF7dBvg92coYjQQy18MRFe7VsMc2mzxKQkb6WNz92/LqPHFlURS0kcmk6RUo+4HuxK7t3fAC9vTBWGATGWJwsGi9/00WEx54fM6UG9/8BEKLLKSGmllqnR+FHJU1VRMHESGNNTtHGt9ttticeywTpoqMuVHinRJTCVCSKNII0RkKbHnawPliqmzSdGDxxmppJki1RRaeNA4UKzItwWRratr2NwQOZvrs1y+kio62V6pEj48cdMqiNZ5XAs0yyrxO5a6m4tfrfANRlc8gCwRuH4fHFE05Q4ndZ+NnP8AwLf9F/44mMX9cIv9y3+f/XEwLkKbeFg/+Y+qESQzyT01MpUS00Eqtqa3tESIXXR/iHO3Wx8McPUz1SeyzPIWKq0RZmIW2wK+XjjWGlzCMTLenzOidDMqndTfUkiEc1PQ+Nx1wLkeWUlGASohkZhtYktsRcdD4ePru4cTGQ6M+UrG2zD1RPKtcGZRQy932sNEdBHDLSx2D3I3BPL1wRhpnqZhE5IRSTL46QbFQfE8sB6Z2qaaN3Bh0zScGV7e6qYSrnTbfSSRcW5m/jhphKCOSoHd4xEjg7aTaxC+QN7Yz2LzOib1mbu0+a1vs9UmKN8X6LYpSNVjWyqoCqq7Ko8AMevrYfdDRnYkdDgVVz1FNT+2zLHT0ZYIk1VIIhKx5CNbFj8AcW0dYsqo6sjRuLqyOrxuPFWU2OMe+jnAEsgOqbgscfI4EhatJBCmwuRbri3UUDO5NugvjteG5RiVDLbr05WwOzGVwrBL3vZQOpOwGLWwnQd11pzmxXUuYRL94lR0uefpvit5YKuO3M3up6g+OEuqzILWJomo3WP75qhIyyS6ipjsCtlFtrNv49A55OtBmMM5jgNDmNKFaenilklpaiFrgTQcUlhvsRc28wb40AweWOPqsOu9uUubjNK2oEDTrweEtZ4O/lqFgTHSMWINwNczm2LcoyKTMe9NxIqdu6NOzvfba45YYHyejqq1JaqOV1iQ/wB3spa9xxdr2G9sGkEdNC0lgEjUiMC25tzGNnhVQ00bQNxusrisL31z3O2Justc6RLTUECgJGEQIu1gosFwpnK81zKtq1VFUq4M0shtEmoXVEsLmwtsBhipw9Q81SwJBZo4z4n8Tfp88b6cGBJCVBdmLBR1Y7C/89MMohkaZnJPUSulkFPFz90EpsolpGjyszK3tUi19Y8QKhIYl4SoL9Sb29fLDShWJI4ohojjUKipsFA9MCIZJjWV8s6BJbU8AUG4CJHrFj53vjesgOEtTP1HabLa0VL0YQx+pWtW3uTfzxbqUeGMqnFNbWRUdNNUSsFSNbkkgbk2HPAwcVe6MLeZt9K88BM8gzqbhtQSBe5ofdQytctq73MeX8i6nzzs2sals0ozIwBYcS5BPTbFhz/s1uTmETAc9AY/pbEviqttglV6rNY24UrMJBsQyd4+mCmQxZ0tQJKrimPhy3eVQmosRYBeeCv292WNv7US3T3Dk/DbHgz/ALN/hrUX9pXH6YloAoMzk8olxTezYjMpvtgZLnnZx12zOkDC+m7kG/xGO6Cup6+mSpgcNGxZQykEEqSpsRtiFyFaGjtZa2axx5xmHMkjzxU7YzyS2B3x4OKIyttql7tnCs9Pls2h2SCtPtBiXVLHTul2ZFuLnu2+PlhJy7O3y2pkkpDKIGYqUmCkun/eKvdv44+iVB9oZIeGJS7bIWK8rksCOowk5n2c4U9R7M9mDFuFLYAg94aW6fHEpcp0ejaRrpGlrDfuOFrlzOlzOJ4WgpZqaQX9mlQSCFzzanLe8T/lIwM+yqFSDTTV9L4iCpIX4BgT9cYfsjNb7Uzg8wQ8Y+urHEn2xSHTJJUxD/GxK/A3I+uKQ0tFmOVc1Dm8zmI5Bl0ptbMsxe3MS1UcaG/iQob646qZ6Kghlhp5zUV84KyyKzGKBCLaFZtyT1P8LlcNXXSbGqdhbcatreYGM/FqNekORytYAHf0x3pOcfMVTFDHGQTcog0kjW1E7C2PYHoxUQNVDiUyyK08Sy8J5YxuUWQqwF+R25Xxmky/NOGs5hqTGpDtq6L1bTe+3pi5cwhCJHJluUThFCa5KVlla213khkUk+JwbBC0+Ym6pxGtkZeMNLSeT/hM2bZ1kWa5RBRNSVIqMvqRLlbF6WZRTagPZpmWVJLFe7cD8CnnfFjZzSZnlj0UtD7DWMWEc1G0yU+lbFNcSu5N7bg35XBHRROY5arLxcjpLA3X2eqzGMbW5q80gt47YuoXoqqWo/s00LAF2kSUGKKNzuArICCeQ73K+2+xskjAw2uPgkEMbnSBrgDfgoqGqKZVNNndMAFB4bpxAZLb6VII9NsYaqtqKrS9VUcUqoQkkBRqNrKg239MHcuyHJ6iKeduIoVDwiFlmaRjsDYEKFv1v8rYENkOUxz1sctas3tXs8dPKqsz0kjSIzHiK4jPVb6T6DmFcZa8lzzb5JjWwuLGxQG1uxWTijxb/L/piYIf1Qy3/wC5z/Mf+nExf/R7pV4Ko/Of1W2jq/aGhmhJSojBVNek60PeaGS23mD538saa2OGqpxWw2jmiYRSI17h2NuEw8+an+Gy5AJ6UQhkOrWYmVRpJQHWjC9t1JIHlthgimfUZVA48arxo2GpaiMEODbx2upwE2ToXjPuH6JexwB12WinS8UYaiAnkiRAJdWu7yXWojVbEH83dbbe3esG7LqRJJKWnZdUMJjEgAYqRGOR6b4B5a9LM1bUBHM5qZWlnk1FpSe8uhj0AsLDwwbbOkhCRQzGmgiVNGkE8ViLszEA3JPTAcdKMTrOkDlDNTflNqysGDUXiXAvzaC24SZ2yqa2fN+0FU8XEGVMtFRxMC0cMKrGS6oPG5Y+Ow5LjF2PrJ67MJRUyaYZJkNVKiqqyO2pyRp7uuw5+e/TDnroc6zGdpqOsy/NDRNMupoJKXNaamshfu3KyKCO7sQCL3tt7Bl9MA3s0TvIBdTFGGKm/wB4CNbX88XYpVeFf4eoZcO2t2QFHBWOeZobDUG97EDtblFBmqIhaKCmWkVSeEUBJReepzvfGXNKJfaXSM6UbhuhY/cDqGF/TAXL4WOYdrKibXPS5RUZasFIWYRPLKhLXC77bMRgolbUVZepqBYyMSoIsSOQ28PDHPah1PDHHHEwB4sfkmPs1Q4jDJNNUzZ2k6JEqex1ZO0KLI8DiNIapGjaUMyWBkjZDpIPr/DDjlFJPQ1CuwIWKiWhiZ3DM13RmJA6DSLepOLZaxES+tFAuGLsAVPQEf6Ysyuupbz1M4TgxypTJMWPDWSRSSrFgBci3z88Kaatq6tzWk2A+iIbgbIHiaR5dl2BsN/uttfJW0cAmo4VqdWsz94AxDmJAnMjx3v1tgYKyrrqKjitqnYSC0dgZGDMF03NuX7r4rzJ63Lwy0uYNJTVhcQxyqrVFOttwklrlOgJ3HLfmAlTVVQlpzBKYmhUHVF3bNp028PX1xqIIxFH5fkq6yYZhEfmm+HVDHHC8DwNGi2ikZHbSNtWpCQd8XROhljDWsbjCXTZ3LTzVElTxKqR0jiYtJpZbNqsLgj+Rgoc2pJoTNFNp02JDELJE3S4w9s6ans7chZcPjpq0SM2BRDNZkpsxex7k8UMinpdV4bfuGJFVA76sKtXmk9ZLHx5AyxgpHpTSRf8R3+eOo6moi2uSPPCN9O9vvBahmIx3s06J2ScG2+L1WKYgSIrp1VwGVhy3B2wnw5qVPfuMG6PMY5LWcfPA2UtKNZUslG6CZv2BpzLLUZRVezByWFNUI0kKE9I5FOsDyIbC1N2M7U3IWTL5vJKwIf8syrj60tSjqL2xTJHTSX1oreoGJh5Cs0IsvlY7Of0jKFVY5QipwlIzCmCiPwHvOWOIexnakEapMvg8nrVYj/lhDY+nexZZe5hjvi+OGkj3SNF/ZAGO9UnhcDGtNwSk3KuwCSSRS5vWmZF+9BRo0SyDweZ+/bxso9cO7R09OixQokcUaKkccYCqiKAoVQOgx0amONdsBq7M40vdtzyA5nEDmcul4HmJWmaoVb74GVFaov3sDJ6+WUnSbD64y3dyLliSQABckk7AADr4YtbH3Qj6q+jUdyVvaMy4jn3cNPMw83ayD95xVm8btWTyxqGjjCI5QglWA/Eo3xvo8hrIlp5RWtTyyR2qo1iVyoJvpjckWNtibHGypySkZeJSrwatB3JQT70/lnBNmB6k4tMDZDZ2yPoqqSlPUaLlJ5I39fpil2JsoCE3uVcgd0eF8eZ3JJlz01QsDGGod4pEB3hqEFyPQi5HocBJ8wy+qVpLTQ1KxnhP3gGPOzadt+WF8lJJE/KVr48ZpZYswOvYrfOjyyNE6LNEVDNHOAWQE/7KQDUDzsQfXbY4YqEZfX8WUhobN7PKwHevurHpe3h1v4Y0U00ckasJauTdEY1DwRKrFb2DAEkc97D1xfxJZOAkcETAabF4tYUgtbU89+V73G3PwwQIZLWJWb/ABKnFR1GNJHA9UQiYSqWRWZRuWtZfix7v1wCrskiadpaaqpo0kYmSP3jmNrajp4Y02PhqGO2rqXjcKWqV2D8PUySyKgDEaryW6XGwONE1VllGIWaU1ao6qgZr6NiRJoQ6b+V8djY2nde91ZVVEuLMy9MNAO5OysyyGmyylro0kE0tQ8YqXkjCkRw39yFQs2m+57wv8MdKooVeKOODL1nR6xOKGDSRJZSVuGkJuQFFx4AYAzzwxs70zWhlDkxMO8gvYKbbb9MUyV+ZVFTFVT1U0lSmkxSO12QxkEaegt6YuiDnknulNf0qfJGwnQcfU/NN+b1iIsVXV02mKoeMRQ1c7x2ZwFeQU8e+lTduR8MBavMqqnpo54zTRBXQSLS0pRxG9ivvXW97hgb+VuWBVRLNUXmqZJJpCylnlYsx7w6nBqqo6afs1nVa4Y1MNXAUOtgixcVNVox3b97FD3CJzQ/k2Sw1DnkiLQBDf6xzf7yo/z/AP8AOJhe934tiYY9MIfxDu6eJYJopoYXMck8MjU+rhkrdxqVrsb3sNzfofHHlVUUsEdTMGcPTTRwrJrjDm6kgNGDyOkm/T9+erqcwIg4ah5WOqY81ubDe/Q9T5Y4lelenzWnNMRJVCNGnbQ0ZRO+GUffDg8jcbXBB1YTiNpIL0yhwNzoeo4+bTS2m3dNlHNmKLkscuTZhTQ5mBHl0k7wS8dyplsVjClbi5AZRsPLDJTdn80D8QGKAk3CSOHsT10qCB88K+UV0TV9L2izgLUV8cMdPQw0Jdld44jThhrY2ABbuqoF2JJuNjdf2mzid1ookhhnnBUwQksYkIuePOd7gcwoHrviuWjpIpc7XEHsD/Puls2ONgZ0ZLG3pfb6KqpEWWZrlc4qEqpaGqqjVLDcXgrYminQOdtSnSwF97W26US1s9W7wHMKzLMtR2ipKXK/cokA7oaomjBnZ25mxAHnzbJW8Khp4gFjeeV7BillCqLsQgNvADnzxfTxLUUUEgWNZ5YtQa111km11Y2seRwzjxOkijbodNAVW32hwXpCSTPr6D7XRT7GzCmy+On7Ow0NRRO5q5Zfa29qq6thZmkebw5C7etsLNWO3sLMk+QVUaC4Mkc0MkVvEvCGxvyjOq2kleGFo6eaRgrI8eqnmkXazrfUG5i4O+Gak7WoZRTZhSGCfb+6bUr3/Emu179N8ATR0dVKZJNXHurIPaKNjulEbN9RYn15XzlRXSvqrZkQX7yxajbpuzHUfphjoc7oKWl+zRTpJSlJOKgQPqVvvGVX7pB8/wBMNtZlHZ3tBHJNHw1qANJqaYBJkfoJkYC/owwu5fklR2dhzB694ZquqlfTLCGEJp0uI0RX3HUsPE8za+IwUEjZc2YZfRPJcVhlg8o1+nxugL+zx8WphQxQM0iwQs5Zo0BsqXJO3hvt8MDZaiwIUgsSSzdEHjfx8BgxwY8xkroALRiK2qMlRDKz6lJWOwva5tq8PHA6vyeqpkV4XeojRBxhpUSKR+LSuxHj/NjhWQdboOKQTUlWYDVtbe/6gIT72SaFUbTGHQHnuGbcnzw2RZbQR6tKd9gNDE3KsOTd4EW8QRvhdp4UmSNkYa1kIO97gG9sOcHAFFJNqQzFtFm5gHu2AO/nh2+YRtAI30WMkMkrrsNiASl+uyyo4xmp4Y9LBdYh7qiTkSEOwB52Bt88Y4fbxJLA9JMSJeFAsa8R5Da9gF6jre1v3taE2bkQwsdgR8sBs4WqgHtUapMmtGm16hJ3dgGdCGK8ud7W8MUVHVbHljbcBMMNxCCd2SqJDjyNv9rCwIZldSrj7yuCGXyIO+IjPGQ0bFSOoxiFRNVcDiTqJNSiVyQDY2VVvex+fIeW8jqXVCZiLsuqIIPvBr2LE229BhUyQv8AK4apy4ZHkRG4TBT5vUxACQahtuDvjeudwnZtQ9R/DC3TLV1UNVURQjgUmn2maSaCJI9QJH986k3ttYY6VydyPniZjbeyJbWSt0KZftem/N9Djhs5iF9Ac/DAAPfpj3vkbW+F8e6QVorJOyIzZpVSghLID1JucYSXYlmYsTuSTfBODs32kqaeKpp6elljmXVGRWw2K+OqMMvyJxa3ZPte393T0UQAO7VQdyfL3dv5+ci0M1VbpZH7oVHE8jBUQsT+UYYcgooONJNKA00SqYrjaJiSrEDx6YWpOyv9JINdCKTibFo5krIFW4Kn3BJDAncC6jry6kspmzjIpqSmzynaGeWJWZWkjfUrMV+/GdFza4xbE0EnN8kRAQCCRsnkYsC3xVC8dQgkhYOh5MP3EeOJU1QpUVVsZ5Pugi4UfmP6Ytawk5UykkAGZK/afK562OvpqaJXmeWnmiDMqLrupYlm2GxbCbJ2I7TqpZBl7n8gqmVreF2jC/XH0pCzEu5LMxuzNuScdPIVtZb7kHcC3zwxdA19syTl+ZxtykPLuz09PTq2aRPS8AScXSyEym5YaXj1WUCwve5t0wRSgjkS9Lk1Q0RKtxnkkSR7AgMpck9Thp4isNxbxBH78RKgoQH3TlcblfMYqlpmhlmC/wAUTTVPTkFza3ZfK+0GTSwGauhD8LUDURyC01O35n6FT4+e4F8AVZG0hWRtbBVVTqLM3IALvfH3Ouo1qYy6heKg1RMOotfSehBwNipcyniFQtbTojar8Smy9ApUkEEmLphXLJFEwOePRGyBxkLs3vL5HPDLTtGtSrQlgSizdwkA2JAbfHitBrB4kfdQ/jXmxA/TH0qrzaLLKh4GzJJZkAEgpMvy6dEJs2kyMgW/oT8xtWnabi3H2s8Ngd5csoVBtvbVGjb+GPCawuGG3wQL4rv966TYKL2vLq+ogkWSWnk0tArKXaERhy6i97jB+hQy5FnkHdLSkRx6vul5uCI/hcqcWTdpKp3OiepYXtrNNRITbrZVv9cdQZjX1Ss8VXMQr6HBghGlwA1jpFuot/phTVRzSkOk0bcG/wD4pU8YY42N7pa/q7nP5Kb5NiYa+Lmv/Fz/APSTEwV1mfn+il4Q90oLluZVdOrqGAeVmuH0s2nu6gDtpxYUmtGXDN3uGixhi7tsEkFtzvy23uMfWu0xoqKjpaClghikqStNHw0UGOnA1Pp9Be3rhTy+CCfPmqdC8PJqYzIAO6Z0tDCCP221f8nliU2Vrwzc7oOXF6jMyiiOrha/Ntlty3KFoFeSunLZpJ/f8CJHEDFQNBd2ALD8Vh0tew3vpMty+lllnMtfPLIpUtIaaP7za2PdUnc+eL18SSSeZPMnxOOsDOiY4kkbp632Xw+xMjcxO9yf4FVVUGU1jRGaOu92GVQlVGg3NySODi+GHLYIooUhqtEahV1VSlrDxPCx5iY50Y7Zcospn2ZwstDDCLD4/usU2T5PPLJLfMondzJ7uemYBjvdQ0P64uraDL6yIIZapJU3SV4oZCD1uFZdji/EVijKwtdSCARcHyPkeRxIxMJFxsoyezWHOsRHqNrEoZBNmWWVdPC06mUxGWgrEDGOoiU2aKVW7xAsQwO4t6EuYNJ2kyl13idi0UguC9LVIN1v1G+3iDfrhVziJJcvqZIL68ukizOm56kRisU8RPldT/y3640dnq8U+Z06av7Pm0YiIvsKiNDJE3xGpfgPDFkTujL0/wC1yxksRw6tNP8A2O2vwlJ62vo8yzCFbRVCzPAlNIzyQRMgAYAAhNRsLk/ril82rKrUJqiKOnN9aRlYix5FWIJcjyHPDX24yikSp+09ZV6uOOMRqAxlqI+6bj9m3ywjPAqtYgCxIJG4+eA56cRu1C18dWHNDS63ouopo0nnem7wvqIsVDqR0Hlg5SztIkUpFkOwvYkdbHr6YFCagioRAkRkrGkkfUobUCSALBdzYWttjRT5fnSU7Su6ROzB1ppT32ABF3N7A+A+dsNcPqZpPJbQcrKY3h0APVYdTwmqJqX2J3YgTsVKA3BA1WFh1GxvjK8ZlkRi/u9Ol0vzF78uWAcFe+rhy6kkXulX2t5C+ComC2F7tzI2GH7HhYd8TozdAs2ytqYvLAP7PIdwN9BO9sB9U+rUTqItu3gLAD0x9LoEo5I5jVqDHIHReIupSABqVfM3+mAzdmKWeb3Uzxgkm1gdI57XwMxzJZHNLfd5TaGqdTRNc52p4SkeHK7ySKoZ9N7glQF2AF/DGlJWAAWW49Q378MrdlqVNQeomO9rgqL+drY5/qxQ9KicdPwfwwT0WEXXDirb3J1S+J5r21L62XEaeQghpgAdiAyi/wAt8NL9l8vNLfjT8Qot3Oki5IudNsCVyKnYsq1LqV5Bo1LML22C7/vxyKmAuiX4kLbrFRV4oXDIqyxb64GLCNr8yCOR8x9cMdJnHZ6qISaNqNzaxnZjFfw4sZ/eowMbs3UDdKmNvJkI/XGKbKq+nN2j1L+aM6himow2Gp30PcK6lxt0XlaQR2KePZsv6SQb7i1Sd7+FnwOzbLqaSBZo2iYwX4gEusmJiL2Dt0NuvXAGjrKqgtpUPTMwLxOoHP8AEhYHSca589yJy8FQjrHVRmGZZ40SF0YEX4ikkAfiIHK/hjLTYXVQygA3b3/fstjSYrTTMzbO7ft3XVFX5jRNal9onUsIhGmvi6zyQOBpJ8Afng+GqHkD1AkD23Ev3gR0J8vXAGDNcrgjly8z1uXd4JOkrrVooUHUFmNnuTbvajtgpSxTLoWOpasQorIS2lxrJYkxyWbfn1+mNPTZmDK91yhZ52SE5BZGYRxDGgNuI6R6vy6mC6vhgKe0NA/aFMhGWOsMlR7D7WDKKqGp1MivIWJVlNgenPrpxuhllVxG6OpJ02kVlF/XGoNAtQKowQCrI0CoMa8Y3uv3/HzxabvdooOjDWggj4LhonUuhIJRmUkdbG18YKmcU41O4UEhVJtux5AXwV1qTv13wvZ6ufiXK58id0qoqmYErvqLIAotYgg2swt18N8XOdlsFBrSQXDhHsnqGnR4nKsY9LIRyMbbePTC7m1DW1xVKaqq46cVs5ZI3PBKqeYFwAed98GM2zKHK5uIeDHUZhFHSgBgIVq9KtKb8rDck/xwAzKryxcsrAKsyOsEhVVr3AlmKm14436k3tjO4nIG2aBq4hNad3Ubdx2SrCYrsSvFkLMeVxe5x7WB2RBoVSx7oQAnYXtYePTAyOpdBZb3xvoWq6ysooVsZZJNMQ1rF3rE/wB45AHLnfBoOgAS53dW0ssSqusruOe3/vi+iqKCF6ppZWiSeXjRjiSxgWuh+4bdBheeRllmUsqBJZF2IJ2Yjnj2fN6mmiooqcooWOUOdCapCZWcM5PMi5A8sVSxCVpYTZdbK5hzMGqbvtDKP+Jb/rzfxxMJP27mX5//AAp/DEwD+GN/MrPHVH5R+q+uZ9UiozxATdKemLeV5GC/uBwN7PXalzuoP3p66kh89Mccs5HzYY6rnLZpmLm+1LAfpIcTs+LZPK/582mH+Slg/jiuT/sO9ErwxufGRfi32V+a5pS5PRS11SGZQyxQxIQHmmYEhATsBsST4DAzIe1AziUwzUTUrSGUUsiszwTtEoeSIM4HfAIJF+Xh1Gf0gGX2LJbA8L2mq1npxOGmkH4XtgH2Ur8ykrsjypNLUkGZVGZAaAXRnpjFIdfPSVA2wYyJpjzFbOprZWVYjG2i+p4mM1dXUuXUzVVRxSoeOJI4UMk00shssUabbn1xKKsFdBxvZqymYO8bw1sJimRl8jzHgR+mBgDa6c9RubJfVcZnmNLlNDU19SGaOLSiRoQHllc2WNSdh1JNtgD8QmR9rY84qGppqJqZ2OmCSN3khd9LPwmZgLMQCRvvY8rYp7fLK2TUhQHhpmKGa3S8Tql/jfCl2bzOvgnpMqhjjeGtzjKapiysZYpKWRu9GQbAFWYNcHbw6kxxNdHcpLVVksVUGN20X1pF4pmg6VNLW05H/wCSnkA+tsLVNUSR5fQVQPfo5aapU9bwTgn6Xw0Ue9bQgcjOi/A3GFCH/wCj1YP4Y6xR8AThbPcZT6rMe2Dcs8Mg/mqfe20IlyValQCaaqglVrDupKDEdz03GPmXDmqGgihGqSeZIkX87NsBc9B1/wBMfTO1LE9i6923PsWWyb/m4sBx8jpsxlgkjmikkjkS/DdbEr0JF7jDgsu7OENKQHBxF19GXLYcvo0iiaMmJfeOqlWeQ7s2onxwCrqpo4zvz2GBZ7SZnNE0Us0cobbUUVXA6/dsD8sZauu4sam42FgPM8zgule8NPVOvog6rpPkHQBA9e6rkkMjFmkjBvcs7b38goJ+mNMFWxmjjMqyK2hdXfAHkNQBwJ1Y9vaxB36eWLra3Q0tK17dd19DpX92tvugbDw9MbFY7HAjJnarpoGFrsg1XNu8LqR9MFo9CsyyBuq3F+6fGw54KYQsjNGWvIKsBv4420TZcqy+1KCxI0llZgFtyGnriqqekYRezgXW4YhSo022Bv1xkZkRdTsqryux2v4Y9PAJ4+ncj4aL0Mhp5M4Ad6HULc4AgIU3ASwNrXHQ2xj23NhfxsL/ADxq1K1MpBuDEpB8Ra+K4jTg3e2wtZ99/EWGJNOQK2ouXDhUqyhkLAlQwLDxF98dVslAw1QhgxUAqF0qCDza+K5NOp9Gy37t/DFclNU8EzCP3drliRe1+ZHO2JOextiTa6pije64aLrF7k61ZAQ1wQR1PUYx1WTZbWwvFKmzDZk2dH6Mh8RjmaaWOci1425MqsRtz1abgeWNEU6sAQwseRBuMcNr2RTepEQ9pslaooKrLZY4pm4i/wCxmW9pEU2FweTDa4v9Me1NVn8bxVmYGrlgZESmrNinCBOlS6bA+RscOtdHRZjl8VK4KyaFCyLYlSAQH9Qeh5gnodlejzOry9ZqWZVmgQvFPGwB02NmBU3BX1GA5I8mrTYLZYTVmra4PFyN7fdd0+f1iiDiTyTQRSJIneuQRtuD8sNqZlR1UMdRC5ZVKuyoNTgde6euFCTs/V6TUZdEJKWoPGSNWAkjJ2KAOdx4b4HQ1FdlsxYCSMobOjqRax6g4m3M0XRrzkNhsnyfMjLTscsMNbMxKCFZoIGAB3LGYhfTvc8UR1koNMtSlVCzMzq1XGsZWQG5D8JiB/hIYjlzvsEEuV5sjzI8VLmBXZ2Hu5Da3vVFgfXmPPAObO62COejeeayPokjL3QNGx5Eb2viuSXJqTorI2OlOVgRftlXRzxUEBkMEkM07BpUZ4mZgBpLxgtfx7p5+eEpjXIC5AeP/ewlZY/iyXt8bYPUt6yMpWxh43sIw4kIRRyDqpFx4dV6HmGs+xKCMlo0kikIuCk8uoA9UkvuPhhe6XW5VdXWRRvyDWyW1qQBbSL+I3+WNFNWFZomG7LqK6gCvIggg7fTBOXIKSV2dp6nW27G8e/S57uOY8gpkkUmoqGCsCQeGL23tcDHBIOEJ4+K2/0XhyCCT3hqKhWktIwGggMwuQLrfG2myylp4uGVE1yW1TKhbfoNuWNwv4fS37se9De+IG7t0okqZH6X0Wb2Sl/4eL/Iv8MTF918TiY5lCozO7o3mamPNKlbf3tKq/FWZf1GJ2dYNlFWnWHNgSPATUqAf+Q439qqc0+YRzqLLq0k/wCGUC31H1wDyOoSnr8xy+Rgq1wj9nLsAvtMTF4ludhqDMov1IwLKLTE91oqR4psTbK7QG37ItmENNU0rQVNPHPDIQWjkFwCOTAjcEdCDjJk+XZTl7yijo44pJFs8oZ3kK3vp1SEm3kP0wVZShKTIUP5ZVKn5NbERI0uVUD0GK7uGl9F9UywPGctBd3VjPGmgu6LqcRprZV1SNchU1Hc87Y7AYai3dVQWdn2VFG5Zr8gOuMdZR0eYU8lLVxiSByrFblWVl3V0Ybgjx/jgT/Vilf3dTmmd1VKD/8AK1FcxgIHIMFANviMWgNtqUJKZQbNbf5qjKczrc1hzaHM6eOry/U60lZ7MIYKyJZjGVZBtfYMLbi3lfGnK8ryShqGlpKCOKZgwEmuWRkU7EKZWNr8tsGEhgjhjgjjjSGJQkcaABEUclUDHKpDGe6FBO1r7/XEXPJPl0CsggjZH/WGZw5WukYR1VPI33YeLUMfBYonkJ+mE2LUcplUfemEygf4pXEYGGHNKj2DLa2SQ8Oaqp2pKRH7sknGIEsioe9pVQwva12A36DslpDV12Q0Gm4NRFU1A6cKm/tD39TpHxxS9pcWt9V899p5BU1kcTDey+hZ1k/2vksmTmpanjmFHHNLGgaQRwSJIVQEgXOm19+fLC+vYr+jjLlSCuWJpWFw2Z5k6TPva6qJEX5KME+1edzZZBS0tI+ivzAzcOSyt7NTxW4kwVttVyqpcWu199Nj88hhqqqsMFHRzV9fMeLKNnYhr+8rKma4AO+7E36A4avkykNAuU4o8LNREZ5HhjByefgiPansDBl9NJmWRmXgQKHqqOaQyFY+Rlhlc6rDmwJO24O1ipUuT55Vj+z0U8ijmY45JFHxjUj64+25Jlk1DkmXZXXNHUSRU7RTjd4iHZm4S69yig6RfmF5DkB1R2roIWMOXUklZFExj40ckVPSNp2tAxuWA5XCW22JxN83TGZxsEn8HJPIWwi/y+q+WRZJXPURUrLMKqVwkVOIJFkkbwBl0iw5k8gMPmWf0d5RDEJ85nmnkC65Io5jDTRAbkM6AMbdTcDywyZbnuXZnKIHikpq+NGkWGrCamQWDvBKpKkC41WII6gA3K5WVsWbcXMKx1+y4y8tFBObUqU8dwKudD3Wd/vDUO6CABe5YWpr200XVcb32typU2GyOkLHnbvpZHKLJ+yLo0eUPSjgG59gqhNwma+7rrYb788C5qKrjqpqUK0sqjiXjX7yHk9j449yKmrK3MMvzKKiko6CkSrCz1EawVFck0fDESQDviK9nu1t1Ww6hjrcypaGWKFYZaiunjLx01ME4xiU6TLK7sqKgO12YeAudsE09Y8RdWQZfjwgMQwiCZ+Vp+Y5SwYaqMAywTILbl42A+ZFsV8E1BZUjkdipQ8JWYgHyXbDD9tVMIaSvyuaGmAvJPTTx1iwr1aaNAsmkdSqtbnyFx3V5tQ5eKaGjp1qZqqI1cSUzxRw8Ake/lm+6Fa/dsGLdAbEqRHisL4zK1wIHN9EofgAjdcvsEIWCoSnjiMM2tYVXSY3DGy25WxmkiqIxeWGVBtu8bKN/Mi2C/8AWORV0PlVX7S1zEIpoXpWXqXqTpC26gpc32B3030mcRVsqUNbRcCSpWTgAyJUU8/DXU8YcAEOB3rFBcbgmx08ZikL3BrXAk+q7JhMcmjZNUuqk0xtFFLJY292jPY+ekYJ5ZT1NTPUQVkTiDSs0wmjdWkYkAKWNtjbvenni+u7S5fQSyUdHTPVS07cObgvHDSwuPvRmRr3YdQqG3IkEWx3l/aeiq5oKaogkpJZ34cDSOktPLIdxEJUsQ53sGUX6EnbE5pmS+VwClSUUVPKG9XzcjuvavtHlGXz1FGtPWS+yACoNFBE0ULaRIU7zqWKggkKp5257Yx59ldLV08Ga5eq8RhAzNAO5U081tMhUdRcEG17fRWDNJUZ4zksxzXMySevfw20edZdk/ZzsxJVtI0s2U5eIKeAB55ytPHqKhiAALi7FgBcb3NiS+Exhjm3JciGzNqzNA8ABugKHQ5VMlK80uqMKbHiRsCw6setvDCzmUKpOrILNPqWwtqk19xgOp8eWG+DtvRySMKjLqqGEC7SxSRVDIo5s8SWksBudIb064LzzdnMvgbPXFMI3jjaKpiRZHmE1tC0+m5Jfa1ufXltTMyUXbKDcm40RWExMopxNTuuLEH17H5GyRar+sTUZGX5dWxUkKKgl9nl4kqrZbxoVvbzthfoY6eSarXMKuop0EXeA1cRyT9xkcE/TD7/AF+pjLZcrqeEW2Z6mnSUr46d0v5cT443z0vZ/thQGaE6ahC8KzFAlVSTixMUy+HiCSCDcHcHF72ywgdVhATB8Thq5fJKinRHqGy9pSoAMQnVdbkDqq7X8MDaWnnd2nkimMmosuuNrhr3LEEc8fRYuzkFNNeolZ3hfeOwCa0PXrgVmMKxVlQBsrkSKAej7kADzvgSqLQA9uqEnnkpoyAN0HjbNFFxEzDwcD673xrSWrZQrwgC9xZh9L466bchzv8Axx78yDtuRfAJkzcJHJJn4XhMm9o/W7fUXx5qk2uh25kMDjscyBclfGx2/djzluRt57/648Ch1Abjcdb/AOm2Idrevhy9cQbg6QbX+fzxBcXv9bWx5cUv5j5jExLjwX5riY6vL6d2ly1aylaQKSVUq+kd7SfxDzHMemPllfBPHIJbe+gK8Sw5hTdZB5H+eWPubKGBBFwdiDyIwr5r2YjqCZKcLfchPuspPPQ2JTRB4vytTPAJQDyEgSZ3nMcEEtJWTpGl1kiDa4xffvRyArty5Y30efyTQRNPDSySDuyNwVjYsOp4OkY6qOzddTO7IrJe+tWjvG4/xBdsDhlVbA7NHGulvvR6+6f2SwBBwudTPDcoSzo1ULMsL3NttYlaqrtK0E7ItDSMmhGXU1UG3G9ysvj5Y2QZ5TSwQyPRRB3W7BZajSDcja73+uAtVllTMEcQuHUWKnSbrz2IOLIKKpSCIGCQsqnujSDe56k2xB0UhaAL3Vj6rEukA2V1/itWYdo3geJKWlowShZzJG8p3NltxHI+mOKPtDnLpPI86xRWCrwIYYAoW+pgY1DeXPGIZPXTymSWO2o/cVkBsOS6r/pglD2czWr0R8MLCLBY4Q+nb8zEDE+g8tDTdek8ZNGI3yOPc3QJpJcwrJqqdjw9YkleQk91AAqszfDH0rsflUsEc+aVKFZ6tFipkcWeKlB1d4HkzncjyA6Y4yjsfBA0UtZZ+GQ6RW7isNwbcr+ZvhwVQoAAAAAAA5ADwwZDBlOY8IinpchD3bjQL5t22dxn1EXFo2y4wRE2trEnGI9SCT/y+WLuy2cZblMWZxVwaFKmqFVHVJFJMrHhJEYZOCGYFbXW6gEHbcYZu0eQx5zTqBtPHbQQdLbHUpV+jA8vkdjj5++SdqqeQxfZ7VNjYSRloWb9pSCt/RremJva5r87dVs6Oppp6TwVS7LY3BTZn/aTK6jI84XLa3XOYoYXBSaGVKeomSCSVVmVWIAJFxyOFlWVQoXuhQFQDYKoFgB6YLZX2OzSeOeozbgQsaWanpaJHaa3H062qZNhuBYKOV73uNhMuQdq6OX2eGiariXuxMzlJAvQO+kofW48xfmBX0slS1pG44U8PrKWhmfG112nY2XGY1lXIkcwmf2uN4IaaS9mDSH2bTceKsynyJxvpAKrKcuEUaSNAKBjTuwVZJKGaMvTuW2FyhXfa9r7YLZD2TrI54sxzswGWLWaSgp2aSKF3UoZZ5SBqcAkLZQBe+53XLmGQ53ldTPUZUgqKeZuJLTuGKSNbTqul2V7WBOkg2FwCLkR+HTGBtj52m4VU+IQyTnKLNIsmUdpMjI949ZE9tUkcuX14eI8yH0xFdupBI88B8trYK2qz+tV0dpsyeFXQ6gaSnjRafSfykEuPNyeuMNKna6qdUp8mSmYEE1NfVk00RG+oRxpxGt0G3qMeTdm88yRo5Mqb2xTEi1ayKUSocEsXKxXKMCSFIBFrAjug45WQVmI0r4nsyHS2u6W/wBCB4LHXTIKhlBCt1BA8xhPy5//AIxn8CG9NRpDTUaj7scC1VW+hellYsB6W6bFaWl7YZiVQ0kWUwEWlq5pxUVCjr7NAEC6vAsbDnY2saZ8srsrzrh5ZlUtVSvQ0FJEvHEWg0xkfiySyqVOouS5ve++98KKTBquKmlD9yAAL9jdC4hI2WPLHutW/LfGOuqZKM5fVxLqmp5a6SDzm+zKwRi3rbGGLLe14oM3y80CapRWuaxqiX3AqmZmSKPRrdkuQhBANunLBLK8tzrMjli1lB7HS0Jk4s0tQJJJ5VpXpl4MQQNa7aiWI5WtvcWUeDVFPUMkcNAfp3SWOne14KW7xJl8Z41RGjQR+/p0MsqlwGMh7rc9yTbr54rSRamnjoqSSrqampkhpKWWaF4tVS8gMbtIyqg0kar/AOHbfYlp+z/aTLJXjo6QVNKWYxx6nUx3N7QyIGGnwDAW8bYJZR2cz6qqaOpzVIaGkpqmCqFNHK09XUyQOJEEjkBFQEAkAEm1tr76zpm6UMwyZs1i24zXvcd/hdBk/v8APN7k5rmm/iS53+OBZqWqWp9RbTTZbk9DCCT3YIqKJxbyLMzH/TB05T2lNfmlPTZasntNVVVCVE8pghhM254t1JIB5ab3Hhi7N+x2YUyUUmWkSvT0dNSuSpKzCKML7xF7w3uVIva5BB6aWKrijdE462BRLaGYun4zEW9UrxmoV4g0hZjAJZgIWh9mn1bRKx+9tvcet+9t1NW1ElJQ5cXb2Wlr82qIludALLANIHLul5bftHBeh7L9rK6RUemp8ugv7ypnkMzqOR4EAVbt4aiB+47c/wCy1fFNkdNktI00NLSNSnjSaDI0snFeeWbSRrLXL3H4tuVsFGtgzxtc7MAbklMMOgfFN1ZG5R2H3SyaDMPsz7ZLRijNY9KkYUlmWOUQMzPfY3uQLch44Z+wUki5rm8IY8OXLaaVl8XhneNW+TW+XhsQqezuZU/YxMo93LXe0PVScAO8SySVLVOlSRqKi4Um3nbpjrsbkGc5fU1eY5lHBT8ekSlhp45WllHveKzynSFHIADfry5YHmxATwSskdc3GVO3S5mEErnO51hzSujG28Tn1eJWOEzPKmp9ppRTgseASwtffiG2DHa2reDP82ASVgkdGxKoxVQYE5tywrhq2eoeZwURrBVa+wGwG2E0jgI7FKKuRpbYrTE05AMiaX677388Wd0XFxvfkOuIAotY78jpJI+uPGJZgNNgPDc28cLuVnyblegtsB5jmAAcQAgggC/gb/TpiXUbbkG+zHa/pyxACTYqbW2sAP1x0KKgtzuFJ87E+WINW9wetr2t8emPPAbW8yMek7gXU/Ha3wxJcUu/gn/g/jiYl08E+ZxMeXl9wx5bExMFrZLwqp5gH1xU9NTN96KM+qjExMcXguDl+Xn/ALNF/lGPBl+XD/s0P+QYmJiS6rFpqVPuwxj0UYtCqOQGJiYiuL2wxMTEx1eUxLYmJjy4pYYlsTEx5dUtiWHPExMeXlLDEsMTEx5cXlse2GJiY4vKWGJYYmJjq8pbEsMTExxdUsMSwxMTHl5Swx5YYmJjy8pYY9sMTEx5eXz3tM7LnNYuxVoqfUCLg3iAIIO2F2rpIKaojiiMgQ09LMAzltJmjEjAFulztiYmCqz/AIGJJW8rKUGtVubG98egC305nxtiYmEyVFelAFDAkHUwtzG3kceAd43udr/G/liYmJcKJXjBQ5sBs1sSUaCApIuATiYmJheVd2/McTExMeXV/9k=" tvg-id="" tvg-name="KD. CoComelon",KD. CoComelon
+http://tera10.org:8080/220936977606/yMcfUQnUgS/91415
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" tvg-id="mbc3.sa" tvg-name="KD : MBC 3",KD : MBC 3
+http://tera10.org:8080/220936977606/yMcfUQnUgS/90639
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/KIDS/TOYORBABY.png" tvg-id="" tvg-name="KD : TOYOR ALJANAH",KD : TOYOR ALJANAH
+http://tera10.org:8080/220936977606/yMcfUQnUgS/86
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/EUROPE/FRANCE/NICKELODEON.png" tvg-id="" tvg-name="KD : Nickelodeon",KD : Nickelodeon
+http://tera10.org:8080/220936977606/yMcfUQnUgS/57198
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/EUROPE/UK/NICK.png" tvg-id="" tvg-name="KD : Nick Toons",KD : Nick Toons
+http://tera10.org:8080/220936977606/yMcfUQnUgS/57197
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" tvg-id="" tvg-name="KD : Nick JR",KD : Nick JR
+http://tera10.org:8080/220936977606/yMcfUQnUgS/57196
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" tvg-id="" tvg-name="KD : Cartoon Network AR",KD : Cartoon Network AR
+http://tera10.org:8080/220936977606/yMcfUQnUgS/95
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="KD : KARAMEESH",KD : KARAMEESH
+http://tera10.org:8080/220936977606/yMcfUQnUgS/4358
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.fzrqreJYrHWmGJJLriloywHaHa?w=156&h=180&c=7&r=0&o=5&pid=1.7" tvg-id="" tvg-name="KD : MARAH TV",KD : MARAH TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/57195
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/MBCGROUP/Spacetoon.png" tvg-id="" tvg-name="KD : SPACETOON",KD : SPACETOON
+http://tera10.org:8080/220936977606/yMcfUQnUgS/88
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/KIDS/BARAEMKIDSEUROPE.png" tvg-id="" tvg-name="KD : Baraem",KD : Baraem
+http://tera10.org:8080/220936977606/yMcfUQnUgS/4389
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/KIDS/JEEM.png" tvg-id="" tvg-name="KD : Jeem",KD : Jeem
+http://tera10.org:8080/220936977606/yMcfUQnUgS/4361
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/EUROPE/FRANCE/GULLI.png" tvg-id="" tvg-name="KD : GULLI",KD : GULLI
+http://tera10.org:8080/220936977606/yMcfUQnUgS/57264
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="data:image/jpeg;base64,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" tvg-id="" tvg-name="KD : HodHod  TV",KD : HodHod  TV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/94
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.qSPCFyjNnLrbQAFe_dpRfwHaHa?w=177&h=180&c=7&r=0&o=5&pid=1.7" tvg-id="" tvg-name="KD : Atfal mawaheb",KD : Atfal mawaheb
+http://tera10.org:8080/220936977606/yMcfUQnUgS/96
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.b0a155336ba914fff3ceccdec0ef261b?rik=rQMIaF5f11a8ZA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-SgC3LQSR9EM%2fVQ1efYK_6HI%2fAAAAAAAAC2U%2fbhzdotm2Q7I%2fs1600%2fBABY%2bTV.png&ehk=9nE11zsLP4CoicvMEqswYk8RcWZSPOTEY3AOqxbmVCg%3d&risl=&pid=ImgRaw&r=0" tvg-id="" tvg-name="KD : BABY CHANNEL",KD : BABY CHANNEL
+http://tera10.org:8080/220936977606/yMcfUQnUgS/245
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbJLSZSrxp7Kw62XWAp0kG8hxhA.jpg" tvg-id="" tvg-name="KD : MICKEY",KD : MICKEY
+http://tera10.org:8080/220936977606/yMcfUQnUgS/91
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/60/3e/a9/603ea9418da628fdcc57b1e0b465ad0d.jpg" tvg-id="" tvg-name="KD : TAHA",KD : TAHA
+http://tera10.org:8080/220936977606/yMcfUQnUgS/87
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" tvg-id="" tvg-name="KD : DISNEY JUNIOR 4K",KD : DISNEY JUNIOR 4K
+http://tera10.org:8080/220936977606/yMcfUQnUgS/19007
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/OSN/OSN-Kids.png" tvg-id="" tvg-name="KD : KIDS ZONE",KD : KIDS ZONE
+http://tera10.org:8080/220936977606/yMcfUQnUgS/19013
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/AMERICA/USA/BABYTVHD.png" tvg-id="" tvg-name="KD : Bein BabyTV",KD : Bein BabyTV
+http://tera10.org:8080/220936977606/yMcfUQnUgS/2968
+#EXTGRP:KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://go4.pw/AMERICA/USA/BABYTVHD.png" tvg-id="" tvg-name="KD : BEIN BE JUNIOR",KD : BEIN BE JUNIOR
+http://tera10.org:8080/220936977606/yMcfUQnUgS/96409
