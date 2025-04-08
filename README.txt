@@ -1,784 +1,713 @@
 #EXTM3U
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/ava.png" tvg-id="" tvg-name="AVA ENTERTAINMENT TV",AVA ENTERTAINMENT TV
-http://line.now-ott.xyz/451AAD/3f41a2/101891
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Channel 8 kurdish",Channel 8 kurdish
+http://airmaxlive.boats:80/airmaxtv/66554417/1591
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdistan24.png" tvg-id="" tvg-name="KURDISTAN 24 HD",KURDISTAN 24 HD
-http://line.now-ott.xyz/451AAD/3f41a2/598475
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3mlWAvB" tvg-id="Kurdsat News" tvg-name="Kurdsat News",Kurdsat News
+http://airmaxlive.boats:80/airmaxtv/66554417/1536
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="RUDAW HD",RUDAW HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443580
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/p7eAbYD.png" tvg-id="ext" tvg-name="Kurdistan 24",Kurdistan 24
+http://airmaxlive.boats:80/airmaxtv/66554417/1535
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/nrt.png" tvg-id="" tvg-name="NRT 1 FHD",NRT 1 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/3847
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" tvg-id="ext" tvg-name="Rudaw TV",Rudaw TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1534
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/suryoyo.png" tvg-id="" tvg-name="SURYOYO SAT",SURYOYO SAT
-http://line.now-ott.xyz/451AAD/3f41a2/1132
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/R0uhPwR.png" tvg-id="" tvg-name="NRT 1 HD",NRT 1 HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1544
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/suroyotv.png" tvg-id="" tvg-name="SUROYO TV",SUROYO TV
-http://line.now-ott.xyz/451AAD/3f41a2/2945
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/GLfhYSH.png" tvg-id="ext" tvg-name="Kurdistan TV",Kurdistan TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1525
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/nrt2.png" tvg-id="" tvg-name="NRT 2 FHD",NRT 2 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/3846
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3mph0Uu" tvg-id="ext" tvg-name="Ronahi TV",Ronahi TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1527
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/nrt4.png" tvg-id="" tvg-name="NRT 4 FHD",NRT 4 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/112212
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3wPebBl" tvg-id="ext" tvg-name="Rojava TV",Rojava TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1528
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdmaxkur.png" tvg-id="" tvg-name="KURDMAX FHD KUR",KURDMAX FHD KUR
-http://line.now-ott.xyz/451AAD/3f41a2/3868
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://cdnw-onetv.github.io/logo/jin_tv.png" tvg-id="ext" tvg-name="jintv",jintv
+http://airmaxlive.boats:80/airmaxtv/66554417/1530
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdmaxkur.png" tvg-id="" tvg-name="KURDMAX FHD SOR",KURDMAX FHD SOR
-http://line.now-ott.xyz/451AAD/3f41a2/3867
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/gNCSYvG.png" tvg-id="ext" tvg-name="KurdMax Show",KurdMax Show
+http://airmaxlive.boats:80/airmaxtv/66554417/1531
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdmaxshow.png" tvg-id="" tvg-name="KURDMAX SHOW SORANI FHD",KURDMAX SHOW SORANI FHD
-http://line.now-ott.xyz/451AAD/3f41a2/3866
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/gNCSYvG.png" tvg-id="ext" tvg-name="Kurdmax Show",Kurdmax Show
+http://airmaxlive.boats:80/airmaxtv/66554417/1532
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdistantv.png" tvg-id="" tvg-name="KURDSAT TV FHD",KURDSAT TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/2225
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/MojrqNd.png" tvg-id="ext" tvg-name="KURDMAX HD KUR",KURDMAX HD KUR
+http://airmaxlive.boats:80/airmaxtv/66554417/1533
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/k24.png" tvg-id="" tvg-name="K24 DOCUMENTARY HD",K24 DOCUMENTARY HD
-http://line.now-ott.xyz/451AAD/3f41a2/3839
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Gq8lrH" tvg-id="Sterk TV" tvg-name="Sterk TV",Sterk TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1537
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/knn.png" tvg-id="" tvg-name="KNN TV",KNN TV
-http://line.now-ott.xyz/451AAD/3f41a2/488612
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Au0ZzV" tvg-id="ext" tvg-name="4 kurd",4 kurd
+http://airmaxlive.boats:80/airmaxtv/66554417/1540
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/zagros.png" tvg-id="" tvg-name="ZAGROS FHD",ZAGROS FHD
-http://line.now-ott.xyz/451AAD/3f41a2/2230
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title=" tvg-id="" tvg-name="KURD CHANNEL",KURD CHANNEL
+http://airmaxlive.boats:80/airmaxtv/66554417/1541
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ZAGROS TV HD",ZAGROS TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443604
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title=" tvg-id="" tvg-name="KURDSAT",KURDSAT
+http://airmaxlive.boats:80/airmaxtv/66554417/1542
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="AVA ENTERTAINMENT KUR HD",AVA ENTERTAINMENT KUR HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443584
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/hQKhv9w.png" tvg-id="" tvg-name="Gali Kurdistan",Gali Kurdistan
+http://airmaxlive.boats:80/airmaxtv/66554417/1543
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="AVA ENTERTAINMENT SOR HD",AVA ENTERTAINMENT SOR HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443585
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Amozhgary TV",Amozhgary TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1545
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/ishtartv.png" tvg-id="" tvg-name="ISHTAR TV HD",ISHTAR TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/3855
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/KUk7o2T.png" tvg-id="" tvg-name="Payam TV",Payam TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1546
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/rudaw.png" tvg-id="" tvg-name="RUDAW FHD",RUDAW FHD
-http://line.now-ott.xyz/451AAD/3f41a2/2200
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Kurdsaradio TV",Kurdsaradio TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1547
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdsatnews.png" tvg-id="" tvg-name="KURDSAT NEWS HD",KURDSAT NEWS HD
-http://line.now-ott.xyz/451AAD/3f41a2/3864
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/0WrnE0Q.png" tvg-id="" tvg-name="Kurd Channel",Kurd Channel
+http://airmaxlive.boats:80/airmaxtv/66554417/1548
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/ronahi.png" tvg-id="" tvg-name="RONAHI TV",RONAHI TV
-http://line.now-ott.xyz/451AAD/3f41a2/3588
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/9WnbsJY.png" tvg-id="" tvg-name="Zagros TV",Zagros TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1549
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/sterktv.png" tvg-id="" tvg-name="STERK TV ",STERK TV 
-http://line.now-ott.xyz/451AAD/3f41a2/3870
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Chaw Media",Chaw Media
+http://airmaxlive.boats:80/airmaxtv/66554417/1550
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/trtkurdi.png" tvg-id="" tvg-name="TRT KURDI FHD",TRT KURDI FHD
-http://line.now-ott.xyz/451AAD/3f41a2/3873
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Mihrab",Mihrab
+http://airmaxlive.boats:80/airmaxtv/66554417/1551
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/ciratv.png" tvg-id="" tvg-name="CIRA TV HD",CIRA TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/3590
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Derin",Derin
+http://airmaxlive.boats:80/airmaxtv/66554417/1552
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/waar.png" tvg-id="" tvg-name="WAAR TV FHD",WAAR TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/3586
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/DsY6fKX.png" tvg-id="" tvg-name="Duhok TV",Duhok TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1553
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdsat.png" tvg-id="" tvg-name="KURDSAT TV HD",KURDSAT TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/2946
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN action ᴴᴰ",MMN action ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1554
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/rojava.png" tvg-id="" tvg-name="ROJAVA TV FHD",ROJAVA TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/3874
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN documentary ᴴᴰ",MMN documentary ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1555
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdmaxmusic.png" tvg-id="" tvg-name="KURDMAX MUSIC FHD",KURDMAX MUSIC FHD
-http://line.now-ott.xyz/451AAD/3f41a2/67719
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN radiofarsy ᴴᴰ",MMN radiofarsy ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1556
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/speda.png" tvg-id="" tvg-name="SPEDA TV",SPEDA TV
-http://line.now-ott.xyz/451AAD/3f41a2/3850
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN radioturky ᴴᴰ",MMN radioturky ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1557
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/payamtv.png" tvg-id="" tvg-name="PAYAM TV FHD",PAYAM TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/109588
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN news ᴴᴰ",MMN news ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1558
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/jintv.png" tvg-id="" tvg-name="JIN TV",JIN TV
-http://line.now-ott.xyz/451AAD/3f41a2/109589
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN movies ᴴᴰ",MMN movies ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1559
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/asman.png" tvg-id="" tvg-name="ASMAN HD",ASMAN HD
-http://line.now-ott.xyz/451AAD/3f41a2/89686
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN drama ᴴᴰ",MMN drama ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1560
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/asterababy.png" tvg-id="" tvg-name="ASTERA BABY",ASTERA BABY
-http://line.now-ott.xyz/451AAD/3f41a2/89684
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN kids ᴴᴰ",MMN kids ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1561
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/asterashow.png" tvg-id="" tvg-name="ASTERA SHOW HD",ASTERA SHOW HD
-http://line.now-ott.xyz/451AAD/3f41a2/89681
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="MMN quran ᴴᴰ",MMN quran ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1562
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ASTERA CULTURE HD",ASTERA CULTURE HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443650
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Sada HD",Sada HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1563
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/komal.png" tvg-id="" tvg-name="KOMALA HD",KOMALA HD
-http://line.now-ott.xyz/451AAD/3f41a2/89659
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Afarin Kids ᴴᴰ",Afarin Kids ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/1564
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/newline.png" tvg-id="" tvg-name="NEWLINE HD",NEWLINE HD
-http://line.now-ott.xyz/451AAD/3f41a2/89653
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Afarin Baxcha",Afarin Baxcha
+http://airmaxlive.boats:80/airmaxtv/66554417/1565
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/newline2.png" tvg-id="" tvg-name="NEWLINE2 HD",NEWLINE2 HD
-http://line.now-ott.xyz/451AAD/3f41a2/89652
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://i.imgur.com/LjU2X3y.png" tvg-id="" tvg-name="Waar TV",Waar TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1566
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/nigafamily.png" tvg-id="" tvg-name="NIGA FAMILY HD",NIGA FAMILY HD
-http://line.now-ott.xyz/451AAD/3f41a2/89651
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="NUBAR HD",NUBAR HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1567
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/qalat.png" tvg-id="" tvg-name="QALAT HD",QALAT HD
-http://line.now-ott.xyz/451AAD/3f41a2/89647
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="NUBAR PLUS HD",NUBAR PLUS HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1568
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/rengdocument.png" tvg-id="" tvg-name="RENG DOCUMENT HD",RENG DOCUMENT HD
-http://line.now-ott.xyz/451AAD/3f41a2/89645
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3zELXXW" tvg-id="" tvg-name="DANGE ZALAL TV",DANGE ZALAL TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1569
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/reng.png" tvg-id="" tvg-name="RENG HD",RENG HD
-http://line.now-ott.xyz/451AAD/3f41a2/89644
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Makka Tv Quran Live",Makka Tv Quran Live
+http://airmaxlive.boats:80/airmaxtv/66554417/1570
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/shaysta.png" tvg-id="" tvg-name="SHAISTA TV",SHAISTA TV
-http://line.now-ott.xyz/451AAD/3f41a2/89642
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="BANGXWAZEN BADINAN",BANGXWAZEN BADINAN
+http://airmaxlive.boats:80/airmaxtv/66554417/1571
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/zedtv.png" tvg-id="" tvg-name="ZED TV HD",ZED TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/89636
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Bask TV",Bask TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1572
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/derwazetv.png" tvg-id="" tvg-name="DERWAZE TV",DERWAZE TV
-http://line.now-ott.xyz/451AAD/3f41a2/115903
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/419HTup" tvg-id="TRT KURDI" tvg-name="TRT KURDI",TRT KURDI
+http://airmaxlive.boats:80/airmaxtv/66554417/1573
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/duhoktv.png" tvg-id="" tvg-name="DUHOK TV",DUHOK TV
-http://line.now-ott.xyz/451AAD/3f41a2/115904
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/4d3aSpY" tvg-id="TRT KURDI" tvg-name="AshurSat",AshurSat
+http://airmaxlive.boats:80/airmaxtv/66554417/1574
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/atv-hilerethip.png" tvg-id="" tvg-name="ATV KURD HD",ATV KURD HD
-http://line.now-ott.xyz/451AAD/3f41a2/122193
+#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="Nohadra TV" tvg-name="Nohadra TV",Nohadra TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1575
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/iraqiakurdish.png" tvg-id="" tvg-name="IRAQIYA KURDISH HD",IRAQIYA KURDISH HD
-http://line.now-ott.xyz/451AAD/3f41a2/122195
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Eurokurd",Eurokurd
+http://airmaxlive.boats:80/airmaxtv/66554417/1576
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/amozhgary.png" tvg-id="" tvg-name="AMOZHGARY TV",AMOZHGARY TV
-http://line.now-ott.xyz/451AAD/3f41a2/122196
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Soz Quran",Soz Quran
+http://airmaxlive.boats:80/airmaxtv/66554417/1577
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/newmaxcomedy.png" tvg-id="" tvg-name="NEWMAX COMEDY HD",NEWMAX COMEDY HD
-http://line.now-ott.xyz/451AAD/3f41a2/122211
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Zarok TV",Zarok TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1578
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/rozh.png" tvg-id="" tvg-name="ROZH HD",ROZH HD
-http://line.now-ott.xyz/451AAD/3f41a2/122214
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="SPEDA",SPEDA
+http://airmaxlive.boats:80/airmaxtv/66554417/1579
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/rasan.png" tvg-id="" tvg-name="RASAN HD",RASAN HD
-http://line.now-ott.xyz/451AAD/3f41a2/723217
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Speda Drama",Speda Drama
+http://airmaxlive.boats:80/airmaxtv/66554417/1580
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/helhelok.png" tvg-id="" tvg-name="HELHELOK HD",HELHELOK HD
-http://line.now-ott.xyz/451AAD/3f41a2/122262
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="AMED",AMED
+http://airmaxlive.boats:80/airmaxtv/66554417/1581
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/peshmarga.png" tvg-id="" tvg-name="PESHMARGA HD (ONLY LIVE)",PESHMARGA HD (ONLY LIVE)
-http://line.now-ott.xyz/451AAD/3f41a2/122264
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="NRT 2",NRT 2
+http://airmaxlive.boats:80/airmaxtv/66554417/1582
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/befrin.png" tvg-id="" tvg-name="BEFRIN HD",BEFRIN HD
-http://line.now-ott.xyz/451AAD/3f41a2/122266
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="ZED TV",ZED TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1583
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kani.png" tvg-id="" tvg-name="KANI HD",KANI HD
-http://line.now-ott.xyz/451AAD/3f41a2/122269
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="PAYAM",PAYAM
+http://airmaxlive.boats:80/airmaxtv/66554417/1584
 #EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/dasinyamusic.png" tvg-id="" tvg-name="DASINYA MUSIC HD",DASINYA MUSIC HD
-http://line.now-ott.xyz/451AAD/3f41a2/122274
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/4kurdhd.png" tvg-id="" tvg-name="4KURD HD",4KURD HD
-http://line.now-ott.xyz/451AAD/3f41a2/482075
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdchannel.png" tvg-id="" tvg-name="KURD TV HD",KURD TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/482084
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" tvg-id="" tvg-name="WWE HD",WWE HD
-http://line.now-ott.xyz/451AAD/3f41a2/482091
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdmaxpepule.png" tvg-id="" tvg-name="KURDMAX PEPULE FHD",KURDMAX PEPULE FHD
-http://line.now-ott.xyz/451AAD/3f41a2/92876
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/medyahabertv.png" tvg-id="" tvg-name="MEDYA HABER TV",MEDYA HABER TV
-http://line.now-ott.xyz/451AAD/3f41a2/3871
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/aryentv.png" tvg-id="" tvg-name="ARYEN TV",ARYEN TV
-http://line.now-ott.xyz/451AAD/3f41a2/3852
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/medmuzik.png" tvg-id="" tvg-name="MED MUZIK",MED MUZIK
-http://line.now-ott.xyz/451AAD/3f41a2/3869
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/zarok.png" tvg-id="" tvg-name="ZAROK TV",ZAROK TV
-http://line.now-ott.xyz/451AAD/3f41a2/3841
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/zarok.png" tvg-id="" tvg-name="ZAROK (SORANI)",ZAROK (SORANI)
-http://line.now-ott.xyz/451AAD/3f41a2/122194
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kirkuk.png" tvg-id="" tvg-name="KIRKUK TV",KIRKUK TV
-http://line.now-ott.xyz/451AAD/3f41a2/3843
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/bangxwazenbadinan.png" tvg-id="" tvg-name="BANGAWAZ TV",BANGAWAZ TV
-http://line.now-ott.xyz/451AAD/3f41a2/90603
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/sahar.png" tvg-id="" tvg-name="SAHAR KURDI",SAHAR KURDI
-http://line.now-ott.xyz/451AAD/3f41a2/92178
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/utv.png" tvg-id="" tvg-name="U TV",U TV
-http://line.now-ott.xyz/451AAD/3f41a2/89640
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/galikurdistan.png" tvg-id="" tvg-name="GALI KURDISTAN",GALI KURDISTAN
-http://line.now-ott.xyz/451AAD/3f41a2/122190
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/gelikurdistan.png" tvg-id="" tvg-name="GELI KURDISTAN TV HD",GELI KURDISTAN TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/598476
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/bangxwazenbadinan.png" tvg-id="" tvg-name="BANGXWAZEN BADINAN TV",BANGXWAZEN BADINAN TV
-http://line.now-ott.xyz/451AAD/3f41a2/598477
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/sima.png" tvg-id="" tvg-name="SIMA HD",SIMA HD
-http://line.now-ott.xyz/451AAD/3f41a2/598489
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/eurokurd.png" tvg-id="" tvg-name="EURO KURD HD",EURO KURD HD
-http://line.now-ott.xyz/451AAD/3f41a2/598501
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/derintv.png" tvg-id="" tvg-name="AZHIN TV",AZHIN TV
-http://line.now-ott.xyz/451AAD/3f41a2/598504
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/derintv.png" tvg-id="" tvg-name="DERIN TV",DERIN TV
-http://line.now-ott.xyz/451AAD/3f41a2/598509
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/shakrokkids.png" tvg-id="" tvg-name="SHAKROK TV",SHAKROK TV
-http://line.now-ott.xyz/451AAD/3f41a2/598514
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/sadatv.png" tvg-id="" tvg-name="SADA TV",SADA TV
-http://line.now-ott.xyz/451AAD/3f41a2/598517
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/kurdchannel.png" tvg-id="" tvg-name="KURD CHANNEL",KURD CHANNEL
-http://line.now-ott.xyz/451AAD/3f41a2/598518
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/jamawartv.png" tvg-id="" tvg-name="JAMAWAR TV",JAMAWAR TV
-http://line.now-ott.xyz/451AAD/3f41a2/741923
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/asteradocumentary.png" tvg-id="" tvg-name="ASTERA DOCUMENTARY HD",ASTERA DOCUMENTARY HD
-http://line.now-ott.xyz/451AAD/3f41a2/741929
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/derwazetv.png" tvg-id="" tvg-name="DERWAZE MUSIC HD",DERWAZE MUSIC HD
-http://line.now-ott.xyz/451AAD/3f41a2/741931
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="NEWLINE DRAMA HD",NEWLINE DRAMA HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443623
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/newline.png" tvg-id="" tvg-name="NEWLINE BOLLYWOOD HD",NEWLINE BOLLYWOOD HD
-http://line.now-ott.xyz/451AAD/3f41a2/741935
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/bmc.png" tvg-id="" tvg-name="BMC HD",BMC HD
-http://line.now-ott.xyz/451AAD/3f41a2/741936
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/afarinkids.png" tvg-id="" tvg-name="AFARIN BAXCHA HD",AFARIN BAXCHA HD
-http://line.now-ott.xyz/451AAD/3f41a2/741937
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/zedtv.png" tvg-id="" tvg-name="ZED PLUS HD",ZED PLUS HD
-http://line.now-ott.xyz/451AAD/3f41a2/741941
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="https://img.logo-cdn.cc/srusht.png" tvg-id="" tvg-name="SRUSHT",SRUSHT
-http://line.now-ott.xyz/451AAD/3f41a2/771666
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN DRAMA SD",MMN DRAMA SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443591
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN ACTION HD",MMN ACTION HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443592
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN CLASSIC MUSICAL SD",MMN CLASSIC MUSICAL SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443625
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN DOCUMENTARY FHD",MMN DOCUMENTARY FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443626
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN SHOW HD",MMN SHOW HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443628
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN RADIO TURKEY HD",MMN RADIO TURKEY HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443646
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN NEWS SD",MMN NEWS SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443649
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN CLIP SD",MMN CLIP SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443654
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MMN FARSE HD",MMN FARSE HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443667
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BARIN FAMILY FHD",BARIN FAMILY FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443599
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BARIN QURAN FHD",BARIN QURAN FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443601
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ARO FAMILY HD",ARO FAMILY HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443587
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ARO DRAMA HD",ARO DRAMA HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443658
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="RONAHI TV FHD",RONAHI TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443581
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="CHANNEL 8 FHD",CHANNEL 8 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443582
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="KURDMAX SHOW KURMANCI HD",KURDMAX SHOW KURMANCI HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443583
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="WAAR HD",WAAR HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443586
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ZAXO TV FHD",ZAXO TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443588
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="NEXT FHD",NEXT FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443589
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BNAR HD",BNAR HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443593
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ZNAR HD",ZNAR HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443594
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="KALAPUR TV HD",KALAPUR TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443595
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="HALABJA HD",HALABJA HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443596
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BAHA ENTERTAINMENT FHD",BAHA ENTERTAINMENT FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443597
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="RANYA FHD",RANYA FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443598
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="NUBAR HD",NUBAR HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443602
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="NUBAR PLUS HD",NUBAR PLUS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443603
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ALYAUM TV FHD",ALYAUM TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443605
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="NEU TV SD",NEU TV SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443606
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="KOMAL KOYA FHD",KOMAL KOYA FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443607
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BINER TV HD",BINER TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443608
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BABOLY HD",BABOLY HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443609
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ALA HD",ALA HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443610
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MINARA HD",MINARA HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443611
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ASHTI HD",ASHTI HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443612
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="JOJO MAMA FHD",JOJO MAMA FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443613
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="IRIB KORDESTAN TV SD",IRIB KORDESTAN TV SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443614
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="GEWHER TV FHD",GEWHER TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443615
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="KOMAL RANYA HD",KOMAL RANYA HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443616
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ZEVER TV FHD",ZEVER TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443617
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="AMED TV HD",AMED TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443618
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="MIHRAB HD",MIHRAB HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443619
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ARIFAN FHD",ARIFAN FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443620
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="RASOUL ALLAH TV FHD",RASOUL ALLAH TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443621
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="NISHTIMAN MN HD",NISHTIMAN MN HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443624
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="CIHAN HD",CIHAN HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443630
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="U2 TV HD",U2 TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443631
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="SHAR TV HD",SHAR TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443632
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="REVEND HD",REVEND HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443633
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BK4 HD",BK4 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443634
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="LAWAN FHD",LAWAN FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443636
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="TASAWAF HD",TASAWAF HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443637
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="EMAN TV HD",EMAN TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443638
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ROJGAR TV HD",ROJGAR TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443639
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="BASK TV HD",BASK TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443640
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="DIMEN TV HD",DIMEN TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443641
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ZHYAR TV HD",ZHYAR TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443642
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="SOZ HD",SOZ HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443643
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="KHAK TV SD",KHAK TV SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443648
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="FOX HD",FOX HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443655
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="SPEDA DRAMA FHD",SPEDA DRAMA FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443656
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="ONE TV HD",ONE TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443659
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="PELISTANK HD",PELISTANK HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443663
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="KURD7 HD",KURD7 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443665
-#EXTGRP:KURDISH
-#EXTINF:-1 group-title="KURDISH" tvg-logo="" tvg-id="" tvg-name="AVAR TV HD",AVAR TV HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443666
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="https://img.logo-cdn.cc/asteramovies.png" tvg-id="" tvg-name="ASTERA MOVIES",ASTERA MOVIES
-http://line.now-ott.xyz/451AAD/3f41a2/89682
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="https://img.logo-cdn.cc/nigamovies.png" tvg-id="" tvg-name="NIGA MOVIES HD",NIGA MOVIES HD
-http://line.now-ott.xyz/451AAD/3f41a2/89649
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="https://img.logo-cdn.cc/newline.png" tvg-id="" tvg-name="NEWLINE MOVIES HD",NEWLINE MOVIES HD
-http://line.now-ott.xyz/451AAD/3f41a2/741933
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="" tvg-id="" tvg-name="MMN MOVIES SD",MMN MOVIES SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443590
-#EXTGRP:Kurdish Movies
-#EXTINF:-1 group-title="Kurdish Movies" tvg-logo="" tvg-id="" tvg-name="BARIN MOVIES FHD",BARIN MOVIES FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443600
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="https://img.logo-cdn.cc/asterasport.png" tvg-id="" tvg-name="ASTERA SPORT",ASTERA SPORT
-http://line.now-ott.xyz/451AAD/3f41a2/89680
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="ASTERA SPORT 2 HD",ASTERA SPORT 2 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443653
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="https://img.logo-cdn.cc/dasinyasport.png" tvg-id="" tvg-name="DASINYA SPORT HD",DASINYA SPORT HD
-http://line.now-ott.xyz/451AAD/3f41a2/122248
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="https://img.logo-cdn.cc/duhoksports.png" tvg-id="" tvg-name="DUHOK SPORTS ",DUHOK SPORTS 
-http://line.now-ott.xyz/451AAD/3f41a2/549136
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="https://img.logo-cdn.cc/nrtsport.png" tvg-id="" tvg-name="NRT SPORT HD",NRT SPORT HD
-http://line.now-ott.xyz/451AAD/3f41a2/741921
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="https://img.logo-cdn.cc/newline.png" tvg-id="" tvg-name="NEWLINE SPORT HD",NEWLINE SPORT HD
-http://line.now-ott.xyz/451AAD/3f41a2/741934
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="https://img.logo-cdn.cc/ldsport.png" tvg-id="" tvg-name="LD SPORT HD",LD SPORT HD
-http://line.now-ott.xyz/451AAD/3f41a2/741939
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="MMN SPORT HD",MMN SPORT HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443635
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="ARO SPORT HD",ARO SPORT HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443661
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="ASO SPORT FHD",ASO SPORT FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443647
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="GOOL SPORTS HD",GOOL SPORTS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443651
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="MTV SPORTS HD",MTV SPORTS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443657
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="AVA SPORTS HD",AVA SPORTS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443662
-#EXTGRP:Kurdish Sport
-#EXTINF:-1 group-title="Kurdish Sport" tvg-logo="" tvg-id="" tvg-name="KURDISTAN SPORTS FHD",KURDISTAN SPORTS FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443664
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 1 HD S1",BEIN ▎BEIN SPORTS 1 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897661
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 1 HD S2",BEIN ▎BEIN SPORTS 1 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968435
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 1 HD S3",BEIN ▎BEIN SPORTS 1 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897732
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 2 HD S1",BEIN ▎BEIN SPORTS 2 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897662
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 2 HD S2",BEIN ▎BEIN SPORTS 2 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968436
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 2 HD S3",BEIN ▎BEIN SPORTS 2 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897733
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 3 HD S1",BEIN ▎BEIN SPORTS 3 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897663
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 3 HD S2",BEIN ▎BEIN SPORTS 3 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968437
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 3 HD S3",BEIN ▎BEIN SPORTS 3 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897734
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 4 HD S1",BEIN ▎BEIN SPORTS 4 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897664
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 4 HD S2",BEIN ▎BEIN SPORTS 4 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968438
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 4 HD S3",BEIN ▎BEIN SPORTS 4 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897735
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 5 HD S1",BEIN ▎BEIN SPORTS 5 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897665
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 5 HD S2",BEIN ▎BEIN SPORTS 5 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968439
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 5 HD S3",BEIN ▎BEIN SPORTS 5 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897736
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 6 HD S1",BEIN ▎BEIN SPORTS 6 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897666
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 6 HD S2",BEIN ▎BEIN SPORTS 6 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968440
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 6 HD S3",BEIN ▎BEIN SPORTS 6 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897737
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 7 HD S1",BEIN ▎BEIN SPORTS 7 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897667
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 7 HD S2",BEIN ▎BEIN SPORTS 7 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968441
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 7 HD S3",BEIN ▎BEIN SPORTS 7 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897738
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 8 HD S1",BEIN ▎BEIN SPORTS 8 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897668
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 8 HD S2",BEIN ▎BEIN SPORTS 8 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968442
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 8 HD S3",BEIN ▎BEIN SPORTS 8 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897739
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 9 HD S1",BEIN ▎BEIN SPORTS 9 HD S1
-http://line.now-ott.xyz/451AAD/3f41a2/897669
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 9 HD S2",BEIN ▎BEIN SPORTS 9 HD S2
-http://line.now-ott.xyz/451AAD/3f41a2/968443
-#EXTGRP:BEIN SPORTS HD
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" tvg-id="" tvg-name="BEIN ▎BEIN SPORTS 9 HD S3",BEIN ▎BEIN SPORTS 9 HD S3
-http://line.now-ott.xyz/451AAD/3f41a2/897740
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc.png" tvg-id="" tvg-name="AR ▎SSC UHD",AR ▎SSC UHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498695
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc1.png" tvg-id="" tvg-name="AR ▎SSC 1 VIP",AR ▎SSC 1 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660654
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc2.png" tvg-id="" tvg-name="AR ▎SSC 2 VIP",AR ▎SSC 2 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660655
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc3.png" tvg-id="" tvg-name="AR ▎SSC 3 VIP",AR ▎SSC 3 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660657
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc4.png" tvg-id="" tvg-name="AR ▎SSC 4 VIP",AR ▎SSC 4 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660658
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc5.png" tvg-id="" tvg-name="AR ▎SSC 5 VIP",AR ▎SSC 5 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660660
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra1.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 1 VIP",AR ▎SSC EXTRA 1 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660648
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra2.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 2 VIP",AR ▎SSC EXTRA 2 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660649
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra3.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 3 VIP",AR ▎SSC EXTRA 3 VIP
-http://line.now-ott.xyz/451AAD/3f41a2/660651
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc1.png" tvg-id="" tvg-name="AR ▎SSC 1 4K",AR ▎SSC 1 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077569
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc2.png" tvg-id="" tvg-name="AR ▎SSC 2 4K",AR ▎SSC 2 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077568
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc3.png" tvg-id="" tvg-name="AR ▎SSC 3 4K",AR ▎SSC 3 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077567
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc4.png" tvg-id="" tvg-name="AR ▎SSC 4 4K",AR ▎SSC 4 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077566
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc5.png" tvg-id="" tvg-name="AR ▎SSC 5 4K",AR ▎SSC 5 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077565
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra1.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 1 4K",AR ▎SSC EXTRA 1 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077572
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra2.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 2 4K",AR ▎SSC EXTRA 2 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077546
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra3.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 3 4K",AR ▎SSC EXTRA 3 4K
-http://line.now-ott.xyz/451AAD/3f41a2/1077571
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc1.png" tvg-id="" tvg-name="AR ▎SSC 1 FHD",AR ▎SSC 1 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498690
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc2.png" tvg-id="" tvg-name="AR ▎SSC 2 FHD",AR ▎SSC 2 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498691
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc3.png" tvg-id="" tvg-name="AR ▎SSC 3 FHD",AR ▎SSC 3 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498692
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc4.png" tvg-id="" tvg-name="AR ▎SSC 4 FHD",AR ▎SSC 4 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498693
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc5.png" tvg-id="" tvg-name="AR ▎SSC 5 FHD",AR ▎SSC 5 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498694
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra1.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 1 FHD",AR ▎SSC EXTRA 1 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498687
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra2.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 2 FHD",AR ▎SSC EXTRA 2 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498688
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra3.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 3 FHD",AR ▎SSC EXTRA 3 FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1498689
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc1.png" tvg-id="" tvg-name="AR ▎SSC 1 HD",AR ▎SSC 1 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1445895
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc2.png" tvg-id="" tvg-name="AR ▎SSC 2 HD",AR ▎SSC 2 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1445894
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc3.png" tvg-id="" tvg-name="AR ▎SSC 3 HD",AR ▎SSC 3 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1445893
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc4.png" tvg-id="" tvg-name="AR ▎SSC 4 HD",AR ▎SSC 4 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1445892
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc5.png" tvg-id="" tvg-name="AR ▎SSC 5 HD",AR ▎SSC 5 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1445891
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra1.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 1 HD",AR ▎SSC EXTRA 1 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1077548
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra2.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 2 HD",AR ▎SSC EXTRA 2 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1077544
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra3.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 3 HD",AR ▎SSC EXTRA 3 HD
-http://line.now-ott.xyz/451AAD/3f41a2/1445896
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc1.png" tvg-id="" tvg-name="AR ▎SSC 1 SD",AR ▎SSC 1 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498040
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc2.png" tvg-id="" tvg-name="AR ▎SSC 2 SD",AR ▎SSC 2 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498041
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc3.png" tvg-id="" tvg-name="AR ▎SSC 3 SD",AR ▎SSC 3 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498675
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc4.png" tvg-id="" tvg-name="AR ▎SSC 4 SD",AR ▎SSC 4 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498676
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/ssc5.png" tvg-id="" tvg-name="AR ▎SSC 5 SD",AR ▎SSC 5 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498677
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra1.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 1 SD",AR ▎SSC EXTRA 1 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498037
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra2.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 2 SD",AR ▎SSC EXTRA 2 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498038
-#EXTGRP:SSC SPORTS
-#EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://img.logo-cdn.cc/sscextra3.png" tvg-id="" tvg-name="AR ▎SSC EXTRA 3 SD",AR ▎SSC EXTRA 3 SD
-http://line.now-ott.xyz/451AAD/3f41a2/1498039
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/jeemtv.png" tvg-id="" tvg-name="AR ▎JEEM KIDS HD",AR ▎JEEM KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1051
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/baraemtv.png" tvg-id="" tvg-name="AR ▎BARAEM KIDS HD",AR ▎BARAEM KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1049
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/atfalandmawaheb.png" tvg-id="" tvg-name="AR ▎ATFAL & MAWAHEB",AR ▎ATFAL & MAWAHEB
-http://line.now-ott.xyz/451AAD/3f41a2/2223
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/hodhodarabic.png" tvg-id="" tvg-name="AR ▎HOD HOD TV",AR ▎HOD HOD TV
-http://line.now-ott.xyz/451AAD/3f41a2/1048
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/majid.png" tvg-id="" tvg-name="AR ▎AL MAJD KIDS HD",AR ▎AL MAJD KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1863
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/spacetoon.png" tvg-id="" tvg-name="AR ▎SPACETOON",AR ▎SPACETOON
-http://line.now-ott.xyz/451AAD/3f41a2/1047
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/toyoraljanah.png" tvg-id="" tvg-name="AR ▎TOYOR ALJANAH",AR ▎TOYOR ALJANAH
-http://line.now-ott.xyz/451AAD/3f41a2/134259
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" tvg-id="" tvg-name="AR ▎CARTOON NETWORK",AR ▎CARTOON NETWORK
-http://line.now-ott.xyz/451AAD/3f41a2/1270
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="" tvg-id="" tvg-name="AR ▎TAHA KIDS",AR ▎TAHA KIDS
-http://line.now-ott.xyz/451AAD/3f41a2/1458351
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/nrt3kids.png" tvg-id="" tvg-name="NRT 3 KIDS",NRT 3 KIDS
-http://line.now-ott.xyz/451AAD/3f41a2/3875
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/nigakids.png" tvg-id="" tvg-name="NIGA KIDS HD",NIGA KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/89650
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="" tvg-id="" tvg-name="RENG KIDS HD",RENG KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443622
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/dasinyakids.png" tvg-id="" tvg-name="DASINYA KIDS HD",DASINYA KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/122271
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/afarinkids.png" tvg-id="" tvg-name="AFARIN KIDS tv",AFARIN KIDS tv
-http://line.now-ott.xyz/451AAD/3f41a2/122275
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.logo-cdn.cc/newline.png" tvg-id="" tvg-name="NEWLINE KIDS HD",NEWLINE KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/741932
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="" tvg-id="" tvg-name="MMN KIDS SD",MMN KIDS SD
-http://line.now-ott.xyz/451AAD/3f41a2/1443627
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="" tvg-id="" tvg-name="ARO KIDS HD",ARO KIDS HD
-http://line.now-ott.xyz/451AAD/3f41a2/1443660
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="" tvg-id="" tvg-name="KIDCO FHD",KIDCO FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443629
-#EXTGRP:KIDS
-#EXTINF:-1 group-title="KIDS" tvg-logo="" tvg-id="" tvg-name="FIRST KIDS TV FHD",FIRST KIDS TV FHD
-http://line.now-ott.xyz/451AAD/3f41a2/1443652
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="RAM-TV",RAM-TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1585
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="halabjatv",halabjatv
+http://airmaxlive.boats:80/airmaxtv/66554417/1586
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="bangawaz TV",bangawaz TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1587
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="istar folklor",istar folklor
+http://airmaxlive.boats:80/airmaxtv/66554417/1588
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="Sahar Kurdi",Sahar Kurdi
+http://airmaxlive.boats:80/airmaxtv/66554417/1589
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="LIVE 24 SPORT GLOBAL HD",LIVE 24 SPORT GLOBAL HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1590
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="ALA HD",ALA HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1592
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="BEFRIN",BEFRIN
+http://airmaxlive.boats:80/airmaxtv/66554417/1593
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="AVAR TV",AVAR TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1594
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="KURD7 HD",KURD7 HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1595
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="KIDCO HD",KIDCO HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1596
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="FARMODA TV",FARMODA TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1597
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="SHAR TV",SHAR TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1598
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="IMKQURAN HD",IMKQURAN HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1599
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="GEWHER-HD",GEWHER-HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1600
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="TOWHEED TV",TOWHEED TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1601
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="RASOULALLAH TV",RASOULALLAH TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1602
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="EMAN TV",EMAN TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1603
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="HORMZYAR HD",HORMZYAR HD
+http://airmaxlive.boats:80/airmaxtv/66554417/1604
+#EXTGRP:KURDISH
+#EXTINF:-1 group-title="KURDISH" tvg-logo="https://bit.ly/3Lvf8T3" tvg-id="" tvg-name="ASHTI TV",ASHTI TV
+http://airmaxlive.boats:80/airmaxtv/66554417/1605
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/CL22wwo.png" tvg-id="" tvg-name="Asharq Documentary HD",Asharq Documentary HD
+http://airmaxlive.boats:80/airmaxtv/66554417/896
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/yszVEyu.png" tvg-id="" tvg-name="Asharq Discovery HD",Asharq Discovery HD
+http://airmaxlive.boats:80/airmaxtv/66554417/897
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="ALJazeera الجزيرة الوثائقية (Backup 0)🏞️",ALJazeera الجزيرة الوثائقية (Backup 0)🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/898
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="ALJazeera الجزيرة الوثائقية (Backup 1)🏞️",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/899
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="ALJazeera الجزيرة الوثائقية (Backup 2)🏞️",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/900
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="Al Jazeera Documentary (Backup 3)🏞️",Al Jazeera Documentary (Backup 3)🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/901
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="Al Jazeera Documentary (Backup 4)🏞️",Al Jazeera Documentary (Backup 4)🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/902
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="Al Jazeera Documentary (Backup 5)🏞️",Al Jazeera Documentary (Backup 5)🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/903
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3oD1SxQ" tvg-id="ext" tvg-name="ALJazeera 🏞️الجزيرة الوثائقية",ALJazeera 🏞️الجزيرة الوثائقية
+http://airmaxlive.boats:80/airmaxtv/66554417/904
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3pDuVmi" tvg-id="ext" tvg-name="National Geographic Abu Dhabi Backup 1)",National Geographic Abu Dhabi Backup 1)
+http://airmaxlive.boats:80/airmaxtv/66554417/905
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/ULfeXDk.png" tvg-id="" tvg-name="National Geographic Abu Dhabi HD",National Geographic Abu Dhabi HD
+http://airmaxlive.boats:80/airmaxtv/66554417/906
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3iBPMUk" tvg-id="ext" tvg-name="Oman 🏞️الوثائقية",Oman 🏞️الوثائقية
+http://airmaxlive.boats:80/airmaxtv/66554417/907
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/367w2Tw" tvg-id="ext" tvg-name="Kaifa TV🏞️",Kaifa TV🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/908
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/u8yoawo.png" tvg-id="" tvg-name="Love Natrue 4K",Love Natrue 4K
+http://airmaxlive.boats:80/airmaxtv/66554417/909
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/lezbxwH.png" tvg-id="" tvg-name="Natrue Time HD",Natrue Time HD
+http://airmaxlive.boats:80/airmaxtv/66554417/910
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/XOGowIn.png" tvg-id="" tvg-name="Animal Planet HD",Animal Planet HD
+http://airmaxlive.boats:80/airmaxtv/66554417/911
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-id="" tvg-name="Outdoor Channel HD",Outdoor Channel HD
+http://airmaxlive.boats:80/airmaxtv/66554417/912
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://i.imgur.com/cltzGd4.png" tvg-id="" tvg-name="History HD",History HD
+http://airmaxlive.boats:80/airmaxtv/66554417/913
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/4bSHpxW" tvg-id="" tvg-name="Akwarium 4K",Akwarium 4K
+http://airmaxlive.boats:80/airmaxtv/66554417/914
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/3vZOXft" tvg-id="ext" tvg-name="Animaux🏞️",Animaux🏞️
+http://airmaxlive.boats:80/airmaxtv/66554417/915
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" tvg-id="" tvg-name="DocuBox",DocuBox
+http://airmaxlive.boats:80/airmaxtv/66554417/916
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" tvg-id="TheBoatShow.us" tvg-name="🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]",🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]
+http://airmaxlive.boats:80/airmaxtv/66554417/917
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png" tvg-id="localnow_True History" tvg-name="🇺🇸 ➾ True Historyᴴᴰ [Localnow]",🇺🇸 ➾ True Historyᴴᴰ [Localnow]
+http://airmaxlive.boats:80/airmaxtv/66554417/918
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg" tvg-id="DistroTV_True History" tvg-name="🇺🇸 ➾ True History [Distrotv]",🇺🇸 ➾ True History [Distrotv]
+http://airmaxlive.boats:80/airmaxtv/66554417/919
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" tvg-id="" tvg-name="🇫🇷 ➾ Nature Time [Pluto]",🇫🇷 ➾ Nature Time [Pluto]
+http://airmaxlive.boats:80/airmaxtv/66554417/920
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://bit.ly/wildplanett" tvg-id="" tvg-name="🇺🇸 ➾ Wild Planetᴴᴰ [Plex]",🇺🇸 ➾ Wild Planetᴴᴰ [Plex]
+http://airmaxlive.boats:80/airmaxtv/66554417/921
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png" tvg-id="" tvg-name="🇺🇸 ➾ WildEarthᴴᴰ [Plex]",🇺🇸 ➾ WildEarthᴴᴰ [Plex]
+http://airmaxlive.boats:80/airmaxtv/66554417/922
+#EXTGRP:documentary الوثائقية
+#EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-discover-720p/normal.png" tvg-id="" tvg-name="🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]",🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]
+http://airmaxlive.boats:80/airmaxtv/66554417/923
+#EXTM3U
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" tvg-id="" tvg-name="beIN Sports 1",beIN Sports 1
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/1.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" tvg-id="" tvg-name="beIN Sports 2",beIN Sports 2
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/2.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" tvg-id="" tvg-name="beIN Sports 3",beIN Sports 3
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/3.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="" tvg-id="" tvg-name="BeIN Sports 7 HD",BeIN Sports 7 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/4.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN Sports 2 ",beIN Sports 2 
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/15.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN Sports 3 ",beIN Sports 3 
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/16.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN 4 FHD",beIN 4 FHD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/17.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN 5 HD",beIN 5 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/18.m3u8
+#EXTGRP:beIN Sports  بي ان سبورت
+#EXTINF:-1 group-title="beIN Sports  بي ان سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" tvg-id="" tvg-name="beIN 6 HD",beIN 6 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/19.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 1 HD",SSC 1 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/5.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 2 HD",SSC 2 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/6.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 3 HD",SSC 3 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/7.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 5 HD",SSC 5 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/8.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC 4 HD",SSC 4 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/9.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC-EXTRA 1 HD",SSC-EXTRA 1 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/10.m3u8
+#EXTGRP:SSC قنوات اس اس سي
+#EXTINF:-1 group-title="SSC قنوات اس اس سي" tvg-logo="" tvg-id="" tvg-name="SSC-EXTRA 2 HD",SSC-EXTRA 2 HD
+http://xtream-ie.com:80/mo3ad7720/mo3ad7720/11.m3u8
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="BEIN SPORT⚽️",BEIN SPORT⚽️
+http://airmaxlive.boats:80/airmaxtv/66554417/10
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg" tvg-id="" tvg-name="beIN SPORTS NEWS",beIN SPORTS NEWS
+http://airmaxlive.boats:80/airmaxtv/66554417/12
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://alkhabarkw.com/wp-content/uploads/2024/09/Resizer_17269345810371.jpeg" tvg-id="" tvg-name="beIN SPORTS HD",beIN SPORTS HD
+http://airmaxlive.boats:80/airmaxtv/66554417/13
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -0",LIVE 24 -0
+http://airmaxlive.boats:80/airmaxtv/66554417/14
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -0",LIVE 24 -0
+http://airmaxlive.boats:80/airmaxtv/66554417/15
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -0",LIVE 24 -0
+http://airmaxlive.boats:80/airmaxtv/66554417/16
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -0",LIVE 24 -0
+http://airmaxlive.boats:80/airmaxtv/66554417/17
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -0",LIVE 24 -0
+http://airmaxlive.boats:80/airmaxtv/66554417/18
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -0",LIVE 24 -0
+http://airmaxlive.boats:80/airmaxtv/66554417/19
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -01",LIVE 24 -01
+http://airmaxlive.boats:80/airmaxtv/66554417/20
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -02",LIVE 24 -02
+http://airmaxlive.boats:80/airmaxtv/66554417/21
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -03",LIVE 24 -03
+http://airmaxlive.boats:80/airmaxtv/66554417/22
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -04",LIVE 24 -04
+http://airmaxlive.boats:80/airmaxtv/66554417/23
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -05",LIVE 24 -05
+http://airmaxlive.boats:80/airmaxtv/66554417/24
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -06",LIVE 24 -06
+http://airmaxlive.boats:80/airmaxtv/66554417/25
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -07",LIVE 24 -07
+http://airmaxlive.boats:80/airmaxtv/66554417/26
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -08",LIVE 24 -08
+http://airmaxlive.boats:80/airmaxtv/66554417/27
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -09",LIVE 24 -09
+http://airmaxlive.boats:80/airmaxtv/66554417/28
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -10",LIVE 24 -10
+http://airmaxlive.boats:80/airmaxtv/66554417/29
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -11",LIVE 24 -11
+http://airmaxlive.boats:80/airmaxtv/66554417/30
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -012",LIVE 24 -012
+http://airmaxlive.boats:80/airmaxtv/66554417/31
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -013",LIVE 24 -013
+http://airmaxlive.boats:80/airmaxtv/66554417/32
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -014",LIVE 24 -014
+http://airmaxlive.boats:80/airmaxtv/66554417/33
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -015",LIVE 24 -015
+http://airmaxlive.boats:80/airmaxtv/66554417/34
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -16",LIVE 24 -16
+http://airmaxlive.boats:80/airmaxtv/66554417/35
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -17",LIVE 24 -17
+http://airmaxlive.boats:80/airmaxtv/66554417/36
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -18",LIVE 24 -18
+http://airmaxlive.boats:80/airmaxtv/66554417/37
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -19",LIVE 24 -19
+http://airmaxlive.boats:80/airmaxtv/66554417/38
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -20",LIVE 24 -20
+http://airmaxlive.boats:80/airmaxtv/66554417/39
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -21",LIVE 24 -21
+http://airmaxlive.boats:80/airmaxtv/66554417/40
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -22",LIVE 24 -22
+http://airmaxlive.boats:80/airmaxtv/66554417/41
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -23",LIVE 24 -23
+http://airmaxlive.boats:80/airmaxtv/66554417/42
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="LIVE 24 -24",LIVE 24 -24
+http://airmaxlive.boats:80/airmaxtv/66554417/43
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1
+http://airmaxlive.boats:80/airmaxtv/66554417/44
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2
+http://airmaxlive.boats:80/airmaxtv/66554417/45
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3
+http://airmaxlive.boats:80/airmaxtv/66554417/46
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4
+http://airmaxlive.boats:80/airmaxtv/66554417/47
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 5‏",BEIN SPORTS 5‏
+http://airmaxlive.boats:80/airmaxtv/66554417/48
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 6",BEIN SPORTS 6
+http://airmaxlive.boats:80/airmaxtv/66554417/49
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 7",BEIN SPORTS 7
+http://airmaxlive.boats:80/airmaxtv/66554417/50
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv" tvg-id="" tvg-name="BEIN SPORTS 8",BEIN SPORTS 8
+http://airmaxlive.boats:80/airmaxtv/66554417/51
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3Uh0jsI" tvg-id="ext" tvg-name="BEIN SPORT 1",BEIN SPORT 1
+http://airmaxlive.boats:80/airmaxtv/66554417/52
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3W2zIB2" tvg-id="ext" tvg-name="BEIN SPORT 2",BEIN SPORT 2
+http://airmaxlive.boats:80/airmaxtv/66554417/53
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/49G8YcH" tvg-id="ext" tvg-name="BEIN SPORT 3",BEIN SPORT 3
+http://airmaxlive.boats:80/airmaxtv/66554417/54
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 1",BEIN SPORTS MENA 1
+http://airmaxlive.boats:80/airmaxtv/66554417/55
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 2",BEIN SPORTS MENA 2
+http://airmaxlive.boats:80/airmaxtv/66554417/56
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 3",BEIN SPORTS MENA 3
+http://airmaxlive.boats:80/airmaxtv/66554417/57
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 3",BEIN SPORTS MENA 3
+http://airmaxlive.boats:80/airmaxtv/66554417/58
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 4",BEIN SPORTS MENA 4
+http://airmaxlive.boats:80/airmaxtv/66554417/59
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 5",BEIN SPORTS MENA 5
+http://airmaxlive.boats:80/airmaxtv/66554417/60
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 6",BEIN SPORTS MENA 6
+http://airmaxlive.boats:80/airmaxtv/66554417/61
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 7",BEIN SPORTS MENA 7
+http://airmaxlive.boats:80/airmaxtv/66554417/62
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 8",BEIN SPORTS MENA 8
+http://airmaxlive.boats:80/airmaxtv/66554417/63
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="" tvg-id="ext" tvg-name="BEIN SPORTS MENA 9",BEIN SPORTS MENA 9
+http://airmaxlive.boats:80/airmaxtv/66554417/64
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj" tvg-id="" tvg-name="NUBAR SPORT HD",NUBAR SPORT HD
+http://airmaxlive.boats:80/airmaxtv/66554417/65
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj" tvg-id="" tvg-name="SPORT HD",SPORT HD
+http://airmaxlive.boats:80/airmaxtv/66554417/66
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj" tvg-id="" tvg-name="SPORT OUTDOOR HD",SPORT OUTDOOR HD
+http://airmaxlive.boats:80/airmaxtv/66554417/67
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj" tvg-id="" tvg-name="NUBARSport",NUBARSport
+http://airmaxlive.boats:80/airmaxtv/66554417/68
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3Uh0jsI" tvg-id="ext" tvg-name="Bien sport 1 🇶🇦 1280x720",Bien sport 1 🇶🇦 1280x720
+http://airmaxlive.boats:80/airmaxtv/66554417/18053
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3Uh0jsI" tvg-id="ext" tvg-name="Bien sport 1 🇶🇦 854x480",Bien sport 1 🇶🇦 854x480
+http://airmaxlive.boats:80/airmaxtv/66554417/18054
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3W2zIB2" tvg-id="ext" tvg-name="BEIN SPORT 2 🇶🇦 1280x720",BEIN SPORT 2 🇶🇦 1280x720
+http://airmaxlive.boats:80/airmaxtv/66554417/18055
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3W2zIB2" tvg-id="ext" tvg-name="BEIN SPORT 2 🇶🇦 854x480",BEIN SPORT 2 🇶🇦 854x480
+http://airmaxlive.boats:80/airmaxtv/66554417/18056
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3W2zIB2" tvg-id="ext" tvg-name="BEIN SPORT 2 🇶🇦 426x240",BEIN SPORT 2 🇶🇦 426x240
+http://airmaxlive.boats:80/airmaxtv/66554417/18057
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" tvg-id="ext" tvg-name="Bien sport 3 🇶🇦 1280x720",Bien sport 3 🇶🇦 1280x720
+http://airmaxlive.boats:80/airmaxtv/66554417/18059
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" tvg-id="ext" tvg-name="Bien sport 3 🇶🇦 854x480",Bien sport 3 🇶🇦 854x480
+http://airmaxlive.boats:80/airmaxtv/66554417/18060
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" tvg-id="ext" tvg-name="Bien sport 3 🇶🇦 426x240",Bien sport 3 🇶🇦 426x240
+http://airmaxlive.boats:80/airmaxtv/66554417/18061
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3xKL7em" tvg-id="ext" tvg-name="BEIN SPORT 4 🇶🇦",BEIN SPORT 4 🇶🇦
+http://airmaxlive.boats:80/airmaxtv/66554417/18062
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/49TQJkd" tvg-id="ext" tvg-name="BEIN SPORT 5 🇶🇦",BEIN SPORT 5 🇶🇦
+http://airmaxlive.boats:80/airmaxtv/66554417/18063
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3JpLJso" tvg-id="ext" tvg-name="BEIN SPORT 6 🇶🇦",BEIN SPORT 6 🇶🇦
+http://airmaxlive.boats:80/airmaxtv/66554417/18064
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" tvg-id="" tvg-name="BEIN SPORTS 7 🇶🇦",BEIN SPORTS 7 🇶🇦
+http://airmaxlive.boats:80/airmaxtv/66554417/18065
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" tvg-id="" tvg-name="BEIN SPORTS 8 🇶🇦",BEIN SPORTS 8 🇶🇦
+http://airmaxlive.boats:80/airmaxtv/66554417/18066
+#EXTGRP:BEIN SPORT بين سبور
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/49TQJkd" tvg-id="ext" tvg-name="BEIN SPORT 5 🇶🇦",BEIN SPORT 5 🇶🇦
+http://airmaxlive.boats:80/airmaxtv/66554417/18070
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="BEIN SPORT⚽️",BEIN SPORT⚽️
+http://airmaxlive.boats:80/airmaxtv/66554417/328
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="beIN SPORTS 1ᔆᵈ.",beIN SPORTS 1ᔆᵈ.
+http://airmaxlive.boats:80/airmaxtv/66554417/22027
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/d2b0df61a708a19263e4fd86de50b542.png" tvg-id="" tvg-name="BEIN SPORTS 2ᔆᵈ",BEIN SPORTS 2ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22028
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 3ᔆᵈ",BEIN SPORTS 3ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22029
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 4ᔆᵈ",BEIN SPORTS 4ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22030
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 4ᔆᵈ.",BEIN SPORTS 4ᔆᵈ.
+http://airmaxlive.boats:80/airmaxtv/66554417/22031
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 5ᔆᵈ",BEIN SPORTS 5ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22032
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/d2b0df61a708a19263e4fd86de50b542.png" tvg-id="" tvg-name="BEIN SPORTS 6ᔆᵈ",BEIN SPORTS 6ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22033
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 7ᔆᵈ",BEIN SPORTS 7ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22034
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 8ᔆᵈ",BEIN SPORTS 8ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22035
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 9ᔆᵈ",BEIN SPORTS 9ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22036
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/150e1cbfdcd205ba5d7e8d62db429db2.png" tvg-id="" tvg-name="BEIN SPORTS 10ᔆᵈ",BEIN SPORTS 10ᔆᵈ
+http://airmaxlive.boats:80/airmaxtv/66554417/22037
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="BEIN SPORTS NEWS HD",BEIN SPORTS NEWS HD
+http://airmaxlive.boats:80/airmaxtv/66554417/22038
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="BEIN  SPORTS HD",BEIN  SPORTS HD
+http://airmaxlive.boats:80/airmaxtv/66554417/22039
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="beIN Sport XTRA 1 HD",beIN Sport XTRA 1 HD
+http://airmaxlive.boats:80/airmaxtv/66554417/22040
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="BeIN Sports Extra 2 FHD",BeIN Sports Extra 2 FHD
+http://airmaxlive.boats:80/airmaxtv/66554417/22041
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="Bein Sports English HD1",Bein Sports English HD1
+http://airmaxlive.boats:80/airmaxtv/66554417/22042
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="Bein Sports English HD2",Bein Sports English HD2
+http://airmaxlive.boats:80/airmaxtv/66554417/22043
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="Bein Sports English HD3",Bein Sports English HD3
+http://airmaxlive.boats:80/airmaxtv/66554417/22044
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="BEIN SPORTS French HD1",BEIN SPORTS French HD1
+http://airmaxlive.boats:80/airmaxtv/66554417/22045
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/e7d1cd6f883e3b81e287984e1e31e39f.png" tvg-id="" tvg-name="BEIN SPORTS French HD2",BEIN SPORTS French HD2
+http://airmaxlive.boats:80/airmaxtv/66554417/22046
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/2d77f90861c9971a9c3510042f09dd86.png" tvg-id="" tvg-name="ad sport asia 2 ᴴᴰ",ad sport asia 2 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22047
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/2d77f90861c9971a9c3510042f09dd86.png" tvg-id="" tvg-name="ad sport asia 1 ᴴᴰ",ad sport asia 1 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22048
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/2d77f90861c9971a9c3510042f09dd86.png" tvg-id="" tvg-name="ad sport premium 2 ᴴᴰ",ad sport premium 2 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22049
+#EXTGRP:BEIN SPORT VIP بين سبور
+#EXTINF:-1 group-title="BEIN SPORT VIP بين سبور" tvg-logo="https://airmax.boats:443/images/2d77f90861c9971a9c3510042f09dd86.png" tvg-id="" tvg-name="ad sport premium 1 ᴴᴰ",ad sport premium 1 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22050
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="SPORT CHANNELS",SPORT CHANNELS
+http://airmaxlive.boats:80/airmaxtv/66554417/331
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://bit.ly/3JQfa8u" tvg-id="ext" tvg-name="كيف احصل على الكود",كيف احصل على الكود
+http://airmaxlive.boats:80/airmaxtv/66554417/332
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC 1",SSC 1
+http://airmaxlive.boats:80/airmaxtv/66554417/333
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC 1",SSC 1
+http://airmaxlive.boats:80/airmaxtv/66554417/334
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC News HD",SSC News HD
+http://airmaxlive.boats:80/airmaxtv/66554417/335
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC1",SSC1
+http://airmaxlive.boats:80/airmaxtv/66554417/336
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC5",SSC5
+http://airmaxlive.boats:80/airmaxtv/66554417/337
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC 4 HD",SSC 4 HD
+http://airmaxlive.boats:80/airmaxtv/66554417/338
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC Extra 1",SSC Extra 1
+http://airmaxlive.boats:80/airmaxtv/66554417/339
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" tvg-id="SSC1HD.sa" tvg-name="SSC Extra 2",SSC Extra 2
+http://airmaxlive.boats:80/airmaxtv/66554417/340
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc news ᴴᴰ",ssc news ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22051
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 1 ᴴᴰ",ssc 1 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22052
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 2 ᴴᴰ",ssc 2 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22053
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 3 ᴴᴰ",ssc 3 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22054
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 4 ᴴᴰ",ssc 4 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22055
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 5 ᴴᴰ",ssc 5 ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22056
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 1 extra ᴴᴰ",ssc 1 extra ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22057
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 2 extra ᴴᴰ",ssc 2 extra ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22058
+#EXTGRP:SSC SPORT
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" tvg-id="" tvg-name="ssc 3 extra ᴴᴰ",ssc 3 extra ᴴᴰ
+http://airmaxlive.boats:80/airmaxtv/66554417/22059
