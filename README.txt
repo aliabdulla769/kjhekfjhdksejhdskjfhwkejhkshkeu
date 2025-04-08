@@ -831,8 +831,8 @@ http://forevertv.me:8080/ptcdYX1E3RtYWF/eNr2GkYz0eDfkM/2586
 #EXTINF:-1 group-title="Amazon & Documentary VIP " tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" tvg-id="" tvg-name="AR: Al Jazeera Documentary HD",AR: Al Jazeera Documentary HD
 http://forevertv.me:8080/ptcdYX1E3RtYWF/eNr2GkYz0eDfkM/152192
 #EXTGRP:beIN Sports 4K ⚽
-#EXTINF:-1 group-title="beIN Sports 4K ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News 4K",beIN Sports News 4K
-http://forevertv.me:8080/ptcdYX1E3RtYWF/eNr2GkYz0eDfkM/142770
+#EXTINF:-1 group-title="beIN Sports 4K ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 sd",beIN SPORTS 1 sd
+http://136.243.155.55:8088/faalll/index.m3u8
 #EXTGRP:beIN Sports 4K ⚽
 #EXTINF:-1 group-title="beIN Sports 4K ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 4K",beIN SPORTS 1 4K
 http://forevertv.me:8080/ptcdYX1E3RtYWF/eNr2GkYz0eDfkM/142774
