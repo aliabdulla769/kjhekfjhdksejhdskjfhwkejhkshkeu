@@ -2,8 +2,10 @@
 #EXTGRP:Ali
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein1server3,4k",bein1server3,4k
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/livemixflix/chunks.m3u8
-#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein2server4",bein2server4
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein2server4hd",bein2server4hd
 https://www.sportlo.live/BEIN-2/video.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein1server4hd",bein1server4hd
+https://www.sportlo.live/BEIN-1/video.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,1080",server1,1080
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,720",server1,720
