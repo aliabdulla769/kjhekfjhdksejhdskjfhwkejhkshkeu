@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTGRP:Ali
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein1server3,4k",bein1server3,4k
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/livemixflix/chunks.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein2server4",bein2server4
+https://www.sportlo.live/BEIN-2/video.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,1080",server1,1080
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,720",server1,720
@@ -12,6 +16,10 @@ https://stream.sainaertebat.com/hls2/bein1.m3u8
 https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="Bein2,server1,720",Bein2,server1,720
 https://stream.sainaertebat.com/hls2/bein2.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="AvaSport",AvaSport
+http://136.243.155.55:8088/Avasport12/video.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="NRTSPORT",NRTSPORT
+http://136.243.155.55:8088/xomtv12/index.m3u8
 #EXTGRP:Kurdistan Sport
 #EXTINF:-1 group-title="Kurdistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="KU: NRT Sport",KU: NRT Sport
 http://st1activ.com:80/mohammed07/987455214/358220
