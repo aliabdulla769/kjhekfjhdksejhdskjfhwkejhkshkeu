@@ -14,6 +14,10 @@ https://wo.cma.footballii.ir/hls2/b1_high.m3u8
 https://tv.sainaertebat.com/hls2/bein1.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server2link2,720",server2link2,720
 https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein1server4",bein1server4
+https://customer-nucrel63q2ryn94s.cloudflarestream.com/d6f43aeeaedcc5857c376c25a83ace67/manifest/stream_t166884afd3c9b8caed848f5edd280fba_r1025424336.m3u8?useVODOTFE=false&llhlsHBs=0.9
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="bein2server4",bein2server4
+https://customer-nucrel63q2ryn94s.cloudflarestream.com/d6f43aeeaedcc5857c376c25a83ace67/manifest/stream_t166884afd3c9b8caed848f5edd280fba_r1025424336.m3u8?useVODOTFE=false&llhlsHBs=0.9
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,400",server1,400
 https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
 #EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="Bein2,server1,720",Bein2,server1,720
