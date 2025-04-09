@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTGRP:Ali
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,1080",server1,1080
+https://wo.cma.footballii.ir/hls2/b1_src.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,720",server1,720
+https://wo.cma.footballii.ir/hls2/b1_high.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server2,720",server2,720
+https://tv.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server2link2,720",server2link2,720
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 group-title="Ali" tvg-logo="https://upssload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="server1,400",server1,400
+https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
 #EXTGRP:Kurdistan Sport
 #EXTINF:-1 group-title="Kurdistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" tvg-id="" tvg-name="KU: NRT Sport",KU: NRT Sport
 http://st1activ.com:80/mohammed07/987455214/358220
